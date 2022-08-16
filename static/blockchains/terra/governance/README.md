@@ -13,6 +13,11 @@ This template allows us to do exactly that:
     "smartContractAddress": {
         "name": "",
         "icon": "",             // optional if you want the logo to be shown with the alerts
+        "trigger": {            // Based on the "event logs" section of the TX
+            "type": "",         // Which log index should we look into? eg.: 'execute', 'message', 'wasm', etc.;
+            "key": "",          // The key within the event logs (left side of the table, if looking at Terrascope)
+            "value": ""         // The value that we should find (for the respective key); eg.: 'submit_proposal', 'liquidate', etc.;
+        },
         "fixed_config_obj": {   // optional if the smart contract's 'config' query below already has this info
             "req_token": {
                 "address": "token address",
@@ -32,7 +37,7 @@ This template allows us to do exactly that:
             "threshold": "variable key"
         },
         "url": "",              // optional if every create poll object already has the URL
-        "base64_msg": true,
+        "base64_objs": [],
         "poll_obj": {
             "title": "",
             "description": "",
