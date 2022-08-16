@@ -2,7 +2,12 @@
     "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq": {
         "name": "Astroport",
         "icon": "https://astroport.fi/astro_logo.png",
-        "base64_msg": true,
+        "trigger": {
+            "type": "wasm",
+            "key": "action",
+            "value": "submit_proposal"
+        },
+        "base64_objs": [ "send.msg" ],
         "config_query_obj": {
             "req_token": {
                 "address": "xastro_token_addr",
@@ -13,12 +18,12 @@
             "threshold": "proposal_required_threshold"
         },
         "poll_obj": {
-            "title": "msg.submit_proposal.title",
-            "description": "msg.submit_proposal.description",
-            "url": "msg.submit_proposal.link",
+            "title": "send.msg.submit_proposal.title",
+            "description": "send.msg.submit_proposal.description",
+            "url": "send.msg.submit_proposal.link",
             "extras": [
                 {
-                    "key": "msg.submit_proposal.messages",
+                    "key": "send.msg.submit_proposal.messages",
                     "name": "Prop. Attached Msgs"
                 }
             ]
