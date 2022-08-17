@@ -63,6 +63,6 @@ This template allows us to do exactly that:
 
 ### Projects
 
-| Project   | Submitted | Governance                                         | Live   |
-|-----------|-----------|---------------------------------------------------|--------|
-| Astroport | [✅ open sub.](https://github.com/HermesProtocol-io/assets/blob/main/static/blockchains/terra/governance/projects.json#L2)        | [Gov. Page](https://app.astroport.fi/governance)  | ⏳    |
+| Project   | Submitted | Governance                                         | Live   | Example TX |
+|-----------|-----------|---------------------------------------------------|--------|-----|
+| Astroport | [✅ go to file](https://github.com/HermesProtocol-io/assets/blob/main/static/blockchains/terra/governance/projects.json#L2)        | [Gov. Page](https://app.astroport.fi/governance)  | ⏳    | [Terrascope](https://terrasco.pe/mainnet/tx/B69BF53720A4FCE1F4EDABD49481EEAAA0FD4B27430A3EA86E58765AA1EE7035) |
