@@ -1,0 +1,54 @@
+{
+    "terra": {
+        "name": "Terra",
+        "description": "",
+        "chain_id": "phoenix-1",
+        "icon": "https://github.com/terra-money/assets/blob/master/icon/svg/Terra.svg",
+        "native_tokens": {
+            "denoms" : [
+                "uluna"
+            ]
+        },
+        "folder": "./terra/",
+        "block_URL": "https://terrasco.pe/mainnet/blocks/%block%/",
+        "tx_URL": "https://terrasco.pe/mainnet/tx/%tx%/",
+        "wallet_URL": "https://terrasco.pe/mainnet/address/%address%/"
+    },
+    "terraClassic": {
+        "name": "Terra Classic",
+        "description": "",
+        "chain_id": "columbus-5",
+        "icon": "https://github.com/terra-money/assets/blob/master/icon/svg/TerraClassic.svg",
+        "native_tokens": {
+            "denoms" : [
+                "uluna",
+                "uusd",
+                "uaud",
+                "ucad",
+                "uchf",
+                "ucny",
+                "udkk",
+                "ueur",
+                "ugbp",
+                "uhkd",
+                "uidr",
+                "uinr",
+                "ujpy",
+                "ukrw",
+                "umnt",
+                "umyr",
+                "unok",
+                "uphp",
+                "usdr",
+                "usek",
+                "usgd",
+                "uthb",
+                "utwd"
+            ]
+        },
+        "folder": "./terraClassic/",
+        "block_URL": "https://finder.terra.money/classic/blocks/%block%/",
+        "tx_URL": "https://finder.terra.money/classic/tx/%tx%/",
+        "wallet_URL": "https://finder.terra.money/classic/address/%address%/"
+    }
+}
