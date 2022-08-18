@@ -18,7 +18,7 @@
         "name": "Terra Classic",
         "description": "",
         "chain_id": "columbus-5",
-        "icon": "https://assets.hermesprotocol.io/img/projects/terraClassic.png",
+        "icon": "https://assets.hermesprotocol.io/img/projects/TerraClassic.png",
         "native_tokens": {
             "denoms" : [
                 "uluna",
