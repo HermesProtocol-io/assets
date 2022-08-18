@@ -3,7 +3,7 @@
         "name": "Terra",
         "description": "",
         "chain_id": "phoenix-1",
-        "icon": "https://github.com/terra-money/assets/blob/master/icon/svg/Terra.svg",
+        "icon": "https://assets.hermesprotocol.com/img/projects/terra.png",
         "native_tokens": {
             "denoms" : [
                 "uluna"
@@ -18,7 +18,7 @@
         "name": "Terra Classic",
         "description": "",
         "chain_id": "columbus-5",
-        "icon": "https://github.com/terra-money/assets/blob/master/icon/svg/TerraClassic.svg",
+        "icon": "https://assets.hermesprotocol.com/img/projects/terraClassic.png",
         "native_tokens": {
             "denoms" : [
                 "uluna",
