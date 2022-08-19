@@ -3,7 +3,7 @@
         "name": "Terra",
         "description": "",
         "chain_id": "phoenix-1",
-        "icon": "https://assets.hermesprotocol.io/img/projects/terra.png",
+        "icon": "https://assets.hermesprotocol.io/img/projects/Terra.png",
         "native_tokens": {
             "denoms" : [
                 "uluna"
