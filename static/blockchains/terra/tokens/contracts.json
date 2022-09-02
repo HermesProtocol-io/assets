@@ -638,5 +638,26 @@
         "pair_type": {
             "xyk": {}
         }
+    },
+    "terra1h4cakgms4ju3eryhrmw00xegtjxkgyv88yqllg9ryz9qxek4qz9sz3swn2": {
+        "protocol": "Astroport",
+        "name": "ORNE/LUNA Pair",
+        "asset_infos": [
+            {
+                "token": {
+                    "contract_addr": "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw"
+                }
+            },
+            {
+                "native_token": {
+                    "denom": "uluna"
+                }
+            }
+        ],
+        "contract_addr": "terra1h4cakgms4ju3eryhrmw00xegtjxkgyv88yqllg9ryz9qxek4qz9sz3swn2",
+        "liquidity_token": "terra10ht5t5vzpt6lfh8r6lau6mtsha3rqeznhkw5whc65scgrtkqradq0zy9pa",
+        "pair_type": {
+            "xyk": {}
+        }
     }
 }
