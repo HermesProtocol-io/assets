@@ -1,0 +1,42 @@
+{
+  "nearcon2.mintbase1.near": {
+    "contract": "nearcon2.mintbase1.near",
+    "name": "NEARCON II",
+    "symbol": "NEARCON2",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/omni-live.appspot.com/o/store%2Fnearcon2.mintbase1.near-profile?alt=media&amp;token=371be99b-f2c6-4d81-aad6-6bcc9555aad8",
+    "homepage": "https://www.3xr.space/store/nearcon2.mintbase1.near",
+    "marketplace": [
+      "https://www.mintbase.io/contract/nearcon2.mintbase1.near?tab=nfts&page=0"
+    ]
+  },
+  "55sp.mintbase1.near": {
+    "contract": "55sp.mintbase1.near",
+    "name": "55sp",
+    "symbol": "55sp",
+    "icon": "data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJCT/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEQAAAAEAEAEAEAAAAQAQAQAQAAAAEREREQAAAAAAEAAAAAAAAAAQAAAAAAAAABEQAAEQAAAAEAEAEAEAAAAQAQAQAQAAAAEREREQAAAAAAAAEAAAAAAAAAAQAAAAAAAAERAAAAAAAAEAEAAAAAAAAQAQAAAAAAAAEQAADnnwAA228AANtvAADgHwAA+/8AAPv/AAD48wAA+20AAPttAAD8AwAA/+8AAP/vAAD/jwAA/28AAP9vAAD/nwAA",
+    "homepage": "https://www.3xr.space/store/55sp.mintbase1.near",
+    "marketplace": [
+      "https://www.mintbase.io/contract/55sp.mintbase1.near?tab=nfts&page=0"
+    ]
+  },
+  "octopodedao.mintbase1.near": {
+    "contract": "octopodedao.mintbase1.near",
+    "name": "octopodedao",
+    "symbol": "8",
+    "icon": "data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJCT/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEQAAAAEAEAEAEAAAAQAQAQAQAAAAEREREQAAAAAAEAAAAAAAAAAQAAAAAAAAABEQAAEQAAAAEAEAEAEAAAAQAQAQAQAAAAEREREQAAAAAAAAEAAAAAAAAAAQAAAAAAAAERAAAAAAAAEAEAAAAAAAAQAQAAAAAAAAEQAADnnwAA228AANtvAADgHwAA+/8AAPv/AAD48wAA+20AAPttAAD8AwAA/+8AAP/vAAD/jwAA/28AAP9vAAD/nwAA",
+    "homepage": "https://www.3xr.space/store/octopodedao.mintbase1.near",
+    "marketplace": [
+      "https://www.mintbase.io/contract/octopodedao.mintbase1.near?tab=nfts&page=0"
+    ]
+  },
+  "artincubadora.mintbase1.near": {
+    "contract": "artincubadora.mintbase1.near",
+    "name": "artincubadora",
+    "symbol": "8",
+    "icon": "data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJCT/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEQAAAAEAEAEAEAAAAQAQAQAQAAAAEREREQAAAAAAEAAAAAAAAAAQAAAAAAAAABEQAAEQAAAAEAEAEAEAAAAQAQAQAQAAAAEREREQAAAAAAAAEAAAAAAAAAAQAAAAAAAAERAAAAAAAAEAEAAAAAAAAQAQAAAAAAAAEQAADnnwAA228AANtvAADgHwAA+/8AAPv/AAD48wAA+20AAPttAAD8AwAA/+8AAP/vAAD/jwAA/28AAP9vAAD/nwAA",
+    "homepage": "https://www.3xr.space/store/artincubadora.mintbase1.near",
+    "marketplace": [
+      "https://www.mintbase.io/contract/artincubadora.mintbase1.near?tab=nfts&page=0"
+    ]
+  }
+}
