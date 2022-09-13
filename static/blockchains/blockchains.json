@@ -1,54 +1,65 @@
 {
-    "terra": {
-        "name": "Terra",
-        "description": "",
-        "chain_id": "phoenix-1",
-        "icon": "https://assets.hermesprotocol.io/img/projects/Terra.png",
-        "native_tokens": {
-            "denoms" : [
-                "uluna"
-            ]
-        },
-        "folder": "./terra/",
-        "block_URL": "https://terrasco.pe/mainnet/blocks/%block%/",
-        "tx_URL": "https://terrasco.pe/mainnet/tx/%tx%/",
-        "wallet_URL": "https://terrasco.pe/mainnet/address/%address%/"
+  "terra": {
+    "name": "Terra",
+    "description": "",
+    "chain_id": "phoenix-1",
+    "icon": "https://assets.hermesprotocol.io/img/projects/Terra.png",
+    "native_tokens": {
+      "denoms": ["uluna"]
     },
-    "terraClassic": {
-        "name": "Terra Classic",
-        "description": "",
-        "chain_id": "columbus-5",
-        "icon": "https://assets.hermesprotocol.io/img/projects/TerraClassic.png",
-        "native_tokens": {
-            "denoms" : [
-                "uluna",
-                "uusd",
-                "uaud",
-                "ucad",
-                "uchf",
-                "ucny",
-                "udkk",
-                "ueur",
-                "ugbp",
-                "uhkd",
-                "uidr",
-                "uinr",
-                "ujpy",
-                "ukrw",
-                "umnt",
-                "umyr",
-                "unok",
-                "uphp",
-                "usdr",
-                "usek",
-                "usgd",
-                "uthb",
-                "utwd"
-            ]
-        },
-        "folder": "./terraClassic/",
-        "block_URL": "https://finder.terra.money/classic/blocks/%block%/",
-        "tx_URL": "https://finder.terra.money/classic/tx/%tx%/",
-        "wallet_URL": "https://finder.terra.money/classic/address/%address%/"
-    }
+    "folder": "./terra/",
+    "block_URL": "https://terrasco.pe/mainnet/blocks/%block%/",
+    "tx_URL": "https://terrasco.pe/mainnet/tx/%tx%/",
+    "wallet_URL": "https://terrasco.pe/mainnet/address/%address%/"
+  },
+  "terraClassic": {
+    "name": "Terra Classic",
+    "description": "",
+    "chain_id": "columbus-5",
+    "icon": "https://assets.hermesprotocol.io/img/projects/TerraClassic.png",
+    "native_tokens": {
+      "denoms": [
+        "uluna",
+        "uusd",
+        "uaud",
+        "ucad",
+        "uchf",
+        "ucny",
+        "udkk",
+        "ueur",
+        "ugbp",
+        "uhkd",
+        "uidr",
+        "uinr",
+        "ujpy",
+        "ukrw",
+        "umnt",
+        "umyr",
+        "unok",
+        "uphp",
+        "usdr",
+        "usek",
+        "usgd",
+        "uthb",
+        "utwd"
+      ]
+    },
+    "folder": "./terraClassic/",
+    "block_URL": "https://finder.terra.money/classic/blocks/%block%/",
+    "tx_URL": "https://finder.terra.money/classic/tx/%tx%/",
+    "wallet_URL": "https://finder.terra.money/classic/address/%address%/"
+  },
+  "near": {
+    "name": "Near",
+    "description": "",
+    "chain_id": "mainnet",
+    "icon": "https://assets.hermesprotocol.io/img/projects/near.png",
+    "native_tokens": {
+      "denoms": ["NEAR", "usn"]
+    },
+    "folder": "./near/",
+    "block_URL": "https://explorer.near.org/blocks/%block%/",
+    "tx_URL": "https://explorer.near.org/transactions/%tx%/",
+    "wallet_URL": "https://explorer.near.org/accounts/%address%/"
+  }
 }
