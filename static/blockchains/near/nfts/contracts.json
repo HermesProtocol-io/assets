@@ -13,7 +13,7 @@
     "contract": "55sp.mintbase1.near",
     "name": "55sp",
     "symbol": "55sp",
-    "icon": "firebasestorage.googleapis.com/v0/b/omni-live.appspot.com/o/store%2F55sp.mintbase1.near-profile?alt=media&token=2890878a-d76e-4399-94bd-0ba157b1f41e",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/omni-live.appspot.com/o/store%2F55sp.mintbase1.near-profile?alt=media&token=2890878a-d76e-4399-94bd-0ba157b1f41e",
     "homepage": "https://www.3xr.space/store/55sp.mintbase1.near",
     "marketplace": [
       "https://www.mintbase.io/contract/55sp.mintbase1.near?tab=nfts&page=0"
