@@ -38,5 +38,29 @@
     "marketplace": [
       "https://www.mintbase.io/contract/artincubadora.mintbase1.near?tab=nfts&page=0"
     ]
+  },
+  "nearnautnft.near": {
+    "contract": "nearnautnft.near",
+    "name": "NEARNaut Collectibles",
+    "symbol": "Naut",
+    "icon": "https://assets.hermesprotocol.com/img/projects/NEARNaut.png",
+    "homepage": "",
+    "marketplace": ["https://paras.id/collection/nearnautnft.near"]
+  },
+  "secretskelliessociety.near": {
+    "contract": "secretskelliessociety.near",
+    "name": "Secret Skellies Society",
+    "symbol": "BONEZ",
+    "icon": "paras-cdn.imgix.net/bafkreigynjl2dymbl42lm746rfy3gejgpo6xddcqaa75jku4u42ifig2wa",
+    "homepage": "",
+    "marketplace": ["https://paras.id/collection/secretskelliessociety.near"]
+  },
+  "myconstant-mascot.near": {
+    "contract": "myconstant-mascot.near",
+    "name": "Battle Boars",
+    "symbol": "MCBB",
+    "icon": "https://paras-cdn.imgix.net/bafkreia7dh2h2na6illth2ekzjntujw6npxfyhisxzjkanzog5wqfeicqy",
+    "homepage": "",
+    "marketplace": ["https://paras.id/collection/myconstant-mascot.near"]
   }
 }
