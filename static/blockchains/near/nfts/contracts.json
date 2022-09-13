@@ -43,7 +43,7 @@
     "contract": "nearnautnft.near",
     "name": "NEARNaut Collectibles",
     "symbol": "Naut",
-    "icon": "https://assets.hermesprotocol.com/img/projects/NEARNaut.png",
+    "icon": "https://assets.hermesprotocol.io/img/projects/NEARNauts.png",
     "homepage": "",
     "marketplace": ["https://paras.id/collection/nearnautnft.near"]
   },
@@ -51,7 +51,7 @@
     "contract": "secretskelliessociety.near",
     "name": "Secret Skellies Society",
     "symbol": "BONEZ",
-    "icon": "paras-cdn.imgix.net/bafkreigynjl2dymbl42lm746rfy3gejgpo6xddcqaa75jku4u42ifig2wa",
+    "icon": "https://paras-cdn.imgix.net/bafkreigynjl2dymbl42lm746rfy3gejgpo6xddcqaa75jku4u42ifig2wa",
     "homepage": "",
     "marketplace": ["https://paras.id/collection/secretskelliessociety.near"]
   },
