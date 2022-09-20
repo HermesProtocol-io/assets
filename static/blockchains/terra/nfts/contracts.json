@@ -143,5 +143,16 @@
         "marketplace": [
             "https://knowhere.art/collections/terra1e88qgtfw4c5zmgv9zhwsy569jwwsav4gukz64l5ewyxa3xaqckksc0z3hc"
         ]
+    },
+    "terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7": {
+        "contract": "terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
+        "name": "Skeleton Punks",
+        "symbol": "SP",
+        "icon": "https://d75aawrtvbfp1.cloudfront.net/misc/skellies/logo.jpg",
+        "homepage": "https://skeletonpunks.club/",
+        "marketplace": [
+            "https://knowhere.art/collections/terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
+            "https://v2.randomearth.io/collections/terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7"
+        ]
     }
 }
