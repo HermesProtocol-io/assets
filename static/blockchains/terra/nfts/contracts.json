@@ -154,5 +154,45 @@
             "https://knowhere.art/collections/terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
             "https://v2.randomearth.io/collections/terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7"
         ]
+    },
+    "terra1pm0gpgsqmjk3rgy43m8z5edmjjx80r738mq4enyswgfz9uhppg4s849crt": {
+        "contract": "terra1pm0gpgsqmjk3rgy43m8z5edmjjx80r738mq4enyswgfz9uhppg4s849crt",
+        "name": "Astroverse #01",
+        "symbol": "KNOWHERE",
+        "icon": "https://storage.googleapis.com/public-knowhere/collections/astroverse.jpg",
+        "homepage": "https://www.astroverse.art/",
+        "marketplace": [
+            "https://knowhere.art/collections/terra1pm0gpgsqmjk3rgy43m8z5edmjjx80r738mq4enyswgfz9uhppg4s849crt"
+        ]
+    },
+    "terra1yqacrx2jvrnede4x87w370g4qgsstq3qjnqaqy77ypx3fqeynrjqfaa023": {
+        "contract": "terra1yqacrx2jvrnede4x87w370g4qgsstq3qjnqaqy77ypx3fqeynrjqfaa023",
+        "name": "Crypto King",
+        "symbol": "KNOWHERE",
+        "icon": "https://assets.hermesprotocol.io/img/projects/crypto-king-nft.gif",
+        "homepage": "",
+        "marketplace": [
+            "https://knowhere.art/collections/terra1yqacrx2jvrnede4x87w370g4qgsstq3qjnqaqy77ypx3fqeynrjqfaa023"
+        ]
+    },
+    "terra10znl5emz4l6qmtr9gq35u0l7rchg8vh2x7wknlgsuzg4azsj6v7q2h0dzl": {
+        "contract": "terra10znl5emz4l6qmtr9gq35u0l7rchg8vh2x7wknlgsuzg4azsj6v7q2h0dzl",
+        "name": "Terra Aliens",
+        "symbol": "KNOWHERE",
+        "icon": "https://storage.googleapis.com/public-knowhere/cover-test/eafaf28d-5bf0-4fc1-bfd0-66fe2f745a81.jpeg",
+        "homepage": "https://www.terraaliens.com//",
+        "marketplace": [
+            "https://knowhere.art/collections/terra10znl5emz4l6qmtr9gq35u0l7rchg8vh2x7wknlgsuzg4azsj6v7q2h0dzl"
+        ]
+    },
+    "terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5": {
+        "contract": "terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5",
+        "name": "A Spooky Doodle",
+        "symbol": "KNOWHERE",
+        "icon": "https://assets.hermesprotocol.io/img/projects/a-spooky-doodle-nft.png",
+        "homepage": "",
+        "marketplace": [
+            "https://knowhere.art/collections/terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5"
+        ]
     }
 }
