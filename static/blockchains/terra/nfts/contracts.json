@@ -204,5 +204,15 @@
         "marketplace": [
             "https://knowhere.art/collections/terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv"
         ]
+    },
+    "terra1vfme2h5ffueendzymf0n4hs0g898ncp6ww5n09z8uw5rn8cfwhxq7qnk86": {
+        "contract": "terra1vfme2h5ffueendzymf0n4hs0g898ncp6ww5n09z8uw5rn8cfwhxq7qnk86",
+        "name": "Lunita",
+        "symbol": "LUNITA",
+        "icon": "https://storage.googleapis.com/public-knowhere/cover-test/8df9521a-fabd-4801-a717-c36def90a7dc.jpg",
+        "homepage": "https://www.lunita.studio/",
+        "marketplace": [
+            "https://knowhere.art/collections/terra1vfme2h5ffueendzymf0n4hs0g898ncp6ww5n09z8uw5rn8cfwhxq7qnk86"
+        ]
     }
 }
