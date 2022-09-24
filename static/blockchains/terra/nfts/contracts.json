@@ -224,5 +224,15 @@
         "marketplace": [
             "https://knowhere.art/collections/terra14lzmdzaqw53sgm0lef8agnzck6n68yhmutasdu80w5j49v7kn4eq4c0mj8"
         ]
+    },
+    "terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq": {
+        "contract": "terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq",
+        "name": "Lootopian Items",
+        "symbol": "LOOTITEMS",
+        "icon": "https://storage.googleapis.com/public-knowhere/cover-test/04be3105-944d-45df-b54c-e73540074b5a.png",
+        "homepage": "https://twitter.com/lootopians",
+        "marketplace": [
+            "https://knowhere.art/collections/terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq"
+        ]
     }
 }
