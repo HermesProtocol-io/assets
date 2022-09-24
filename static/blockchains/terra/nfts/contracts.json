@@ -194,5 +194,15 @@
         "marketplace": [
             "https://knowhere.art/collections/terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5"
         ]
+    },
+    "terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv": {
+        "contract": "terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv",
+        "name": "Doodle Baby Ape",
+        "symbol": "DBA",
+        "icon": "https://storage.googleapis.com/public-knowhere/cover-test/18a5a6d4-a348-46df-a9be-5db5bb4b9afd.png",
+        "homepage": "https://twitter.com/Lapeclub",
+        "marketplace": [
+            "https://knowhere.art/collections/terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv"
+        ]
     }
 }
