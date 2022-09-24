@@ -1,0 +1,3897 @@
+{
+  "101630246520095886266953171932665723692": {
+    "tokenId": "101630246520095886266953171932665723692",
+    "name": "Golden Ticket #441",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfHFvRdVT4ZTAKJcSr1VFJ5bs6bd3QrK6yYdVY4MXnPvx",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "105850359804627277505112069811320564269": {
+    "tokenId": "105850359804627277505112069811320564269",
+    "name": "Golden Ticket #474",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmY3DEqLAJwUkGxDEXPagCZwfqp5BEXpyku6TTrAtdE8cW",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "110236753012000049063202444066166859125": {
+    "tokenId": "110236753012000049063202444066166859125",
+    "name": "Golden Ticket #443",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmU2xo7kt791oK9swyDCgAtZbPCErMpnU8RTVyN76oZWS9",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "120429177707317470194704704077862018564": {
+    "tokenId": "120429177707317470194704704077862018564",
+    "name": "Golden Ticket #25",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmY35WubPKpHz1U4Y8shFTd4wDDZsjNK3zActNZuKcK3aR",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "120678200827309110043996866825412741886": {
+    "tokenId": "120678200827309110043996866825412741886",
+    "name": "Golden Ticket #195",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPHtGDGicWJH4guZB2Hg37Y4vr9Te4WJrLHg1E5umHtj2",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "122518193801236099833273548150403477357": {
+    "tokenId": "122518193801236099833273548150403477357",
+    "name": "Golden Ticket #298",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXZ2RUWvMszzFbP2BRGFpFQyVpKZFhqut6eTzPpeCA8Wj",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "12552916542363186246474733653755730901": {
+    "tokenId": "12552916542363186246474733653755730901",
+    "name": "Golden Ticket #448",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQX8x4Menz9HNwZHpdoALTEnznTUap8273nk1hsM15DVp",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "12822828496160194811375963536956312661": {
+    "tokenId": "12822828496160194811375963536956312661",
+    "name": "Golden Ticket #329",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZetrC8DE3qCwwjBrcXKpLdivxC5mSBfTunWU3ozBKEw7",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "12950321910581067314270938241108317307": {
+    "tokenId": "12950321910581067314270938241108317307",
+    "name": "Golden Ticket #710",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qme1kssppokkGB4Ck9kWha17T1xbcujGYnK6qCLEUPRedF",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "129599427881932324236342090256134943500": {
+    "tokenId": "129599427881932324236342090256134943500",
+    "name": "Golden Ticket #589",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmWhC4nn8atS1vLLNqvvsbCzi9yw6YPNCnXREkKVdPfBHA",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "131819747373021329218092026921611901732": {
+    "tokenId": "131819747373021329218092026921611901732",
+    "name": "Golden Ticket #66",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbTie4Rev7o1xWK2SPPFkWBwPu6er7voim7j37YeJUMUn",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "132366905274281556803803272663822012522": {
+    "tokenId": "132366905274281556803803272663822012522",
+    "name": "Golden Ticket #255",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmW9huH2xUVkGuSNwR5fwrpunJFWhNE9FhpVEuJzg8GnLt",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "133693981366255339563457527486120452515": {
+    "tokenId": "133693981366255339563457527486120452515",
+    "name": "Golden Ticket #750",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbNQm7pWMW33ffsdPQrLP3AE815kmk3dBWobHqsUbsJiv",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "134633163703596912897841195243875996658": {
+    "tokenId": "134633163703596912897841195243875996658",
+    "name": "Golden Ticket #485",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYGSahsKvhmqnhf1DYDJ8JUzvszEc68UBrNg5anGgVeBM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "137885079015514517609633825363693406564": {
+    "tokenId": "137885079015514517609633825363693406564",
+    "name": "Golden Ticket #398",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmVT2fGx3q7huKeu8Jty5wPvkovc4Huujd7sAYwdXmvZPE",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "139593729612968644956180399299966816937": {
+    "tokenId": "139593729612968644956180399299966816937",
+    "name": "Golden Ticket #391",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmY86eCv3yspqyCtWqXVhWBqYQvH3WoENGB41q2NL3VmbH",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "139835679575047501379469233871421755065": {
+    "tokenId": "139835679575047501379469233871421755065",
+    "name": "Golden Ticket #7",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdEko38LBp4CtRR57QBha2DSuh1rCQeGmhKiSEWYcKdgL",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "140893519888077171149474152199089343923": {
+    "tokenId": "140893519888077171149474152199089343923",
+    "name": "Golden Ticket #367",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeUL6B21poqyaVMU6zLq7MarSKTYB4NrJuhmccgMMGdAY",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "141847728886289751412092419390863790966": {
+    "tokenId": "141847728886289751412092419390863790966",
+    "name": "Golden Ticket #505",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmWptyPxVv4WuycuvLQNpUXCgRTwqR2W6cx8qypkhAqZs1",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "142995105573803097445849999741800632539": {
+    "tokenId": "142995105573803097445849999741800632539",
+    "name": "Golden Ticket #440",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPeQqMhw4qHNTmgK8Uu8LqaCqSBwgwie9NuNCmhMuXnBE",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "144645467779408910206870033120358739658": {
+    "tokenId": "144645467779408910206870033120358739658",
+    "name": "Golden Ticket #747",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRvz8YJuFhWB6oQ9HomWoKqrHYrTL2uKFrcuJ6nYTYuFS",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "146944353068985884115623793211752159519": {
+    "tokenId": "146944353068985884115623793211752159519",
+    "name": "Golden Ticket #183",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSk81gswmjQaga4gHHvCksZF81YPCYara9GVKiqz6rG4t",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "147310884103525681819546053348916169222": {
+    "tokenId": "147310884103525681819546053348916169222",
+    "name": "Golden Ticket #50",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTYDwgbnki36ntjxu8KbSFJJ5vnR9dJhBojrJkjURYH2W",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "14753411249951684784591894159162874011": {
+    "tokenId": "14753411249951684784591894159162874011",
+    "name": "Golden Ticket #478",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmaKKsFfCWEHax1YWusPdALw1a1KG3jVDRZkEuKM7kDF7H",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "147714947820158508878275317971665860437": {
+    "tokenId": "147714947820158508878275317971665860437",
+    "name": "Golden Ticket #165",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeqgcXFaA43Q4Uy1knpVyyzz5L9F3Trh9oWoapLB9xrPV",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "148642353924022081111830050674140400553": {
+    "tokenId": "148642353924022081111830050674140400553",
+    "name": "Golden Ticket #724",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmT4Tfv5KBUeMpET8kMe9H13WtytJjbUionqB22h1jC3TG",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "149854800122547745635563721521928975923": {
+    "tokenId": "149854800122547745635563721521928975923",
+    "name": "Golden Ticket #744",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPwXv2L1VdNfuH2p5ZKGWEz7SVqtpmRDijL1wEMyQCSK2",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "152904198462961641029326952683001814354": {
+    "tokenId": "152904198462961641029326952683001814354",
+    "name": "Golden Ticket #127",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQsQbzbQqGZxDefvqy1Hiwv54RhNxThu7impPTS5XAeTa",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "16022678293036101495555725905512724724": {
+    "tokenId": "16022678293036101495555725905512724724",
+    "name": "Golden Ticket #678",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmX6xai15XhaGovcrbRQ5AFpPF9tavvSi43pWjkLTEpeue",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "160447124125009818860038736122079884582": {
+    "tokenId": "160447124125009818860038736122079884582",
+    "name": "Golden Ticket #514",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmewAc5KDnxXZdTjfMtitY3tTCL7PXKoN1xDF5NEGNkABf",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "160606799604841663401451764749673801281": {
+    "tokenId": "160606799604841663401451764749673801281",
+    "name": "Golden Ticket #559",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmcvZyLnc7jME2gv6A74Y6nDSdVXVyYy87Y7TyeT2erWER",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "160689367210357911761138232592325809665": {
+    "tokenId": "160689367210357911761138232592325809665",
+    "name": "Golden Ticket #262",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmecgUdNALnD8xu4grnwFaFKNcRPhbUTqnxRi56z4NLKmX",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "161543596653029988434182562125395366224": {
+    "tokenId": "161543596653029988434182562125395366224",
+    "name": "Golden Ticket #702",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmaFvoDKg8tNJ7J93uTWkoCpZXhS3PbaTs2JEUXs3uyA9E",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "162188383818387401772438133147297190602": {
+    "tokenId": "162188383818387401772438133147297190602",
+    "name": "Golden Ticket #414",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbkXa8jTW6sSWcTdU3DhEC1YuFtsJfKdekTUSU6qwWDZX",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "163196801960939438365631866186159331620": {
+    "tokenId": "163196801960939438365631866186159331620",
+    "name": "Golden Ticket #369",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQdV3zEMEcukM5BG5dQyC2CVaQUAxwbYiyEeEG9eUrnxi",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "163395962943960853542806890982661392318": {
+    "tokenId": "163395962943960853542806890982661392318",
+    "name": "Golden Ticket #445",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYjaRmttEp1iGAk2ZqYr5xhXpF7iXJSZqXWACL3VtfJbP",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "16612859978894921542385991343521873094": {
+    "tokenId": "16612859978894921542385991343521873094",
+    "name": "Golden Ticket #690",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQFBGkoUuVadvmgLdJhgJNiypYQe91UQYTNEUVuhM8zZ2",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "168539864631222426939064435394332744852": {
+    "tokenId": "168539864631222426939064435394332744852",
+    "name": "Golden Ticket #173",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXCg66Xrya5XDqhHitm99DDngcFmyQd3cFrEtfjkRTXKi",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "170696940740436244017237213089725058268": {
+    "tokenId": "170696940740436244017237213089725058268",
+    "name": "Golden Ticket #235",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmejRRf9bZ7YvRrexA9pRAFAWA3gA6nzTnmRLTmNcLD9xf",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "17168575738637553752249975895537257974": {
+    "tokenId": "17168575738637553752249975895537257974",
+    "name": "Golden Ticket #259",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZ12anZ8HyGoYsw5usbrTwZmHYqK4xyhR2ZTCJ6J9TWm9",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "173638969351997280385661773847382016326": {
+    "tokenId": "173638969351997280385661773847382016326",
+    "name": "Golden Ticket #768",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmaw6wcqFsGBiA6ehKTuufThjCuhQ2aVJnXBH5ZxUtu589",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "173653386338856585323687207896689988939": {
+    "tokenId": "173653386338856585323687207896689988939",
+    "name": "Golden Ticket #134",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSiPDUcs21Gno729dej5GVkSVM8bUfMn3L3Jgdgb7ubGM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "176101556735242502473391580380215759958": {
+    "tokenId": "176101556735242502473391580380215759958",
+    "name": "Golden Ticket #459",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZEVie1x1YeGdiw6LEKEFJ2xfTiBRWirb512j2doEy3sG",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "176440987443166287626045668467753314789": {
+    "tokenId": "176440987443166287626045668467753314789",
+    "name": "Golden Ticket #34",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPiWSzZZiRppYv3JMpy5FpSMmE7Bcwnhjw1jRRDDvuQ8x",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "176915172289479998967297031034906164238": {
+    "tokenId": "176915172289479998967297031034906164238",
+    "name": "Golden Ticket #21",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTY1pCTisXjk492CmqVTTKdZBeeWnYB1GyvUJ3hwqrjsK",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "179023175817733221274605444972820860173": {
+    "tokenId": "179023175817733221274605444972820860173",
+    "name": "Golden Ticket #554",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmVCdTugPG7vtxmYUzxn3UaTKZSDVSTsJR1yMG62aDjuTR",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "179058097397687148551678785322289334061": {
+    "tokenId": "179058097397687148551678785322289334061",
+    "name": "Golden Ticket #562",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRw27n4hjMpv7gH5EGhuwHHGyxwKAF6o4zFiKrryjMiYf",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "182308135125772276877870325885337604324": {
+    "tokenId": "182308135125772276877870325885337604324",
+    "name": "Golden Ticket #334",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXaBkd3oU92d2C5fdqhGxksARrF3jXTtyriXq95t3DuLq",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "184619509350535662600697177121918951781": {
+    "tokenId": "184619509350535662600697177121918951781",
+    "name": "Golden Ticket #636",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmNdsKmv83foNk25vLNZ3oJfFVgjeWRN7ipTQ9pwCh7jbB",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "184784776724715986513608097423804808691": {
+    "tokenId": "184784776724715986513608097423804808691",
+    "name": "Golden Ticket #90",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZDR9Ai1hPEALc8TnTAArWNLNi3c7CWr9BYBvJbJr7TaY",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "186151429545389301585863735626242095812": {
+    "tokenId": "186151429545389301585863735626242095812",
+    "name": "Golden Ticket #89",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXNsnjBEtWiDfk8dV5y8Hc8Sa1uJ16z2RJTZhTnjgbyaQ",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "191253507006381168235066168651186903887": {
+    "tokenId": "191253507006381168235066168651186903887",
+    "name": "Golden Ticket #321",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmVmQLqBJgYpmirTKG5ovwxWaBrAYmmoKRzg2vAnj2uLac",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "193650789120002472214285664609258475560": {
+    "tokenId": "193650789120002472214285664609258475560",
+    "name": "Golden Ticket #659",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmW98Lx8SxkyKr14JH9jYcSh5QeaK4obHCKeLr5dTJb5bn",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "193897242645655560467723192375814697918": {
+    "tokenId": "193897242645655560467723192375814697918",
+    "name": "Golden Ticket #49",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfKMrfkdHmfp4UpX6aFyE5yihJWGXzYUmYCFaMcvp8Y2K",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "197419234222916819493529647783151028811": {
+    "tokenId": "197419234222916819493529647783151028811",
+    "name": "Golden Ticket #526",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmT1vgnd7aAecQkPDk8ZFKspcPfpL9vcR1K8v29Kxuhhtz",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "199303522828206335277955806737672540077": {
+    "tokenId": "199303522828206335277955806737672540077",
+    "name": "Golden Ticket #727",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXf1THmt1yqFNTtHthVnRe7xXkURVfFf2fG7ux2tQjnkC",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "199359645750319366430087460868503522707": {
+    "tokenId": "199359645750319366430087460868503522707",
+    "name": "Golden Ticket #755",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmVv37FpN3qmSAetHBLcNvtuduH4i8qz4S3Tjh4HUJnNUm",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "201320572742405560959101582720167592725": {
+    "tokenId": "201320572742405560959101582720167592725",
+    "name": "Golden Ticket #552",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfZTrMu6YEJg5M3PqedafBVLQLetrEJcCQnmbbS7vxX9d",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "201954446474037564482013206884852570773": {
+    "tokenId": "201954446474037564482013206884852570773",
+    "name": "Golden Ticket #542",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPnhvfKmSBJ6gZNZRHQMWQhEwnamcF1MKZKyWbuaRmTuK",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "209315064547521676780095698369411288744": {
+    "tokenId": "209315064547521676780095698369411288744",
+    "name": "Golden Ticket #692",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUjHL1equZNsMPDtxYxfBJVrD2n8EyJMKpArr5JWaKuLs",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "209876386470418759392241643417382278240": {
+    "tokenId": "209876386470418759392241643417382278240",
+    "name": "Golden Ticket #707",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQDzvy1vk4HjRjj4vqfU66ednJdpwP6aLJoDz6ovbyPD9",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "210623094447760312649880779634963907726": {
+    "tokenId": "210623094447760312649880779634963907726",
+    "name": "Golden Ticket #147",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRXtiiYm7QeaTUB6kYexs7rYhxCpFvNUaHXy9tNDC1ZS5",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "211644550835422461147343428999594527733": {
+    "tokenId": "211644550835422461147343428999594527733",
+    "name": "Golden Ticket #239",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPKHcM5LMjr75udPGvmhsTmpCcZGTKPM7PXF51ckzMTwH",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "21191240651850424509968837740219888968": {
+    "tokenId": "21191240651850424509968837740219888968",
+    "name": "Golden Ticket #771",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPUNieS3xhqn6xzjfTGRDdX3gVBvhF7XjUtsJHj1XwGY2",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "214829721674123688642877729589798285678": {
+    "tokenId": "214829721674123688642877729589798285678",
+    "name": "Golden Ticket #56",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmduqa8iMAS1XjE8mhQUZShz9bTbNuC3xtDuWo6oehqH34",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "216133673765103036932322375418563839017": {
+    "tokenId": "216133673765103036932322375418563839017",
+    "name": "Golden Ticket #735",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmT4y2w5BJoBxuyMXWbGpCrTh9iShREegFMwtj9fT52eD1",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "216747023570199738372346689061138081208": {
+    "tokenId": "216747023570199738372346689061138081208",
+    "name": "Golden Ticket #384",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTsp1MhtkNgBxZaBNEgsoFUyD7JJcYMuDtEW11LPPjrTp",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "217514616790423336895156279012779532032": {
+    "tokenId": "217514616790423336895156279012779532032",
+    "name": "Golden Ticket #381",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmboaUDMrCPdKtzPnkatrZ7pKzw6duXrWK5cy9H82Z1LwR",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "217914632115389139569343930615831787343": {
+    "tokenId": "217914632115389139569343930615831787343",
+    "name": "Golden Ticket #607",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmS6CuAyVBGoa9McYMyzYU6tPuL2KNzW1QcQzoupV7W4WN",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "219372206869182359986172062113511077169": {
+    "tokenId": "219372206869182359986172062113511077169",
+    "name": "Golden Ticket #565",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmNSjWUXAkRGL2ZmCL9rXJFyb8iY6AVY6tVWemyYX9rDuc",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "221739533229732433502542740142476164107": {
+    "tokenId": "221739533229732433502542740142476164107",
+    "name": "Golden Ticket #279",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmcmNpDjvgFh6hFZyn7qzZtzNzk6fPWTZa5bW9zdDXqR73",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "223781339245234307091010174422110631619": {
+    "tokenId": "223781339245234307091010174422110631619",
+    "name": "Golden Ticket #341",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTeczHTFQS8Uppj4Ut4o6kPL3JL2Pa6E7J1NfHovZ7XQ4",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "228493926644674386122467246395105990413": {
+    "tokenId": "228493926644674386122467246395105990413",
+    "name": "Golden Ticket #499",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPbzHepZvKfRGFWVYqAr8bCQ8ZySLFA6hiv6dasUTFcCw",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "228533255434872944013915053067009699237": {
+    "tokenId": "228533255434872944013915053067009699237",
+    "name": "Golden Ticket #568",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTHV9SvNn9Xw2MpL1ZJ3u1Ygum835qvEsby8m8YJ2o2ok",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "228993912121653494311469413767025136024": {
+    "tokenId": "228993912121653494311469413767025136024",
+    "name": "Golden Ticket #167",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmNgsT2d7BvQhAAyZGBWRCKoSwwkwHkBjZfpnU7GH8piyH",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "229161688240634053321718057235794227845": {
+    "tokenId": "229161688240634053321718057235794227845",
+    "name": "Golden Ticket #439",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUobNMYykUddwubzdSc9TYyQdmJyGAafCA71FbgAsTDXo",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "233567878483782328062687175662926791665": {
+    "tokenId": "233567878483782328062687175662926791665",
+    "name": "Golden Ticket #728",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmaqioUvkvmVE881aQ4X6A76sNhQqt3ni4eUMT51hEPCJS",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "238924673134431535604544344025684166449": {
+    "tokenId": "238924673134431535604544344025684166449",
+    "name": "Golden Ticket #743",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTdtya69RPSc2XUN3YhzP2vZdGG8WS1KnuGkYh5SXRmYa",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "239313110101444943292805707323387564047": {
+    "tokenId": "239313110101444943292805707323387564047",
+    "name": "Golden Ticket #357",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUcwjTv8eNbcEsUs9CqxcfGbwFAJcPrqn4fNzsDETTMCV",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "240232436219755048254667933769145122897": {
+    "tokenId": "240232436219755048254667933769145122897",
+    "name": "Golden Ticket #129",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRN5cCGtUVS7fb3XFKJC9hCbsw2bQ94WGYbETr5i6vQ1p",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "240782117559597577536430852428982602695": {
+    "tokenId": "240782117559597577536430852428982602695",
+    "name": "Golden Ticket #497",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdvDZqtEecAtB1yvj9FkJFtdYQ35qMq7iAxpb1h3oCjNu",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "240832864262356472440651486363294335162": {
+    "tokenId": "240832864262356472440651486363294335162",
+    "name": "Golden Ticket #412",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qme2MX2srS9tKCgQkoQGdXKENWM7v8FQySxagwBcQG53RG",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "247585915935681084398457697600132141442": {
+    "tokenId": "247585915935681084398457697600132141442",
+    "name": "Golden Ticket #40",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPjhAkn3j1gxkjPEJkzqEPjJfpEukp2hfnwGWFHFJ9JDF",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "247692426622411433041248367502308839691": {
+    "tokenId": "247692426622411433041248367502308839691",
+    "name": "Golden Ticket #611",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZEYtvCtrLTW3FCcUH6zXPW9QufiGbDXaRtK46mSMis1G",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "248994683834912185554242253488461153432": {
+    "tokenId": "248994683834912185554242253488461153432",
+    "name": "Golden Ticket #531",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRLqZTsr7HH7gqPZk4YYmw9bjMi4CHoXiYbmCbYt4y9Wy",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "251556877047091097492003838052781066498": {
+    "tokenId": "251556877047091097492003838052781066498",
+    "name": "Golden Ticket #305",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQmt1TZzhhcqE7rntYKJm5E8qVUanK1iBDWH343XY79SM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "251740188754142625625946359055922758837": {
+    "tokenId": "251740188754142625625946359055922758837",
+    "name": "Golden Ticket #392",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeeV5fBWiAxrkjstqVSEpAAcHtuGxdWGTxK1mnULoYzBZ",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "251814250509514921419166338011717964277": {
+    "tokenId": "251814250509514921419166338011717964277",
+    "name": "Golden Ticket #377",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZDHUeWfExiyv7uRky18x3mgE8aF9Cae2BS5zd1APKoBP",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "254769079169939950792685238662091747441": {
+    "tokenId": "254769079169939950792685238662091747441",
+    "name": "Golden Ticket #253",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZF3gTgGQP1mU1RHzfC7htHnonM7wULgn93XAYz4to4gz",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "256218469110623501878297714823059670377": {
+    "tokenId": "256218469110623501878297714823059670377",
+    "name": "Golden Ticket #144",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPKRzTMW84tMiyzCmLv22x4Ni3bkRtgAMBxwfAqVUcYpM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "257825676829135189711625932465849369369": {
+    "tokenId": "257825676829135189711625932465849369369",
+    "name": "Golden Ticket #694",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXsyzUmZeFhkcck5PQCnUeH3BJ6GJaoKfLqj42RGJEWmL",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "258768968804643894503084795830074321470": {
+    "tokenId": "258768968804643894503084795830074321470",
+    "name": "Golden Ticket #53",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfUnmQUryj6pzMTub9HGrGQfR2WdggpapdXgqpYWu6nUk",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "260287174689977816634872998965470941660": {
+    "tokenId": "260287174689977816634872998965470941660",
+    "name": "Golden Ticket #208",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXnUByo5xQ8kKcBUv1ag2o2brh3nU4HZGLQghsp4qreCz",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "261955280696426984111252936493568951654": {
+    "tokenId": "261955280696426984111252936493568951654",
+    "name": "Golden Ticket #169",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmV176iKTpoMeXDfjD8TASiVdj5imLumXJ91tTQxvxrAfi",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "26660559663694122149184124528749486270": {
+    "tokenId": "26660559663694122149184124528749486270",
+    "name": "Golden Ticket #266",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmamxTYE4Lo9WLLEtwTGmwuywXsw6cSrKPMmwdrktVJKfu",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "266804744915978061410427254036334301704": {
+    "tokenId": "266804744915978061410427254036334301704",
+    "name": "Golden Ticket #13",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmWbPSw8F8LsEAsN3NNdNv4kfWd7G1pJT9k3pQGzgGnyQy",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "268648641986990308908165342670777852672": {
+    "tokenId": "268648641986990308908165342670777852672",
+    "name": "Golden Ticket #420",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPtdrys9cqrevfYWtuJKuQjVXmrXVXsoC3YnAsPB2Ftkg",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "269555635512590364443747946037382986365": {
+    "tokenId": "269555635512590364443747946037382986365",
+    "name": "Golden Ticket #652",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmcdP17bmWiSUpfny7KKqegqF837KmqYCiSdYSvxVTGi5s",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "269702379026088550670378771127942511626": {
+    "tokenId": "269702379026088550670378771127942511626",
+    "name": "Golden Ticket #185",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmWWnnNgZbtT2SGrvDMibeNgz79ZEgeB2Sa63B9KN1Xa31",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "270851216932490230401442465208360627717": {
+    "tokenId": "270851216932490230401442465208360627717",
+    "name": "Golden Ticket #353",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRN9YKw2nByZ1C5yYPzF14g6EGsCKLWJvrKLMLnVQ7eX6",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "273365319786708083877194995339615457941": {
+    "tokenId": "273365319786708083877194995339615457941",
+    "name": "Golden Ticket #80",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYW6dvVAbDWH2mJSbmnTYSJFPxzeECpbwx3Gmt5iv5NT6",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "27461540022849522844883184296270682175": {
+    "tokenId": "27461540022849522844883184296270682175",
+    "name": "Golden Ticket #350",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmcVFN5uPvd8HLBmauR378XcX72K9v8orsz9FvgfbqzL4r",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "275167767564656303487325756473122234437": {
+    "tokenId": "275167767564656303487325756473122234437",
+    "name": "Golden Ticket #471",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRaiApwG3pAgufPV6p5EieTViHBBSvGZ1wfjY2HtvPjLY",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "275276849812560557427334061865336087236": {
+    "tokenId": "275276849812560557427334061865336087236",
+    "name": "Golden Ticket #715",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTmHYEn6yjwqEeLJh1Lpi946aG6yWTs2fDGxTYxRUBG6e",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "277293953146067044298376663555727541503": {
+    "tokenId": "277293953146067044298376663555727541503",
+    "name": "Golden Ticket #401",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbPBE11xmbux89eNdA8VDt96P3o94wgsHCMyqktpcqwyB",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "28035663321469206190417188335160626634": {
+    "tokenId": "28035663321469206190417188335160626634",
+    "name": "Golden Ticket #579",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmWCeoTZaxU8JcNnNcUgezyjUZnsrng7vpxbciYXoir3hb",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "281220165508363146528598369850563395986": {
+    "tokenId": "281220165508363146528598369850563395986",
+    "name": "Golden Ticket #397",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeFvR6j1JhcRaMbYpsxJAnbG95nfuMTf2zY3prVc7umyE",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "281408749074467308680916437397453905584": {
+    "tokenId": "281408749074467308680916437397453905584",
+    "name": "Golden Ticket #462",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYwYE13HwXkvAPB6T3ZVMPt1Pzt2ZwhNkxi3RSfPSehBz",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "281466656650053357976161539421756790423": {
+    "tokenId": "281466656650053357976161539421756790423",
+    "name": "Golden Ticket #555",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTuXwtnhvAWQLFJkT9esAWQvnqXUPcKHv5FN9D28kCPyZ",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "282151376928937685401963961014100697352": {
+    "tokenId": "282151376928937685401963961014100697352",
+    "name": "Golden Ticket #238",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmctyZCJeFBxD2VAHSPaQHiKTDASLsJyPKLwMtWzK9yxyM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "284925687918322861179948754858858002094": {
+    "tokenId": "284925687918322861179948754858858002094",
+    "name": "Golden Ticket #720",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbL2QoYhAYzc299qDZNyWdECzEejsUfnvvykHCLow6hC2",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "285637931847101712117569972258186268986": {
+    "tokenId": "285637931847101712117569972258186268986",
+    "name": "Golden Ticket #691",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmNRxDCunJDhhfuhynSSnhpmd6MgS8VDcUeSzYx9qTHe6L",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "285823836470547271017072922433970710023": {
+    "tokenId": "285823836470547271017072922433970710023",
+    "name": "Golden Ticket #683",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZSYjPArw8Dztb7SJfZ42WWMbtRt6xFwjR7CoKa2qvvK3",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "288927180296100485049149446966667784801": {
+    "tokenId": "288927180296100485049149446966667784801",
+    "name": "Golden Ticket #103",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeNCzupAB3inGWVhfrVqEwzPhcwQ4sEVAkTbz9szW1mLn",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "289119701684918548112403524950414011036": {
+    "tokenId": "289119701684918548112403524950414011036",
+    "name": "Golden Ticket #656",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQAVWiEeRwPbW1AYX6kGrqxmcm8bedfpBLfQ8khkFocjT",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "289582839599104942067441975371045572157": {
+    "tokenId": "289582839599104942067441975371045572157",
+    "name": "Golden Ticket #629",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdZYN2MkaNAPFL8n7kLJbsryXKJydRLr2WZhxxjhYny5Z",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "289622242563947709726622469562406302509": {
+    "tokenId": "289622242563947709726622469562406302509",
+    "name": "Golden Ticket #288",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZEe44fSk2NQqvjWyzxYzHZVBAneMV77TeQUAZMYnHVmE",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "291235269701869371560604725567128667081": {
+    "tokenId": "291235269701869371560604725567128667081",
+    "name": "Golden Ticket #332",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRbtgNDy8Eadqw7xKEdYiKcH3skAmwQZGs72YL227iwqa",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "292625752128990072252986178814862184262": {
+    "tokenId": "292625752128990072252986178814862184262",
+    "name": "Golden Ticket #777",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmaJp3PWif6xiZJuo2wZb7Y5aQwaKw8JG9PLEthxxfL5U3",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "294490346192831454754670609096069605638": {
+    "tokenId": "294490346192831454754670609096069605638",
+    "name": "Golden Ticket #749",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfMdt1oLxnfFVRCrvxLZY4iUhvzEaBfLgkQsJWkhvSa1c",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "295482325199396180355902765922284127838": {
+    "tokenId": "295482325199396180355902765922284127838",
+    "name": "Golden Ticket #520",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZQmAXKLQEzwtmnXKhNRAwrVp9UWVzw7GxaXkjh382LeC",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "296061590163273433983193572477423414059": {
+    "tokenId": "296061590163273433983193572477423414059",
+    "name": "Golden Ticket #88",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUTg5BXVqsfzEK1nYwEeCfHL4Wz49F69b4yMTcnBqqVZ4",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "296198310635242554224571578809036891744": {
+    "tokenId": "296198310635242554224571578809036891744",
+    "name": "Golden Ticket #339",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRNHoBPmKkDw4hz7sKV5fhG4G7o4AnfeUfjDxAij5rAM5",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "297013234412268760231628277311739095327": {
+    "tokenId": "297013234412268760231628277311739095327",
+    "name": "Golden Ticket #349",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeiqpQSnX2P6vWU8jcCL7Zb54Q6m1R3dnj7VYKWfJnHga",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "302112407717611474269085666691752573218": {
+    "tokenId": "302112407717611474269085666691752573218",
+    "name": "Golden Ticket #752",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmP8po8EdfTbCsaJoEXorJnGp7y7Wzstk94VLeyMLMznCG",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "303605827469669376803856522895150903967": {
+    "tokenId": "303605827469669376803856522895150903967",
+    "name": "Golden Ticket #365",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRwfY6Lr2ignntpSAqVfMnbf5B3FdwNyzNMsPpvZ3evcy",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "303939758684159730910770077506239033699": {
+    "tokenId": "303939758684159730910770077506239033699",
+    "name": "Golden Ticket #736",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTdiDmoPgw8811vTRcw9KMrgB1WudUzYGpAiBzSifWeWW",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "304779630432929595710062496873654462739": {
+    "tokenId": "304779630432929595710062496873654462739",
+    "name": "Golden Ticket #184",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmb7nBvxoda3MyXAGhvV6pPBJh7esMwamSU2QJNALy2zwG",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "306240113779210591313387151433678835887": {
+    "tokenId": "306240113779210591313387151433678835887",
+    "name": "Golden Ticket #451",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmcasCueMXMqaRGoQnm74fVujt8L4r9EqCw2aQDL2NcNrb",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "307154203280427394653479708035585993534": {
+    "tokenId": "307154203280427394653479708035585993534",
+    "name": "Golden Ticket #220",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmNgiQ4GgUt9E8qrRxaS2ytgGfq7vqSKxHK4u52nXV7CBT",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "307156300748916988715766194313686852537": {
+    "tokenId": "307156300748916988715766194313686852537",
+    "name": "Golden Ticket #213",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmaN3JWmBiAFLxRSo6GJ5R4SmhyALi1d14e5DobocWMxWp",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "309609821674676668594184235395871384261": {
+    "tokenId": "309609821674676668594184235395871384261",
+    "name": "Golden Ticket #20",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmaaVnLHpQqXzcWPJM6T5BXLKAXJTLQa3Ro4pA9HtipmQ1",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "31188606819420981146139717273622078528": {
+    "tokenId": "31188606819420981146139717273622078528",
+    "name": "Golden Ticket #14",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmTE7tLKDoqz4MnCVi68yPZeYnXK6TFKFb4AxNoVtmF2Rj",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "31229137210936526719612699468717671813": {
+    "tokenId": "31229137210936526719612699468717671813",
+    "name": "Golden Ticket #741",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRVeLGpbNaDseuLdUaGMFL7PBGJEjdMAUqhWTZgBBJd54",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "312730826257074864334018392652531063173": {
+    "tokenId": "312730826257074864334018392652531063173",
+    "name": "Golden Ticket #95",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmVbXqJHKqBPWjJNoa81HSdWZmGFkL8SdN3wSKnWD8c84e",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "313060976664291039489199441510855975223": {
+    "tokenId": "313060976664291039489199441510855975223",
+    "name": "Golden Ticket #318",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSPg5347tdnpbF5cQBbDYPCey2gtZBUnEfdAA4KzoYwHZ",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "313517335930807516276538810807037165996": {
+    "tokenId": "313517335930807516276538810807037165996",
+    "name": "Golden Ticket #630",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfJhWrk6EP2hxj7as1ApkF6qhVsNnuJQkwW8iLF1mMNWw",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "317659863366253135176847680872662917208": {
+    "tokenId": "317659863366253135176847680872662917208",
+    "name": "Golden Ticket #664",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbzXQZuZjtQJ2Egcp4fjtabDP7PqFKmSeaB6c7Hq2cC8w",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "31848728389262696909217848191333114315": {
+    "tokenId": "31848728389262696909217848191333114315",
+    "name": "Golden Ticket #178",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmV6wrsj4Pyr53epmZ28o1bfAyaszViGyowLt57J1Gf1rn",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "320246443149715975279691197001530348122": {
+    "tokenId": "320246443149715975279691197001530348122",
+    "name": "Golden Ticket #453",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYx2yUqN1Dt9dawtQCL1pda1dCezm1pHSUFzqVcngsvFs",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "321620666022103805800198046012802814660": {
+    "tokenId": "321620666022103805800198046012802814660",
+    "name": "Golden Ticket #669",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPU1eKRhFtbrUaka7A22iMCvbemJ95tzN6EEUkDHZmF1u",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "324295052650260244765759192517246203455": {
+    "tokenId": "324295052650260244765759192517246203455",
+    "name": "Golden Ticket #661",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmd8PvpP2gRw1am3Bh4EahxqPmeBxe1vP6uPHxPCSVd6aH",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "325724896613766528051270152927974806225": {
+    "tokenId": "325724896613766528051270152927974806225",
+    "name": "Golden Ticket #456",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUF85XcDyHYFbscL9UKvgL5W7JdDZCAXXvPKCmaaJMW6M",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "329265097763942886093094332308136730477": {
+    "tokenId": "329265097763942886093094332308136730477",
+    "name": "Golden Ticket #10",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmc3pKnqMQm8ReNanjfkXYEyjXM5KnGotZXqvwtVQ9LRhN",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "329657443065116710317558360165823833478": {
+    "tokenId": "329657443065116710317558360165823833478",
+    "name": "Golden Ticket #284",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXEc9xuwXoQqHHpUpRPbPGu5zy9TGkXUViKYusJUNgiqm",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "330012239669236334420383209777786309095": {
+    "tokenId": "330012239669236334420383209777786309095",
+    "name": "Golden Ticket #776",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYbAcf3rDvYsbTNF1cs5PKr4TGVbM5LrDPh4CWSQLpEyi",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "331251379369087521578867528027251197253": {
+    "tokenId": "331251379369087521578867528027251197253",
+    "name": "Golden Ticket #416",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmR35JQLbokryUSaFxe2u87g4mwUJ9boj5etc3E6mgSPb9",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "331313034097796974613356739550533507897": {
+    "tokenId": "331313034097796974613356739550533507897",
+    "name": "Golden Ticket #58",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSY9oVkXDbERQVgAiTmKzVXQh7Ycug9eVzv3xxxuPnTmU",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "333718281253866714347426981847221865635": {
+    "tokenId": "333718281253866714347426981847221865635",
+    "name": "Golden Ticket #264",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYrfzRKVRNB1DUzvZNMCjTjFNzuawduNwXZyXHzWR4sHi",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "333805216893594210433367527896611571654": {
+    "tokenId": "333805216893594210433367527896611571654",
+    "name": "Golden Ticket #206",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmbdK6aWW1JWWkM8EE9xwTVLGHivDsfDUVXLWMAYv4gaEs",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "333998034380259534834410764278864536407": {
+    "tokenId": "333998034380259534834410764278864536407",
+    "name": "Golden Ticket #202",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSpCEBJvTafpVR7DCAL4udfqqpETt3wnsY2LqW9Cw24CJ",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "335663219989900941675831463972904409438": {
+    "tokenId": "335663219989900941675831463972904409438",
+    "name": "Golden Ticket #104",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdYu8TJYyrhgwVrYW9n8xnRtDM6ZG7CofU4D7LMwSpXTL",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "35498303510362263637606176926250395470": {
+    "tokenId": "35498303510362263637606176926250395470",
+    "name": "Golden Ticket #363",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeR1ZFXRUZBqeswcyai1cgwmxqhwtEBfeNPuQ3L4L72vF",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "3634176599724130242597949058663876995": {
+    "tokenId": "3634176599724130242597949058663876995",
+    "name": "Golden Ticket #475",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmagQgJRjzmWrf8aeP5cCKh1RWAyeAEicKaCKhbs3QJu1Y",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "37016487938439056357654263161914839242": {
+    "tokenId": "37016487938439056357654263161914839242",
+    "name": "Golden Ticket #766",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSmAo8oKGmi7DF3d1u3M23nVmqMNX6KZvfWfmz4thNkvd",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "38253848669638613924371377304784464418": {
+    "tokenId": "38253848669638613924371377304784464418",
+    "name": "Golden Ticket #738",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmXmu7WPPaKr4xmWgCqEKEegTc2DueaD5pDWEMqyb1pXiz",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "39189913506038877252926857336175415696": {
+    "tokenId": "39189913506038877252926857336175415696",
+    "name": "Golden Ticket #290",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmea9EjXLuSm7wvv5J5j8ZNjLB1He1RhFzxRvY56k5chiV",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "39437416634179766899025174348127263821": {
+    "tokenId": "39437416634179766899025174348127263821",
+    "name": "Golden Ticket #328",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeoMz9tryyUMZ5b3nTqiMxDB3v6N3vzJuf5keh2ybkwa8",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "4123353749702519229221459830221296949": {
+    "tokenId": "4123353749702519229221459830221296949",
+    "name": "Golden Ticket #139",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRZJ7wjb9CgALRdSyw5d2cuqHabEw7k53scCdnaBYG73z",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "41561381432792819473621790657063305674": {
+    "tokenId": "41561381432792819473621790657063305674",
+    "name": "Golden Ticket #70",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmfTmUjNqQqY2qhBQdY7GPdjo5eNYkCzWsopCcRwJmTU1u",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "43305631447037759640524313104869413697": {
+    "tokenId": "43305631447037759640524313104869413697",
+    "name": "Golden Ticket #674",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdXFe38RWsTCi1jsv5fcErRC569XA5DajgFFHvm4YF9ho",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "44241916318193547183480672034607156778": {
+    "tokenId": "44241916318193547183480672034607156778",
+    "name": "Golden Ticket #274",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmca2N75oVnpjcrzWEqS2Vf7FM9kxd8fwJvJtgNcu5AByn",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "44812052254735288010394633189162689105": {
+    "tokenId": "44812052254735288010394633189162689105",
+    "name": "Golden Ticket #634",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmNb1xp2LSnbSvwq5dXZmdycSLKHwYJsCrLd5z57YKFzEm",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "44813841058067055405406785901134091612": {
+    "tokenId": "44813841058067055405406785901134091612",
+    "name": "Golden Ticket #94",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPmoiAoXC3TYdAR2axAfsh6bmNcQJRA4fPwoRKTKgbiun",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "45324551923283150509016243856934116283": {
+    "tokenId": "45324551923283150509016243856934116283",
+    "name": "Golden Ticket #590",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQrmXbpXRYejQ9NzD2tJx61xwZrsy32EjBdUvLDs5ZrYb",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "47340527500164644385154525902855799926": {
+    "tokenId": "47340527500164644385154525902855799926",
+    "name": "Golden Ticket #2",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYxZRSH8yEdWtgPQmyYpzzdMxVbrNUVD9GU9583ZoCYiL",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "48164235189454714016030341116685849238": {
+    "tokenId": "48164235189454714016030341116685849238",
+    "name": "Golden Ticket #433",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qme3idVATjXeLHi62bWpQTHvMoGFzpZMR6HjqoPiKUXpUm",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "49443573736388937532553246950484800521": {
+    "tokenId": "49443573736388937532553246950484800521",
+    "name": "Golden Ticket #762",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSjrQcT9h53wNvssCetaodMyYMPPiFVY4jX2yNo84ejYb",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "50637516863152043103934343009962184526": {
+    "tokenId": "50637516863152043103934343009962184526",
+    "name": "Golden Ticket #237",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPZF3jPuQU7yjnaVTehDd645SvgsdWFnHZ3cmQz7zVbTz",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "52523489116138639970702843475825756638": {
+    "tokenId": "52523489116138639970702843475825756638",
+    "name": "Golden Ticket #120",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUc4ekeLK2G55opXYEQBD3smRR9bCabkrmUcHLDRq8M5D",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "52559153759704789921939401907196220843": {
+    "tokenId": "52559153759704789921939401907196220843",
+    "name": "Golden Ticket #632",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQw74NZsfVM9SKgc6DF68SD7tbwwrB3Ld7yD42QU8GGcm",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "60003630760013305744036679265510773469": {
+    "tokenId": "60003630760013305744036679265510773469",
+    "name": "Golden Ticket #671",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeyyyPkx2csvyQG5tihQ2pMqwFUVfe3sychCFMeuXvmzh",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "61183104096710354075974803813906676168": {
+    "tokenId": "61183104096710354075974803813906676168",
+    "name": "Golden Ticket #637",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmUoxVFoKG2awmWnrb77Mckz9tngdxPYmByPz4BBGcMD9b",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "61937305080321867904970574553836693976": {
+    "tokenId": "61937305080321867904970574553836693976",
+    "name": "Golden Ticket #299",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZsvr8Yx6rg6tu9edUWL2drKu2aQsmR4351Ejx1rTcrrj",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "62227953622986708271512041959608108209": {
+    "tokenId": "62227953622986708271512041959608108209",
+    "name": "Golden Ticket #194",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmcmS87E2aFqBg6kDp3Ujo3rne2Qatd4u4NB5R1mtF4aAd",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "6224268225012109212626741208786100223": {
+    "tokenId": "6224268225012109212626741208786100223",
+    "name": "Golden Ticket #221",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeYkkscawtv8MmJuoLegcQz6AsrL5Ts4nooPeEFZeHUyG",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "63426313560038913725234233523421028849": {
+    "tokenId": "63426313560038913725234233523421028849",
+    "name": "Golden Ticket #294",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmWyu8Tp2DpBi4ik5iX3d97Npqq81mzVdbKozG7VHAy6Zr",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "64681385331602151237344583477280508260": {
+    "tokenId": "64681385331602151237344583477280508260",
+    "name": "Golden Ticket #61",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmcp7DnD6u9cpFoP8r4GWNXxTpdMbf8c4LBuMTJ4Hi4e19",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "65549247232353063025599955073655277871": {
+    "tokenId": "65549247232353063025599955073655277871",
+    "name": "Golden Ticket #125",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmbf8tvPxeH8g5tN59b8DLH8iSRzxq1Yc9DqrWfodisnXk",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "68399096201716609433206879923852946974": {
+    "tokenId": "68399096201716609433206879923852946974",
+    "name": "Golden Ticket #390",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmeNyxEKmvX5XCR1gM2qskMeSf67B6Rou5kXFTK1MRxhsj",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "68529354162922725317300066798188351260": {
+    "tokenId": "68529354162922725317300066798188351260",
+    "name": "Golden Ticket #133",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmULYQny95gvAJ3spSCDStc9iB93W5GJ3huhQf77qTD1g3",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "69159519264018302386606961381219832793": {
+    "tokenId": "69159519264018302386606961381219832793",
+    "name": "Golden Ticket #342",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYX5gjhpz4WpcoKRHr6vK1abC9j7ePdq6pNknKJQ4fgu5",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "69825216242468941384288243075726571934": {
+    "tokenId": "69825216242468941384288243075726571934",
+    "name": "Golden Ticket #578",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmS92ixHJjkSwf95enA7PHpzpA44bjrHAu9VjECuFECgmF",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "70347736877905377319733248084248219080": {
+    "tokenId": "70347736877905377319733248084248219080",
+    "name": "Golden Ticket #182",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYfKkHWgxKPUFg3BMxGmMmRhtHWy7D8FsmCGN6q1LXL5x",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "7135951441515547965185087150412130848": {
+    "tokenId": "7135951441515547965185087150412130848",
+    "name": "Golden Ticket #770",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmP3UgJ2CpE6GVUpUc6giM912FRbcg7RnEBMfNmpfH38Xw",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "71881281539472924923733865283858656774": {
+    "tokenId": "71881281539472924923733865283858656774",
+    "name": "Golden Ticket #550",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRhHBuqRiFxbqxeRiJLtwwLZMNSRqURz4KJ9cTPi8GqPM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "74535348620872355502256079016922495366": {
+    "tokenId": "74535348620872355502256079016922495366",
+    "name": "Golden Ticket #326",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPoHBcSGkYnpjYPqLqvwTJHLhULgVxsVKFa2u1KxA8wLC",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "76792377850855312929611345014790435283": {
+    "tokenId": "76792377850855312929611345014790435283",
+    "name": "Golden Ticket #524",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdewXGF1XiMRiCjsGmLR6wyJm7K2oKPJZQ3xa9NWSpNVd",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "77100069851642453245196489690190046219": {
+    "tokenId": "77100069851642453245196489690190046219",
+    "name": "Golden Ticket #622",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmSb1c2ciUjEmmMi3P6eQyBbFJU46xUH9TMiMKzD9aogAb",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "77898834295042407275713783181743314356": {
+    "tokenId": "77898834295042407275713783181743314356",
+    "name": "Golden Ticket #73",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQbMcCqF8fjg2TeJT58HujG2sPuq4JWKkPp6m4rqPF9Fk",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "78209053106630038974702799537875745940": {
+    "tokenId": "78209053106630038974702799537875745940",
+    "name": "Golden Ticket #252",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmd5q493qVpz6EzcwLSpgHbzK7G57vooZidN84o7tuFx6B",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "78897872020392962241668536453900228093": {
+    "tokenId": "78897872020392962241668536453900228093",
+    "name": "Golden Ticket #677",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPjBojgPbDab4DRy8Dy5Wc2EbdYtvgCUm5sKnasurqk1i",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "79533443229487935483279046710852847616": {
+    "tokenId": "79533443229487935483279046710852847616",
+    "name": "Golden Ticket #408",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmPqMh8jN4zwTN78LSTYfqapXDF6Zx1LByRmDLvyYUAJJB",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "81347901192621831342289510204307228380": {
+    "tokenId": "81347901192621831342289510204307228380",
+    "name": "Golden Ticket #402",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmdFMDoXckL7PNiPGDqEBRMFi1Y8zhm6MBG2KRCsQWQqrE",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "8589040737130488992697637592449853917": {
+    "tokenId": "8589040737130488992697637592449853917",
+    "name": "Golden Ticket #32",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmX2p8VhjbvnUMqeRqxmkArfB5pasHUyJcN8SMzLMqJ2oE",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "91226161170811264921902782050810195117": {
+    "tokenId": "91226161170811264921902782050810195117",
+    "name": "Golden Ticket #756",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://Qmb8gYzC6zzR3V2S19Fr7wVJ8WScHijRA6CjqrgJwu7zTK",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "92297572345125433425360347364544255045": {
+    "tokenId": "92297572345125433425360347364544255045",
+    "name": "Golden Ticket #466",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmebHWqZAHaPyDe2KeP6ikCHp6WoeDKB6zhYEfHN3fazUM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "93778975404603117296472390787345443332": {
+    "tokenId": "93778975404603117296472390787345443332",
+    "name": "Golden Ticket #446",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmYuFUiUsU4ZQwY7jQfrLxBrA7cJVLLvpqrrQMcqcTTggM",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "95759636631776070647381238394927938129": {
+    "tokenId": "95759636631776070647381238394927938129",
+    "name": "Golden Ticket #429",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRKuPAZCTZ6rHJQw819mumGxqaimaUHtWceFK2cdFrYsy",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "95813070159716045579016048649233332483": {
+    "tokenId": "95813070159716045579016048649233332483",
+    "name": "Golden Ticket #706",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmVvQsQXnkuyARECrf6og7nq26gia3XBaHyRXcSKoYhtaS",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "96088362626155339063996926416554755408": {
+    "tokenId": "96088362626155339063996926416554755408",
+    "name": "Golden Ticket #258",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmRRLvjuPcYgDSfD64Enz9RR3XVuwV3JyLjgbHAu2gWEfd",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "96730062628752439727022329003426845486": {
+    "tokenId": "96730062628752439727022329003426845486",
+    "name": "Golden Ticket #482",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQ1fUgDbif8wfz7x2SqCd2guVfff9pMu7tdz6HkJ36oqo",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "9713473707972038118651847526990900283": {
+    "tokenId": "9713473707972038118651847526990900283",
+    "name": "Golden Ticket #115",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmQdMc99rqvX1bUbcpyCy7YBCp4ZVUinTs3St7mf1HBqPu",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "97621016018471852431585392091246829701": {
+    "tokenId": "97621016018471852431585392091246829701",
+    "name": "Golden Ticket #633",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmP5TLZeQRuUzKeyo7M5DxbqjNanbChKTgmFaqdyWo8now",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  },
+  "9927871234147540588839168169754795345": {
+    "tokenId": "9927871234147540588839168169754795345",
+    "name": "Golden Ticket #504",
+    "description": "Terra Meta Royals: Golden Tickets. 1 of 777.",
+    "image": "ipfs://QmZ9BXPwVkAZrpwgn1qrey75PviGYn239VH5yQYQgyVRKd",
+    "external_url": null,
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Background",
+        "value": "Black Fabric"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Ticket",
+        "value": "Golden Ticket"
+      }
+    ]
+  }
+}
