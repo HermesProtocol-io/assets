@@ -659,5 +659,26 @@
         "pair_type": {
             "xyk": {}
         }
+     }, 
+     "terra1zhq0rqermczklmw89ranmgz28zthsthw6u35umgvpykfwzlwtgcsylpqqf": {
+       "protocol": "Astroport",
+       "name": "RED/LUNA Pair",
+       "asset_infos": [
+           {
+               "native_token": {
+                   "denom": "uluna"
+               }
+           },
+           {
+               "token": {
+                   "contract_addr": "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk"
+               }
+           }
+       ],
+       "contract_addr": "terra1zhq0rqermczklmw89ranmgz28zthsthw6u35umgvpykfwzlwtgcsylpqqf",
+       "liquidity_token": "terra1ua7uk7xvx89dg8tnr8k8smk5vermlaer50zsglmpx8plttaxvvtsem5fgy",
+       "pair_type": {
+           "xyk": {}
+       }
     }
 }
