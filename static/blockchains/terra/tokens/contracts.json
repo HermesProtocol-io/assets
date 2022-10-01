@@ -69,13 +69,13 @@
         "name": "ampLUNA-LUNA Pair",
         "asset_infos": [
             {
-                "native_token": {
-                    "denom": "uluna"
+                "token": {
+                    "contract_addr": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
                 }
             },
             {
-                "token": {
-                    "contract_addr": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+                "native_token": {
+                    "denom": "uluna"
                 }
             }
         ],
