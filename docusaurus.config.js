@@ -66,12 +66,6 @@ const config = {
         },
         items: [
           {
-            type: "doc",
-            docId: "blockchains/terraClassic/nfts",
-            position: "left",
-            label: "Assets",
-          },
-          {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
             position: "right",
