@@ -1,0 +1,22 @@
+{
+  "terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnhp": {
+    "protocol": "Wormhole",
+    "name": "Core Bridge",
+    "icon": "https://assets.terra.money/bridge/wormhole.png"
+  },
+  "terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9": {
+    "protocol": "Wormhole",
+    "name": "Token Bridge",
+    "icon": "https://assets.terra.money/bridge/wormhole.png"
+  },
+  "terra10788fkzah89xrdm27zkj5yvhj9x3494lxawzm5qq3vvxcqz2yzaqyd3enk": {
+    "protocol": "Eris Protocol",
+    "name": "Eris Liquid Staking Hub",
+    "icon": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+  },
+  "terra12e4v50xl33fnwkzltz9vu565snlmx65vdrk8e2644km09myewr8q538psc": {
+    "protocol": "STEAK Protocol",
+    "name": "STEAK Liquid Staking Hub",
+    "icon": "https://liquidstaking.app/steak.png"
+  }
+}
