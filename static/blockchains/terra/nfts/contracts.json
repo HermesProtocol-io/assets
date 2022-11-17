@@ -234,5 +234,13 @@
         "marketplace": [
             "https://knowhere.art/collections/terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq"
         ]
+    },
+    "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3": {
+        "contract": "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3",
+        "name": "lns",
+        "symbol": "lns",
+        "icon": "https://i.imgur.com/EehLjvt.png",
+        "homepage": "https://www.lns.money/",
+        "marketplace": []
     }
 }
