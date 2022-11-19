@@ -982,5 +982,28 @@
     ],
     "contract_addr": "terra1zmv0qqangw0fp78xtzyzksmzl6weev5pm6d6y44k4z4lvszv6gqq04m2l0",
     "liquidity_token": "terra1kzwl8dk45sn3nrfpangz73za32kzcyz4t6lq8jq9ctrwrzv07c4qda7sy8"
+  },
+  "terra1h32epkd72x7st0wk49z35qlpsxf26pw4ydacs8acq6uka7hgshmq7z7vl9": {
+    "protocol": "Backbone Labs",
+    "name": "bLUNA/LUNA Pair",
+    "asset_infos": [
+      {
+        "token": {
+          "contract_addr": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml"
+        }
+      },
+      {
+        "native_token": {
+          "denom": "uluna"
+        }
+      }
+    ],
+    "contract_addr": "terra1h32epkd72x7st0wk49z35qlpsxf26pw4ydacs8acq6uka7hgshmq7z7vl9",
+    "liquidity_token": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
+    "pair_type": {
+      "stable": {
+        "amp": 10
+      }
+    }
   }
 }
