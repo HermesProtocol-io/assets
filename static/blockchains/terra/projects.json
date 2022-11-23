@@ -1,0 +1,42 @@
+{
+  "hermesProtocol": {
+    "name": "Hermes Protocol",
+    "description": "Good or bad news, we can deliver the information straight to your device or app of choice. Sleep well knowing that you will be alerted when something of interest is happening.",
+    "icon": {
+      "svg": "https://hermesprotocol.io/assets/images/icon.svg",
+      "png": "https://media.discordapp.net/attachments/954210236900724756/1009539276339433633/Hermes_Protocol_Logo_Icon_Camel_-_circle_crop.png"
+    },
+    "url": "https://hermesprotocol.io/",
+    "categories": []
+  },
+  "astroport": {
+    "name": "Astroport",
+    "description": "Astroport brings liquidity to Terra tokens from all parts of the galaxy.",
+    "icon": {
+      "svg": "https://app.astroport.fi/tokens/astro.svg",
+      "png": "https://app.astroport.fi/tokens/astro.png"
+    },
+    "url": "https://astroport.io/",
+    "categories": []
+  },
+  "terraswap": {
+    "name": "Terraswap",
+    "description": "A decentralized protocol for seamless access to asset liquidity on Terra.",
+    "icon": {
+      "svg": "https://app.terraswap.io/favicon.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
+    },
+    "url": "https://terraswap.io/",
+    "categories": []
+  },
+  "phoenixFinance": {
+    "name": "Phoenix Finance",
+    "description": "Trade, Swap, and Provide Liquidity on the best decentralized, permissionless DEX.",
+    "icon": {
+      "svg": "https://app.phoenixfi.so/logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/phoenixFinance.png"
+    },
+    "url": "https://phoenixfi.so/",
+    "categories": []
+  }
+}
