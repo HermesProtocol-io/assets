@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Contribute',
+    Svg: require('@site/static/img/features/bookmark.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Check our ReadMe on the <a href='https://github.com/HermesProtocol-io/assets'>Assets repo</a> for instructions on how to get your project supported by us.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Platform Documentation',
+    Svg: require('@site/static/img/features/book.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        See <a href='https://docs.hermesprotocol.io'>our documentation</a> regarding our web app and our suite of bots.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'About us',
+    Svg: require('@site/static/img/features/hermes.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Visit <a href='https://hermesprotocol.io/'>our homepage</a> to learn more about what problems we are solving and how.
       </>
     ),
   },
@@ -57,6 +54,7 @@ function Feature({title, Svg, description}: FeatureItem) {
 
 export default function HomepageFeatures(): JSX.Element {
   return (
+    <div className={styles.flex}>
     <section className={styles.features}>
       <div className="container">
         <div className="row">
@@ -66,5 +64,6 @@ export default function HomepageFeatures(): JSX.Element {
         </div>
       </div>
     </section>
+    </div>
   );
 }
