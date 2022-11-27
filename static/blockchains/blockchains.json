@@ -85,5 +85,131 @@
       "tx": "https://explorer.near.org/transactions/%tx%/",
       "wallet": "https://explorer.near.org/accounts/%address%/"
     }
+  },
+  "cosmosHub": {
+    "name": "Cosmos Hub",
+    "description": "",
+    "chain_id": "cosmoshub-4",
+    "prefix": "cosmos",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["uatom"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://api.cosmos.network", "https://cosmos-mainnet-archive.allthatnode.com:1317", "https://node.atomscan.com", "https://cosmos-api.polkachu.com" ],
+      "rpc": [ "https://api.cosmos.network", "https://cosmos-mainnet-archive.allthatnode.com:1317", "https://rpc.atomscan.com", "https://cosmos-rpc.polkachu.com" ],
+      "block": "https://www.mintscan.io/cosmos/blocks/%block%/",
+      "tx": "https://www.mintscan.io/cosmos/txs/%tx%/",
+      "wallet": "https://www.mintscan.io/cosmos/account/%address%/"
+    }
+  },
+  "juno": {
+    "name": "Juno",
+    "description": "",
+    "chain_id": "juno-1",
+    "prefix": "juno",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["ujuno"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://juno-lcd.stakely.io", "https://juno-api.polkachu.com", "https://api-juno.nodes.guru", "https://juno.stakesystems.io", "https://lcd-juno.itastakers.com" ],
+      "rpc": [ "https://juno-rpc.stakely.io", "https://juno-rpc.polkachu.com", "https://juno-rpc-server-01.stakely.io", "https://rpc-juno.itastakers.com", "https://rpc-juno.nodes.guru" ],
+      "block": "https://www.mintscan.io/juno/blocks/%block%/",
+      "tx": "https://www.mintscan.io/juno/txs/%tx%/",
+      "wallet": "https://www.mintscan.io/juno/account/%address%/"
+    }
+  },
+  "osmosis": {
+    "name": "Osmosis",
+    "description": "",
+    "chain_id": "osmosis-1",
+    "prefix": "osmo",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["uosmo", "uion"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://osmosis-lcd.stakely.io", "https://osmosis-api.polkachu.com", "https://lcd.osmosis.zone", "https://lcd-osmosis.blockapsis.com", "https://osmosis-lcd.quickapi.com" ],
+      "rpc": [ "https://osmosis-rpc.stakely.io", "https://osmosis-rpc.polkachu.com", "https://osmosis-rpc-server-01.stakely.io", "https://rpc.osmosis.zone", "https://rpc-osmosis.blockapsis.com" ],
+      "block": "https://www.mintscan.io/osmosis/blocks/%block%/",
+      "tx": "https://www.mintscan.io/osmosis/txs/%tx%/",
+      "wallet": "https://www.mintscan.io/osmosis/account/%address%/"
+    }
+  },
+  "injective": {
+    "name": "Injective",
+    "description": "",
+    "chain_id": "injective-1",
+    "prefix": "inj",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["inj"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://k8s.global.mainnet.lcd.injective.network", "https://injective-api.polkachu.com" ],
+      "rpc": [ "https://k8s.global.mainnet.tm.injective.network", "https://injective-rpc.polkachu.com" ],
+      "block": "https://www.mintscan.io/injective/blocks/%block%/",
+      "tx": "https://www.mintscan.io/injective/txs/%tx%/",
+      "wallet": "https://www.mintscan.io/injective/account/%address%/"
+    }
+  },
+  "jackal": {
+    "name": "Jackal Protocol",
+    "description": "",
+    "chain_id": "jackal-1",
+    "prefix": "jkl",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["ujkl"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://api.jackalprotocol.com", "https://jackal-api.polkachu.com" ],
+      "rpc": [ "https://rpc.jackalprotocol.com", "https://jackal-rpc.polkachu.com" ],
+      "block": "https://ping.pub/jackal/blocks/%block%/",
+      "tx": "https://ping.pub/jackal/tx/%tx%/",
+      "wallet": "https://ping.pub/jackal/account/%address%/"
+    }
+  },
+  "andromeda": {
+    "name": "Andromeda Protocol",
+    "description": "",
+    "chain_id": "galileo-2",
+    "prefix": "andr",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["uandr"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://lcd-andromeda-testnet.cereslabs.io", "https://lcd-andromeda-testnet.synergynodes.com" ],
+      "rpc": [ "https://rpc-andromeda-testnet.cereslabs.io", "https://rpc-andromeda-testnet.synergynodes.com" ],
+      "block": "https://testnets.cosmosrun.info/andromeda/blocks/%block%/",
+      "tx": "https://testnets.cosmosrun.info/andromeda/tx/%tx%/",
+      "wallet": "https://testnets.cosmosrun.info/andromeda/account/%address%/"
+    }
+  },
+  "archway": {
+    "name": "Archway",
+    "description": "",
+    "chain_id": "constantine-1",
+    "prefix": "archway",
+    "icon": "",
+    "native_tokens": {
+      "denoms": ["uconst"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://api.constantine-1.archway.tech" ],
+      "rpc": [ "https://rpc.constantine-1.archway.tech" ],
+      "block": "https://explorer.constantine-1.archway.tech/blocks/%block%/",
+      "tx": "https://explorer.constantine-1.archway.tech/transactions/%tx%/",
+      "wallet": "https://explorer.constantine-1.archway.tech/account/%address%/"
+    }
   }
 }
