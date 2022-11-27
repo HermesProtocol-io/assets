@@ -3,6 +3,7 @@
     "name": "Terra",
     "description": "",
     "chain_id": "phoenix-1",
+    "prefix": "terra",
     "icon": "https://assets.hermesprotocol.io/img/projects/Terra.png",
     "native_tokens": {
       "denoms": ["uluna"]
@@ -16,6 +17,7 @@
     "name": "Terra Classic",
     "description": "",
     "chain_id": "columbus-5",
+    "prefix": "terra",
     "icon": "https://assets.hermesprotocol.io/img/projects/TerraClassic.png",
     "native_tokens": {
       "denoms": [
@@ -53,6 +55,7 @@
     "name": "Near",
     "description": "",
     "chain_id": "mainnet",
+    "prefix": "",
     "icon": "https://assets.hermesprotocol.io/img/projects/near.png",
     "native_tokens": {
       "denoms": ["NEAR", "usn"]
