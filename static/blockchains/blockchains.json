@@ -11,7 +11,14 @@
     "folder": "./terra/",
     "block_URL": "https://terrasco.pe/mainnet/blocks/%block%/",
     "tx_URL": "https://terrasco.pe/mainnet/tx/%tx%/",
-    "wallet_URL": "https://terrasco.pe/mainnet/address/%address%/"
+    "wallet_URL": "https://terrasco.pe/mainnet/address/%address%/",
+    "URL": {
+      "rest": [ "https://phoenix-lcd.terra.dev", "https://terra-lcd.stakely.io", "https://terra-api.polkachu.com", "https://fcd.terrav2.ccvalidators.com", "https://terra2.tdrsys.com", "https://lcd-terra.wildsage.io" ],
+      "rpc": [ "https://terra-rpc.stakely.io", "https://terra-rpc.polkachu.com", "https://rpc.terrav2.ccvalidators.com", "https://terra2.tdrsys.com:2053", "https://rpc-terra.wildsage.io" ],
+      "block": "https://terrasco.pe/mainnet/blocks/%block%/",
+      "tx": "https://terrasco.pe/mainnet/tx/%tx%/",
+      "wallet": "https://terrasco.pe/mainnet/address/%address%/",
+    }
   },
   "terraClassic": {
     "name": "Terra Classic",
@@ -49,7 +56,14 @@
     "folder": "./terraClassic/",
     "block_URL": "https://finder.terra.money/classic/blocks/%block%/",
     "tx_URL": "https://finder.terra.money/classic/tx/%tx%/",
-    "wallet_URL": "https://finder.terra.money/classic/address/%address%/"
+    "wallet_URL": "https://finder.terra.money/classic/address/%address%/",
+    "URL": {
+      "rest": [ "https://columbus-lcd.terra.dev" ],
+      "rpc": [],
+      "block": "https://finder.terra.money/classic/blocks/%block%/",
+      "tx": "https://finder.terra.money/classic/tx/%tx%/",
+      "wallet": "https://finder.terra.money/classic/address/%address%/"
+    }
   },
   "near": {
     "name": "Near",
@@ -63,6 +77,13 @@
     "folder": "./near/",
     "block_URL": "https://explorer.near.org/blocks/%block%/",
     "tx_URL": "https://explorer.near.org/transactions/%tx%/",
-    "wallet_URL": "https://explorer.near.org/accounts/%address%/"
+    "wallet_URL": "https://explorer.near.org/accounts/%address%/",
+    "URL": {
+      "rest": [ "https://rpc.mainnet.near.org", "https://rpc.ankr.com/near", "https://public-rpc.blockpi.io/http/near" ],
+      "rpc": [ "https://rpc.mainnet.near.org", "https://rpc.ankr.com/near", "https://public-rpc.blockpi.io/http/near" ],
+      "block": "https://explorer.near.org/blocks/%block%/",
+      "tx": "https://explorer.near.org/transactions/%tx%/",
+      "wallet": "https://explorer.near.org/accounts/%address%/"
+    }
   }
 }
