@@ -18,5 +18,15 @@
     },
     "url": "https://terraswap.io/",
     "categories": []
+  },
+  "metaFrens": {
+    "name": "MetaFrens",
+    "description": "MetaFrens is a community-led NFT metaverse open for all Terra NFTs.",
+    "icon": {
+      "svg": "",
+      "png": "https://assets.hermesprotocol.io/img/projects/metaFrens.png"
+    },
+    "url": "https://terrafloki.io/",
+    "categories": []
   }
 }
