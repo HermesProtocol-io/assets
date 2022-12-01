@@ -242,5 +242,15 @@
         "icon": "https://i.imgur.com/EehLjvt.png",
         "homepage": "https://www.lns.money/",
         "marketplace": []
+    },
+    "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4": {
+        "contract": "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4",
+        "name": "Hero Classic",
+        "symbol": "Hero",
+        "icon": "https://www.heronft.io/static/media/dokwon.d28eda5f.webp",
+        "homepage": "https://heronft.io",
+        "marketplace": [
+            "https://knowhere.art/collection/terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4"
+        ]
     }
 }
