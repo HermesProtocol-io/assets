@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Hermes Protocol",
+  title: "Hermes Protocol - Assets repository",
   tagline: "",
   url: "https://assets.hermesprotocol.io/",
   baseUrl: "/",
@@ -64,51 +64,25 @@ const config = {
           alt: "Hermes Protocol Logo",
           src: "img/secondary-logo/hermes-secondary-camel.svg",
         },
-        items: [
-          {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
-            position: "right",
-          },
-        ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
+            label: "Discord",
+            href: "https://discord.gg/RkZvDsWaGk",
           },
           {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
+            label: "Twitter",
+            href: "https://twitter.com/HermesProtocol",
           },
           {
-            title: "More",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
+            label: "Organization",
+            href: "https://github.com/HermesProtocol-io",
+          },
+          {
+            label: "Repository",
+            href: "https://github.com/HermesProtocol-io/assets",
           },
         ],
         copyright: `© ${new Date().getFullYear()} <a href="https://momentum-one.io/">Momentum One</a>. All rights reserved.`,

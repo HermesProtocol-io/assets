@@ -1,0 +1,32 @@
+{
+  "astroport": {
+    "name": "Astroport",
+    "description": "Astroport brings liquidity to Terra tokens from all parts of the galaxy.",
+    "icon": {
+      "svg": "https://app.astroport.fi/tokens/astro.svg",
+      "png": "https://app.astroport.fi/tokens/astro.png"
+    },
+    "url": "https://astroport.io/",
+    "categories": []
+  },
+  "terraswap": {
+    "name": "Terraswap",
+    "description": "A decentralized protocol for seamless access to asset liquidity on Terra.",
+    "icon": {
+      "svg": "https://app.terraswap.io/favicon.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
+    },
+    "url": "https://terraswap.io/",
+    "categories": []
+  },
+  "metaFrens": {
+    "name": "MetaFrens",
+    "description": "MetaFrens is a community-led NFT metaverse open for all Terra NFTs.",
+    "icon": {
+      "svg": "",
+      "png": "https://assets.hermesprotocol.io/img/projects/metaFrens.png"
+    },
+    "url": "https://terrafloki.io/",
+    "categories": []
+  }
+}
