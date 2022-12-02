@@ -784,5 +784,13 @@
         "marketplace": [
             "https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"
         ]
+    },
+    "terra1c26skq575mejc6p5jamag3lfcxrnny80jpte76": {
+        "contract": "terra1c26skq575mejc6p5jamag3lfcxrnny80jpte76",
+        "name": "lns",
+        "symbol": "lns",
+        "icon": "https://i.imgur.com/EehLjvt.png",
+        "homepage": "https://www.lns.money/",
+        "marketplace": []
     }
 }

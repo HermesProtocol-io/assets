@@ -234,5 +234,23 @@
         "marketplace": [
             "https://knowhere.art/collections/terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq"
         ]
+    },
+    "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3": {
+        "contract": "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3",
+        "name": "lns",
+        "symbol": "lns",
+        "icon": "https://i.imgur.com/EehLjvt.png",
+        "homepage": "https://www.lns.money/",
+        "marketplace": []
+    },
+    "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4": {
+        "contract": "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4",
+        "name": "Hero Classic",
+        "symbol": "Hero",
+        "icon": "https://www.heronft.io/static/media/dokwon.d28eda5f.webp",
+        "homepage": "https://heronft.io",
+        "marketplace": [
+            "https://knowhere.art/collection/terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4"
+        ]
     }
 }
