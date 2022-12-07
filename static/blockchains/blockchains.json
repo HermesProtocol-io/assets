@@ -58,7 +58,7 @@
     "tx_URL": "https://finder.terra.money/classic/tx/%tx%/",
     "wallet_URL": "https://finder.terra.money/classic/address/%address%/",
     "URL": {
-      "rest": [ "https://columbus-lcd.terra.dev" ],
+      "rest": [ "https://lcd.terrarebels.net", "https://terra-classic-lcd.publicnode.com" ],
       "rpc": [],
       "block": "https://finder.terra.money/classic/blocks/%block%/",
       "tx": "https://finder.terra.money/classic/tx/%tx%/",
