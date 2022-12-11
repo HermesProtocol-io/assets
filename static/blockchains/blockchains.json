@@ -211,5 +211,23 @@
       "tx": "https://explorer.constantine-1.archway.tech/transactions/%tx%/",
       "wallet": "https://explorer.constantine-1.archway.tech/account/%address%/"
     }
+  },
+  "q": {
+    "name": "Q",
+    "description": "Mainnet of Q.org blockchain.",
+    "chain_id": "35441",
+    "prefix": "",
+    "icon": "https://assets.hermesprotocol.io/img/projects/q.svg",
+    "native_tokens": {
+      "denoms": ["Q"]
+    },
+    "folder": "",
+    "URL": {
+      "rest": [ "https://rpc.q.org" ],
+      "rpc": [ "https://rpc.q.org" ],
+      "block": "https://explorer.q.org/block/%block%/transactions/",
+      "tx": "https://explorer.q.org/tx/%tx%/",
+      "wallet": "https://explorer.q.org/address/%address%/"
+    }
   }
 }

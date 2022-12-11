@@ -8,10 +8,10 @@ https://assets.hermesprotocol.io/blockchains/blockchains.json
 | Name                        | Running a Validator | Integration on-going  | Fully Integrated | Assets |
 | --------------------------- | ------------------- | --------------------- | ---------------- | ------ |
 | Terra (Cosmos)              | ✅                  | ✅                   | ✅               | ✅    |
-| Terra Classic (Cosmos)      | ❌                  | ✅                   | ✅               | ⏳     |
-| Near                        | ❌                  | ✅                   | ⏳               | ⏳     |
-| Andromeda (Cosmos)          | ⏳                   | ⏳                   | ❌               | ⏳     |
-| Q                           | ⏳                   | ⏳                   | ❌               | ❌    |
+| Terra Classic (Cosmos)      | ❌                  | ✅                   | ✅               | ⏳    |
+| Near                        | ❌                  | ✅                   | ⏳               | ⏳    |
+| Andromeda (Cosmos)          | ⏳                  | ⏳                   | ❌               | ⏳    |
+| Q                           | ⏳                  | ⏳                   | ❌               | ❌    |
 | Jackall Labs (Cosmos)       | ❌                  | ❌                   | ❌               | ⏳    |
 | Juno (Cosmos)               | ❌                  | ❌                   | ❌               | ⏳    |
 | Archway (Cosmos)            | ❌                  | ❌                   | ❌               | ⏳    |
