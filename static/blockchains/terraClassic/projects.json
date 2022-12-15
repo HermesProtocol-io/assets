@@ -28,5 +28,15 @@
     },
     "url": "https://terrafloki.io/",
     "categories": []
+  },
+  "terracasino": {
+    "name": "Terracasino",
+    "description": "No. 1 casino for Terra, you bet, we burn. Providing 3000+ games: slots, live casino, sports.",
+    "icon": {
+      "svg": "",
+      "png": "https://raw.githubusercontent.com/theowlgame/assets/main/static/img/projects/Terracasino.png"
+    },
+    "url": "https://terracasino.io/",
+    "categories": []
   }
 }
