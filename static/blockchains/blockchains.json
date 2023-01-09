@@ -82,6 +82,7 @@
     "URL": {
       "rest": [ "https://rpc.mainnet.near.org", "https://rpc.ankr.com/near", "https://public-rpc.blockpi.io/http/near" ],
       "rpc": [ "https://rpc.mainnet.near.org", "https://rpc.ankr.com/near", "https://public-rpc.blockpi.io/http/near" ],
+      "archival": [ "https://near-mainnet-archive.allthatnode.com:3030", "https://archival-rpc.mainnet.near.org"],
       "block": "https://explorer.near.org/blocks/%block%/",
       "tx": "https://explorer.near.org/transactions/%tx%/",
       "wallet": "https://explorer.near.org/accounts/%address%/"
