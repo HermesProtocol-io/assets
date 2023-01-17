@@ -13,7 +13,86 @@
   },
   "terra12e4v50xl33fnwkzltz9vu565snlmx65vdrk8e2644km09myewr8q538psc": {
     "protocol": "STEAK Protocol",
-    "name": "STEAK Liquid Staking Hub",
-    "icon": "https://liquidstaking.app/steak.png"
+    "name": "STEAK Liquid Staking Hub"
+  },
+  "terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea": {
+    "project": "backboneLabs",
+    "name": "Backbone Labs boneLuna LSD"
+  },
+  "terra1hkdpd7d5l5pn06rvkk8v8zh8segfeuutjx29xau2xvrvepcj7vvs7frq0h": {
+    "project": "valkyrieProtocol",
+    "name": "Valkyrie Governance"
+  },
+  "terra1uxzxe4vukgucrlp70k988al7m2e3lsln7zd2cp00tukqtv9vldyq4m8ujn": {
+    "project": "valkyrieProtocol",
+    "name": "Valkyrie Campaign Manager"
+  },
+  "terra1466nf3zuxpya8q9emxukd7vftaf6h4psr0a07srl5zw74zh84yjqxl5qul": {
+    "project": "terraswap",
+    "name": "Terraswap Factory"
+  },
+  "terra13ehuhysn5mqjeaheeuew2gjs785f6k7jm8vfsqg3jhtpkwppcmzqcu7chk": {
+    "project": "terraswap",
+    "name": "Terraswap Router"
+  },
+  "terra19hz374h6ruwtzrnm8ytkae782uv79h9yt9tuytgvt94t26c4793qnfg7vn": {
+    "project": "tfm",
+    "name": "TFM Router"
+  },
+  "terra16t9fg9x7pssm39fc90yx508cpw4tv33wfr7sprf6mn3qk84wrk2s2v3qy3": {
+    "project": "knowhere",
+    "name": "Knowhere Marketplace"
+  },
+  "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r": {
+    "project": "astroport",
+    "name": "Astroport Factory"
+  },
+  "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a": {
+    "project": "astroport",
+    "name": "Astroport Router"
+  },
+  "terra1ygcvxp9s054q8u2q4hvl52ke393zvgj0sllahlycm4mj8dm96zjsa45rzk": {
+    "project": "astroport",
+    "name": "Astroport Maker"
+  },
+  "terra1ksvlfex49desf4c452j6dewdjs6c48nafemetuwjyj6yexd7x3wqvwa7j9": {
+    "project": "astroport",
+    "name": "Astroport Generator"
+  },
+  "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3": {
+    "project": "astroport",
+    "name": "Astroport Generator Vesting"
+  },
+  "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq": {
+    "project": "astroport",
+    "name": "Astroport Assembly"
+  },
+  "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz": {
+    "project": "astroport",
+    "name": "Astroport Builder Unlocking Contract"
+  },
+  "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2": {
+    "project": "astroport",
+    "name": "Astroport Treasury"
+  },
+  "terra1pewdsxywmwurekjwrgvjvxvv0dv2pf8xtdl9ykfce2z0q3gf0k3qr8nezy": {
+    "project": "phoenixFinance",
+    "name": "Phoenix Finance Factory"
+  },
+  "terra1r634fv9kj8s6vjgnrwdha35cwhz6jcpz0h0trhc4yehllvtzzxuq5slv0g": {
+    "project": "phoenixFinance",
+    "name": "Phoenix Finance Router"
+  },
+  "terra1cr6apzg5f3jlqntvykrhehg06668cx7jjy2sh7u7u50f79z48nrshpkxuv": {
+    "project": "talis",
+    "name": "Talis Marketplace"
+  },
+  "terra1ek8ms3uew0rku4wcrqwvgl3hmgrw6jpn2phxv39y66jthjn4vraqww5gpk": {
+    "project": "talis",
+    "name": "Talis Auction Manager"
+  },
+  "terra1rzeslnvzj8cwh8jwmkynxea9x74g5958z7cjq4vkuxw5slnw7raqxdvpxe": {
+    "project": "randomEarth",
+    "name": "Random Earth Marketplace"
   }
 }
