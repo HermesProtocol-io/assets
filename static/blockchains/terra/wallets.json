@@ -1,6 +1,6 @@
 {
   "terra1g6pwngzfj73wnxm7y5gae0thylphugumc2k48z": {
-    "name": "Hermes Protocol"
+    "name": "Hermes Protocol Validator"
   },
   "terra15w7ntdhcyfce3twyj5s73gm536q7vn8yf5vp6n": {
     "name": "Momentum One"
@@ -25,9 +25,6 @@
   },
   "terra19sft3gk3enekjkw34zgmnrqq2zcvt2t6ueqhac": {
     "name": "MC"
-  },
-  "terra17tyjucdrq0qhu3gzxc2u04r5he8je35velus0e": {
-    "name": "Michael"
   },
   "terra1e6dvzgn65kalxat5dwapjgg2tyad4gxuvfj3qx": {
     "name": "Arthur Yeti"
@@ -65,9 +62,6 @@
   "terra1alxk3fmhcl0ga80gl9yj9zp3ezjm4sdh8a9l9c": {
     "name": "0xPhilipp"
   },
-  "terra1vzxzwsm0rscya65jg9znu9jls9gtqrv7mc9yh9": {
-    "name": "Rose"
-  },
   "terra17w74x9vrqq4a338ssh9y9r4m9s3f6zef7wy5ms": {
     "name": "RebelDefi"
   },
@@ -101,12 +95,6 @@
   "terra1t29pcnex9w356vx9j3czczmvnglweun79qc7vd": {
     "name": "Astral Money"
   },
-  "terra15lt543vnsmceycvsa92nccp546sk3xa45p8xvx": {
-    "name": "Astroport"
-  },
-  "terra1xqys9ke2y98puxvgmuc5px2yr6c563rhawy7h9": {
-    "name": "Astroport"
-  },
   "terra1cqc26lnatzxvu0z5nd4yx8m4ecllkm7jlj6nna": {
     "name": "Capapult"
   },
@@ -120,9 +108,6 @@
     "name": "HeroNFT"
   },
   "terra1vle5gvd8q5l7p6dg6h8y3rygylpnzmwzp0pdu9": {
-    "name": "Valkyrie Protocol"
-  },
-  "terra1qr6y2fhvwffc4gyq4ukqrr7y9f9y5xuuadcl0a": {
-    "name": "Phoenix Finance"
+    "name": "Valkyrie Protocol Admin"
   }
 }
