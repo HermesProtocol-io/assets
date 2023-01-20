@@ -1,0 +1,117 @@
+{
+  "hermesProtocol": {
+    "name": "Hermes Protocol",
+    "description": "Good or bad news, we can deliver the information straight to your device or app of choice. Sleep well knowing that you will be alerted when something of interest is happening.",
+    "icon": {
+      "svg": "https://hermesprotocol.io/assets/images/icon.svg",
+      "png": "https://media.discordapp.net/attachments/954210236900724756/1009539276339433633/Hermes_Protocol_Logo_Icon_Camel_-_circle_crop.png"
+    },
+    "url": "https://hermesprotocol.io/",
+    "categories": []
+  },
+  "astroport": {
+    "name": "Astroport",
+    "description": "Astroport brings liquidity to Terra tokens from all parts of the galaxy.",
+    "icon": {
+      "svg": "https://app.astroport.fi/tokens/astro.svg",
+      "png": "https://app.astroport.fi/tokens/astro.png"
+    },
+    "url": "https://astroport.io/",
+    "categories": []
+  },
+  "terraswap": {
+    "name": "Terraswap",
+    "description": "A decentralized protocol for seamless access to asset liquidity on Terra.",
+    "icon": {
+      "svg": "https://app.terraswap.io/favicon.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
+    },
+    "url": "https://terraswap.io/",
+    "categories": []
+  },
+  "phoenixFinance": {
+    "name": "Phoenix Finance",
+    "description": "Trade, Swap, and Provide Liquidity on the best decentralized, permissionless DEX.",
+    "icon": {
+      "svg": "https://app.phoenixfi.so/logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/phoenixFinance.png"
+    },
+    "url": "https://phoenixfi.so/",
+    "categories": []
+  },
+  "terraCasino": {
+    "name": "Terra Casino",
+    "description": "No. 1 casino for Terra, you bet, we burn. Providing 3000+ games: slots, live casino, sports.",
+    "icon": {
+      "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
+    },
+    "url": "https://terracasino.io/",
+    "categories": []
+  },
+  "backboneLabs": {
+    "name": "Backbone Labs",
+    "description": "Backbone Labs is a Blockchain DEFI/NFT Technology Group dedicated to community driven DEFI tools and NFT utility/innovation. Born of the Terra crash and incubated in the Skeleton Punks community we have learned how to empower our WEB3 journey.",
+    "icon": {
+      "png": "https://www.backbonelabs.io/img/logo.png"
+    },
+    "url": "https://backbonelabs.io/",
+    "categories": []
+  },
+  "lns": {
+    "name": "LNS",
+    "description": "Your .luna & .lunc name service. Own your username, store an avatar and other profile data, and use it across Terra 2.0 & Terra Classic.",
+    "icon": {
+      "svg": "https://assets.hermesprotocol.io/img/projects/lns.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
+    },
+    "url": "https://lns.money/",
+    "categories": []
+  },
+  "valkyrieProtocol": {
+    "name": "Valkyrie Protocol",
+    "description": "Valkyrie Protocol is a DApp activation protocol that is designed to help protocols launch effectively. It builds on the Terra Network, and creates a 'rewardable ecosystem' that is focused on bringing together campaigners and users to drive adoption and growth for launching protocols.",
+    "icon": {
+      "svg": "https://valkyrieprotocol.com/static/media/logo-01_v2.e6fc9a62.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/valkyrieProtocol.png"
+    },
+    "url": "https://valkyrieprotocol.com/",
+    "categories": []
+  },
+  "tfm": {
+    "name": "TFM",
+    "description": "The Pro-Trading Terminal of Cosmos. Proprietary complete DEX & NFT Aggregator!",
+    "icon": {
+      "svg": "https://assets.hermesprotocol.io/img/projects/tfm.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/tfm.png"
+    },
+    "url": "https://tfm.com/",
+    "categories": []
+  },
+  "knowhere": {
+    "name": "Knowhere",
+    "description": "Home to the most NFT collections on Terra.",
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/knowhereArt.png"
+    },
+    "url": "https://knowhere.art/",
+    "categories": []
+  },
+  "randomEarth": {
+    "name": "Random Earth",
+    "description": "An NFT marketplace for Terra.",
+    "icon": {
+      "png": "https://v2.randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
+    },
+    "url": "https://v2.randomearth.io/",
+    "categories": []
+  },
+  "talis": {
+    "name": "Talis",
+    "description": "The NFT marketplace that empowers artists and bridges physical & digital art on the Cosmos ecosystem.",
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/talis.png"
+    },
+    "url": "https://talis.app/",
+    "categories": []
+  }
+}

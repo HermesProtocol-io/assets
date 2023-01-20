@@ -1,0 +1,41 @@
+{
+  "astroport": {
+    "name": "Astroport",
+    "description": "Astroport brings liquidity to Terra tokens from all parts of the galaxy.",
+    "icon": {
+      "svg": "https://app.astroport.fi/tokens/astro.svg",
+      "png": "https://app.astroport.fi/tokens/astro.png"
+    },
+    "url": "https://astroport.io/",
+    "categories": []
+  },
+  "terraswap": {
+    "name": "Terraswap",
+    "description": "A decentralized protocol for seamless access to asset liquidity on Terra.",
+    "icon": {
+      "svg": "https://app.terraswap.io/favicon.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
+    },
+    "url": "https://terraswap.io/",
+    "categories": []
+  },
+  "metaFrens": {
+    "name": "MetaFrens",
+    "description": "MetaFrens is a community-led NFT metaverse open for all Terra NFTs.",
+    "icon": {
+      "svg": "",
+      "png": "https://assets.hermesprotocol.io/img/projects/metaFrens.png"
+    },
+    "url": "https://terrafloki.io/",
+    "categories": []
+  },
+  "terraCasino": {
+    "name": "Terra Casino",
+    "description": "No. 1 casino for Terra, you bet, we burn. Providing 3000+ games: slots, live casino, sports.",
+    "icon": {
+      "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
+    },
+    "url": "https://terracasino.io/",
+    "categories": []
+  }
+}
