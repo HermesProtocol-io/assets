@@ -4,7 +4,9 @@
     "description": "",
     "chain_id": "phoenix-1",
     "prefix": "terra",
-    "icon": "https://assets.hermesprotocol.io/img/projects/Terra.png",
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/Terra.png"
+    },
     "native_tokens": {
       "denoms": ["uluna"]
     },
@@ -13,8 +15,21 @@
     "tx_URL": "https://terrasco.pe/mainnet/tx/%tx%/",
     "wallet_URL": "https://terrasco.pe/mainnet/address/%address%/",
     "URL": {
-      "rest": [ "https://phoenix-lcd.terra.dev", "https://terra-lcd.stakely.io", "https://terra-api.polkachu.com", "https://fcd.terrav2.ccvalidators.com", "https://terra2.tdrsys.com", "https://lcd-terra.wildsage.io" ],
-      "rpc": [ "https://terra-rpc.stakely.io", "https://terra-rpc.polkachu.com", "https://rpc.terrav2.ccvalidators.com", "https://terra2.tdrsys.com:2053", "https://rpc-terra.wildsage.io" ],
+      "rest": [
+        "https://phoenix-lcd.terra.dev",
+        "https://terra-lcd.stakely.io",
+        "https://terra-api.polkachu.com",
+        "https://fcd.terrav2.ccvalidators.com",
+        "https://terra2.tdrsys.com",
+        "https://lcd-terra.wildsage.io"
+      ],
+      "rpc": [
+        "https://terra-rpc.stakely.io",
+        "https://terra-rpc.polkachu.com",
+        "https://rpc.terrav2.ccvalidators.com",
+        "https://terra2.tdrsys.com:2053",
+        "https://rpc-terra.wildsage.io"
+      ],
       "block": "https://terrasco.pe/mainnet/blocks/%block%/",
       "tx": "https://terrasco.pe/mainnet/tx/%tx%/",
       "wallet": "https://terrasco.pe/mainnet/address/%address%/",
@@ -26,7 +41,9 @@
     "description": "",
     "chain_id": "columbus-5",
     "prefix": "terra",
-    "icon": "https://assets.hermesprotocol.io/img/projects/TerraClassic.png",
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/TerraClassic.png"
+    },
     "native_tokens": {
       "denoms": [
         "uluna",
@@ -59,7 +76,10 @@
     "tx_URL": "https://finder.terra.money/classic/tx/%tx%/",
     "wallet_URL": "https://finder.terra.money/classic/address/%address%/",
     "URL": {
-      "rest": [ "https://lcd.terrarebels.net", "https://terra-classic-lcd.publicnode.com" ],
+      "rest": [
+        "https://lcd.terrarebels.net",
+        "https://terra-classic-lcd.publicnode.com"
+      ],
       "rpc": [],
       "block": "https://finder.terra.money/classic/blocks/%block%/",
       "tx": "https://finder.terra.money/classic/tx/%tx%/",
@@ -71,7 +91,9 @@
     "description": "",
     "chain_id": "mainnet",
     "prefix": "",
-    "icon": "https://assets.hermesprotocol.io/img/projects/near.png",
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/near.png"
+    },
     "native_tokens": {
       "denoms": ["NEAR", "usn"]
     },
@@ -80,9 +102,20 @@
     "tx_URL": "https://explorer.near.org/transactions/%tx%/",
     "wallet_URL": "https://explorer.near.org/accounts/%address%/",
     "URL": {
-      "rest": [ "https://rpc.mainnet.near.org", "https://rpc.ankr.com/near", "https://public-rpc.blockpi.io/http/near" ],
-      "rpc": [ "https://rpc.mainnet.near.org", "https://rpc.ankr.com/near", "https://public-rpc.blockpi.io/http/near" ],
-      "archival": [ "https://near-mainnet-archive.allthatnode.com:3030", "https://archival-rpc.mainnet.near.org"],
+      "rest": [
+        "https://rpc.mainnet.near.org",
+        "https://rpc.ankr.com/near",
+        "https://public-rpc.blockpi.io/http/near"
+      ],
+      "rpc": [
+        "https://rpc.mainnet.near.org",
+        "https://rpc.ankr.com/near",
+        "https://public-rpc.blockpi.io/http/near"
+      ],
+      "archival": [
+        "https://near-mainnet-archive.allthatnode.com:3030",
+        "https://archival-rpc.mainnet.near.org"
+      ],
       "block": "https://explorer.near.org/blocks/%block%/",
       "tx": "https://explorer.near.org/transactions/%tx%/",
       "wallet": "https://explorer.near.org/accounts/%address%/"
@@ -93,14 +126,24 @@
     "description": "",
     "chain_id": "cosmoshub-4",
     "prefix": "cosmos",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["uatom"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://api.cosmos.network", "https://cosmos-mainnet-archive.allthatnode.com:1317", "https://node.atomscan.com", "https://cosmos-api.polkachu.com" ],
-      "rpc": [ "https://api.cosmos.network", "https://cosmos-mainnet-archive.allthatnode.com:1317", "https://rpc.atomscan.com", "https://cosmos-rpc.polkachu.com" ],
+      "rest": [
+        "https://api.cosmos.network",
+        "https://cosmos-mainnet-archive.allthatnode.com:1317",
+        "https://node.atomscan.com",
+        "https://cosmos-api.polkachu.com"
+      ],
+      "rpc": [
+        "https://api.cosmos.network",
+        "https://cosmos-mainnet-archive.allthatnode.com:1317",
+        "https://rpc.atomscan.com",
+        "https://cosmos-rpc.polkachu.com"
+      ],
       "block": "https://www.mintscan.io/cosmos/blocks/%block%/",
       "tx": "https://www.mintscan.io/cosmos/txs/%tx%/",
       "wallet": "https://www.mintscan.io/cosmos/account/%address%/"
@@ -111,14 +154,26 @@
     "description": "",
     "chain_id": "juno-1",
     "prefix": "juno",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["ujuno"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://juno-lcd.stakely.io", "https://juno-api.polkachu.com", "https://api-juno.nodes.guru", "https://juno.stakesystems.io", "https://lcd-juno.itastakers.com" ],
-      "rpc": [ "https://juno-rpc.stakely.io", "https://juno-rpc.polkachu.com", "https://juno-rpc-server-01.stakely.io", "https://rpc-juno.itastakers.com", "https://rpc-juno.nodes.guru" ],
+      "rest": [
+        "https://juno-lcd.stakely.io",
+        "https://juno-api.polkachu.com",
+        "https://api-juno.nodes.guru",
+        "https://juno.stakesystems.io",
+        "https://lcd-juno.itastakers.com"
+      ],
+      "rpc": [
+        "https://juno-rpc.stakely.io",
+        "https://juno-rpc.polkachu.com",
+        "https://juno-rpc-server-01.stakely.io",
+        "https://rpc-juno.itastakers.com",
+        "https://rpc-juno.nodes.guru"
+      ],
       "block": "https://www.mintscan.io/juno/blocks/%block%/",
       "tx": "https://www.mintscan.io/juno/txs/%tx%/",
       "wallet": "https://www.mintscan.io/juno/account/%address%/"
@@ -129,14 +184,26 @@
     "description": "",
     "chain_id": "osmosis-1",
     "prefix": "osmo",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["uosmo", "uion"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://osmosis-lcd.stakely.io", "https://osmosis-api.polkachu.com", "https://lcd.osmosis.zone", "https://lcd-osmosis.blockapsis.com", "https://osmosis-lcd.quickapi.com" ],
-      "rpc": [ "https://osmosis-rpc.stakely.io", "https://osmosis-rpc.polkachu.com", "https://osmosis-rpc-server-01.stakely.io", "https://rpc.osmosis.zone", "https://rpc-osmosis.blockapsis.com" ],
+      "rest": [
+        "https://osmosis-lcd.stakely.io",
+        "https://osmosis-api.polkachu.com",
+        "https://lcd.osmosis.zone",
+        "https://lcd-osmosis.blockapsis.com",
+        "https://osmosis-lcd.quickapi.com"
+      ],
+      "rpc": [
+        "https://osmosis-rpc.stakely.io",
+        "https://osmosis-rpc.polkachu.com",
+        "https://osmosis-rpc-server-01.stakely.io",
+        "https://rpc.osmosis.zone",
+        "https://rpc-osmosis.blockapsis.com"
+      ],
       "block": "https://www.mintscan.io/osmosis/blocks/%block%/",
       "tx": "https://www.mintscan.io/osmosis/txs/%tx%/",
       "wallet": "https://www.mintscan.io/osmosis/account/%address%/"
@@ -147,14 +214,20 @@
     "description": "",
     "chain_id": "injective-1",
     "prefix": "inj",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["inj"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://k8s.global.mainnet.lcd.injective.network", "https://injective-api.polkachu.com" ],
-      "rpc": [ "https://k8s.global.mainnet.tm.injective.network", "https://injective-rpc.polkachu.com" ],
+      "rest": [
+        "https://k8s.global.mainnet.lcd.injective.network",
+        "https://injective-api.polkachu.com"
+      ],
+      "rpc": [
+        "https://k8s.global.mainnet.tm.injective.network",
+        "https://injective-rpc.polkachu.com"
+      ],
       "block": "https://www.mintscan.io/injective/blocks/%block%/",
       "tx": "https://www.mintscan.io/injective/txs/%tx%/",
       "wallet": "https://www.mintscan.io/injective/account/%address%/"
@@ -165,14 +238,20 @@
     "description": "",
     "chain_id": "jackal-1",
     "prefix": "jkl",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["ujkl"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://api.jackalprotocol.com", "https://jackal-api.polkachu.com" ],
-      "rpc": [ "https://rpc.jackalprotocol.com", "https://jackal-rpc.polkachu.com" ],
+      "rest": [
+        "https://api.jackalprotocol.com",
+        "https://jackal-api.polkachu.com"
+      ],
+      "rpc": [
+        "https://rpc.jackalprotocol.com",
+        "https://jackal-rpc.polkachu.com"
+      ],
       "block": "https://ping.pub/jackal/blocks/%block%/",
       "tx": "https://ping.pub/jackal/tx/%tx%/",
       "wallet": "https://ping.pub/jackal/account/%address%/"
@@ -183,14 +262,20 @@
     "description": "",
     "chain_id": "galileo-2",
     "prefix": "andr",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["uandr"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://lcd-andromeda-testnet.cereslabs.io", "https://lcd-andromeda-testnet.synergynodes.com" ],
-      "rpc": [ "https://rpc-andromeda-testnet.cereslabs.io", "https://rpc-andromeda-testnet.synergynodes.com" ],
+      "rest": [
+        "https://lcd-andromeda-testnet.cereslabs.io",
+        "https://lcd-andromeda-testnet.synergynodes.com"
+      ],
+      "rpc": [
+        "https://rpc-andromeda-testnet.cereslabs.io",
+        "https://rpc-andromeda-testnet.synergynodes.com"
+      ],
       "block": "https://testnets.cosmosrun.info/andromeda/blocks/%block%/",
       "tx": "https://testnets.cosmosrun.info/andromeda/tx/%tx%/",
       "wallet": "https://testnets.cosmosrun.info/andromeda/account/%address%/"
@@ -201,14 +286,14 @@
     "description": "",
     "chain_id": "constantine-1",
     "prefix": "archway",
-    "icon": "",
+    "icon": {},
     "native_tokens": {
       "denoms": ["uconst"]
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://api.constantine-1.archway.tech" ],
-      "rpc": [ "https://rpc.constantine-1.archway.tech" ],
+      "rest": ["https://api.constantine-1.archway.tech"],
+      "rpc": ["https://rpc.constantine-1.archway.tech"],
       "block": "https://explorer.constantine-1.archway.tech/blocks/%block%/",
       "tx": "https://explorer.constantine-1.archway.tech/transactions/%tx%/",
       "wallet": "https://explorer.constantine-1.archway.tech/account/%address%/"
@@ -225,8 +310,8 @@
     },
     "folder": "",
     "URL": {
-      "rest": [ "https://rpc.q.org" ],
-      "rpc": [ "https://rpc.q.org" ],
+      "rest": ["https://rpc.q.org"],
+      "rpc": ["https://rpc.q.org"],
       "block": "https://explorer.q.org/block/%block%/transactions/",
       "tx": "https://explorer.q.org/tx/%tx%/",
       "wallet": "https://explorer.q.org/address/%address%/"
