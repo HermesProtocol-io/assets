@@ -17,7 +17,7 @@
       "png": "https://app.astroport.fi/tokens/astro.png"
     },
     "url": "https://astroport.io/",
-    "categories": []
+    "categories": ["dex"]
   },
   "terraswap": {
     "name": "Terraswap",
@@ -27,7 +27,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
     },
     "url": "https://terraswap.io/",
-    "categories": []
+    "categories": ["dex"]
   },
   "phoenixFinance": {
     "name": "Phoenix Finance",
@@ -37,7 +37,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/phoenixFinance.png"
     },
     "url": "https://phoenixfi.so/",
-    "categories": []
+    "categories": ["dex"]
   },
   "terraCasino": {
     "name": "Terra Casino",
@@ -55,7 +55,7 @@
       "png": "https://www.backbonelabs.io/img/logo.png"
     },
     "url": "https://backbonelabs.io/",
-    "categories": []
+    "categories": ["staking"]
   },
   "lns": {
     "name": "LNS",
@@ -65,7 +65,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
     },
     "url": "https://lns.money/",
-    "categories": []
+    "categories": ["domainSystem"]
   },
   "valkyrieProtocol": {
     "name": "Valkyrie Protocol",
@@ -75,7 +75,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/valkyrieProtocol.png"
     },
     "url": "https://valkyrieprotocol.com/",
-    "categories": []
+    "categories": ["launchpad"]
   },
   "tfm": {
     "name": "TFM",
@@ -85,7 +85,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/tfm.png"
     },
     "url": "https://tfm.com/",
-    "categories": []
+    "categories": ["dex"]
   },
   "knowhere": {
     "name": "Knowhere",
@@ -94,7 +94,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/knowhereArt.png"
     },
     "url": "https://knowhere.art/",
-    "categories": []
+    "categories": ["nftMarketplace"]
   },
   "randomEarth": {
     "name": "Random Earth",
@@ -103,7 +103,7 @@
       "png": "https://v2.randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
     },
     "url": "https://v2.randomearth.io/",
-    "categories": []
+    "categories": ["nftMarketplace"]
   },
   "talis": {
     "name": "Talis",
@@ -112,6 +112,6 @@
       "png": "https://assets.hermesprotocol.io/img/projects/talis.png"
     },
     "url": "https://talis.app/",
-    "categories": []
+    "categories": ["nftMarketplace"]
   }
 }

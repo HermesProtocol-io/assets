@@ -1,0 +1,42 @@
+{
+  "dex": {
+    "name": "DEX",
+    "description": "Decentralized Exchange"
+  },
+  "derivatives": {
+    "name": "Derivatives",
+    "description": "Derivatives"
+  },
+  "nftMarketplace": {
+    "name": "NFT Marketplace",
+    "description": "NFT Marketplace"
+  },
+  "blockchain": {
+    "name": "Blockchain",
+    "description": "Blockchain"
+  },
+  "lending": {
+    "name": "Lending",
+    "description": "Lending"
+  },
+  "staking": {
+    "name": "Staking",
+    "description": "Staking"
+  },
+  "domainSystem": {
+    "name": "Domain System",
+    "description": "Domain System"
+  },
+  "automation": {
+    "name": "Automation",
+    "description": "Automation"
+  },
+  "launchpad": {
+    "name": "Launchpad",
+    "description": "Launchpad"
+  },
+  "nft": {
+    "name": "NFT",
+    "description": "NFT"
+  }
+}
