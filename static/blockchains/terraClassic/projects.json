@@ -78,12 +78,12 @@
   },
   "apolloDao": {
     "name": "Apollo DAO",
-    "description": "Apollo DAO is a decentralized autonomous organization that aims to build a decentralized financial ecosystem on Terra.",
+    "description": "Apollo DAO is building the necessary apps and infrastructure to securely manage assets and optimize yield across the Cosmos ecosystem.",
     "icon": {
-      "svg": "https://apollo.finance/static/media/logo.2b0e8f9e.svg",
+      "svg": "https://safe.apollo.farm/static/media/BowIcon.5801e4dd.svg",
       "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
     },
-    "url": "https://apollo.finance/",
+    "url": "https://apollo.farm/",
     "categories": []
   },
   "spectrumProtocol": {
