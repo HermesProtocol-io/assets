@@ -46,7 +46,7 @@
       "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
     },
     "url": "https://terracasino.io/",
-    "categories": []
+    "categories": ["gaming"]
   },
   "backboneLabs": {
     "name": "Backbone Labs",
@@ -55,7 +55,7 @@
       "png": "https://www.backbonelabs.io/img/logo.png"
     },
     "url": "https://backbonelabs.io/",
-    "categories": ["staking"]
+    "categories": ["liquidStaking"]
   },
   "lns": {
     "name": "LNS",
@@ -65,7 +65,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
     },
     "url": "https://lns.money/",
-    "categories": ["domainSystem"]
+    "categories": ["dns"]
   },
   "valkyrieProtocol": {
     "name": "Valkyrie Protocol",
@@ -85,7 +85,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/tfm.png"
     },
     "url": "https://tfm.com/",
-    "categories": ["dex"]
+    "categories": ["aggregator", "dex", "nftMarketplace"]
   },
   "knowhere": {
     "name": "Knowhere",

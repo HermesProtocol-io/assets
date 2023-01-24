@@ -19,6 +19,10 @@
     "name": "Lending",
     "description": "Lending"
   },
+  "liquidStaking": {
+    "name": "Liquid Staking",
+    "description": "Liquid Staking"
+  },
   "staking": {
     "name": "Staking",
     "description": "Staking"
@@ -35,8 +39,20 @@
     "name": "Launchpad",
     "description": "Launchpad"
   },
-  "nft": {
-    "name": "NFT",
-    "description": "NFT"
+  "nftCollection": {
+    "name": "NFT Collection",
+    "description": "NFT Collection"
+  },
+  "aggregator": {
+    "name": "Aggregator",
+    "description": "Aggregator"
+  },
+  "utility": {
+    "name": "Utility",
+    "description": "Utility"
+  },
+  "gaming": {
+    "name": "Gaming",
+    "description": "Gaming"
   }
 }
