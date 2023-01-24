@@ -113,5 +113,45 @@
     },
     "url": "https://talis.art/",
     "categories": []
+  },
+  "apolloDao": {
+    "name": "Apollo DAO",
+    "description": "Apollo DAO is building the necessary apps and infrastructure to securely manage assets and optimize yield across the Cosmos ecosystem.",
+    "icon": {
+      "svg": "https://safe.apollo.farm/static/media/BowIcon.5801e4dd.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
+    },
+    "url": "https://apollo.farm/",
+    "categories": []
+  },
+  "spectrumProtocol": {
+    "name": "Spectrum Protocol",
+    "description": "Spectrum Protocol is an Innovative, Decentralized Yield Optimizer platform that allows users to earn compound interest on their crypto assets farming.",
+    "icon": {
+      "svg": "https://terra.spec.finance/assets/spec_logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/spectrumProtocol.png"
+    },
+    "url": "https://terra.spec.finance/",
+    "categories": []
+  },
+  "prismProtocol": {
+    "name": "Prism Protocol",
+    "description": "Prism is the first layer-1 blockchain dedicated to the harvesting, trading and utilisation of yield.",
+    "icon": {
+      "svg": "https://prismprotocol.app/logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/prismProtocol.png"
+    },
+    "url": "https://prismprotocol.app/",
+    "categories": ["staking"]
+  },
+  "erisProtocol": {
+    "name": "Eris Protocol",
+    "description": "ERIS is a Liquid Staking and Slow-burn Arbitrage Protocol.",
+    "icon": {
+      "svg": "https://www.erisprotocol.com/assets/favicon_light.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/erisProtocol.png"
+    },
+    "url": "https://erisprotocol.com/",
+    "categories": ["staking"]
   }
 }
