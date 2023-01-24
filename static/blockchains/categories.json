@@ -23,9 +23,9 @@
     "name": "Staking",
     "description": "Staking"
   },
-  "domainSystem": {
-    "name": "Domain System",
-    "description": "Domain System"
+  "dns": {
+    "name": "Domain Name System",
+    "description": "Domain Name System"
   },
   "automation": {
     "name": "Automation",
