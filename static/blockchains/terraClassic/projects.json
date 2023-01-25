@@ -7,7 +7,9 @@
       "png": "https://app.astroport.fi/tokens/astro.png"
     },
     "url": "https://astroport.io/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": "active"
   },
   "terraswap": {
     "name": "Terraswap",
@@ -17,7 +19,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
     },
     "url": "https://terraswap.io/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": "active"
   },
   "metaFrens": {
     "name": "MetaFrens",
@@ -36,7 +40,9 @@
       "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
     },
     "url": "https://terracasino.io/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": "inactive"
   },
   "anchorProtocol": {
     "name": "Anchor Protocol",
@@ -46,7 +52,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/anchorProtocol.png"
     },
     "url": "https://anchor-protocol.com/",
-    "categories": ["lending"]
+    "categories": ["lending"],
+    "status": "active",
+    "integration": "active"
   },
   "mirrorProtocol": {
     "name": "Mirror Protocol",
@@ -55,7 +63,9 @@
       "png": "https://whitelist.mirror.finance/images/MIR.png"
     },
     "url": "https://mirror.finance/",
-    "categories": ["derivatives"]
+    "categories": ["derivatives"],
+    "status": "active",
+    "integration": "active"
   },
   "randomEarth": {
     "name": "Random Earth",
@@ -64,7 +74,9 @@
       "png": "https://v2.randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
     },
     "url": "https://randomearth.io/",
-    "categories": ["nftMarketplace"]
+    "categories": ["nftMarketplace"],
+    "status": "active",
+    "integration": "active"
   },
   "talis": {
     "name": "Talis",
@@ -74,7 +86,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/talis.png"
     },
     "url": "https://talis.art/",
-    "categories": ["nftMarketplace"]
+    "categories": ["nftMarketplace"],
+    "status": "active",
+    "integration": "active"
   },
   "apolloDao": {
     "name": "Apollo DAO",
@@ -84,7 +98,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
     },
     "url": "https://apollo.farm/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": "inactive"
   },
   "spectrumProtocol": {
     "name": "Spectrum Protocol",
@@ -94,7 +110,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/spectrumProtocol.png"
     },
     "url": "https://classic.spec.finance/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": "inactive"
   },
   "loopMarkets": {
     "name": "Loop Markets",
@@ -103,7 +121,9 @@
       "png": "https://dex.loop.markets/log-loop.png"
     },
     "url": "https://dex.loop.markets/",
-    "categories": ["dex"]
+    "categories": ["dex"],
+    "status": "active",
+    "integration": "inactive"
   },
   "prismProtocol": {
     "name": "Prism Protocol",
@@ -113,7 +133,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/prismProtocol.png"
     },
     "url": "https://classic.prismprotocol.app/",
-    "categories": ["derivatives"]
+    "categories": ["derivatives"],
+    "status": "active",
+    "integration": "inactive"
   },
   "erisProtocol": {
     "name": "Eris Protocol",
@@ -123,7 +145,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/erisProtocol.png"
     },
     "url": "https://erisprotocol.com/",
-    "categories": ["staking"]
+    "categories": ["staking"],
+    "status": "active",
+    "integration": "inactive"
   },
   "lns": {
     "name": "LNS",
@@ -133,6 +157,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
     },
     "url": "https://lns.money/",
-    "categories": ["domainSystem"]
+    "categories": ["dns"],
+    "status": "active",
+    "integration": "pending"
   }
 }
