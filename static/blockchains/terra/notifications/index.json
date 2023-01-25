@@ -1,0 +1,37 @@
+{
+  "governancePoll": {
+    "folder": "./contracts/governancePoll",
+    "name": "Governance Poll",
+    "description": "Governance Poll"
+  },
+  "nftMonitor": {
+    "folder": "./contracts/nfts",
+    "name": "NFT Monitor",
+    "description": "NFT Monitor"
+  },
+  "staking": {
+    "folder": "./contracts/staking",
+    "name": "Staking",
+    "description": "Staking"
+  },
+  "liquidStaking": {
+    "folder": "./contracts/liquidStaking",
+    "name": "Liquid Staking",
+    "description": "Liquid Staking"
+  },
+  "liquidityPool": {
+    "folder": "",
+    "name": "Liquidity Pool",
+    "description": "Liquidity Pool"
+  },
+  "priceAlert": {
+    "folder": "",
+    "name": "Price Alert",
+    "description": "Price Alert"
+  },
+  "walletWatcher": {
+    "folder": "",
+    "name": "Wallet Watcher",
+    "description": "Wallet Watcher"
+  }
+}

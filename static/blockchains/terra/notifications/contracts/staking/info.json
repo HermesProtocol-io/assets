@@ -1,0 +1,12 @@
+{
+  "stake": {
+    "file": "./stake.json",
+    "name": "Stake",
+    "description": "Stake"
+  },
+  "unstake": {
+    "file": "./unstake.json",
+    "name": "Unstake",
+    "description": "Unstake"
+  }
+}
