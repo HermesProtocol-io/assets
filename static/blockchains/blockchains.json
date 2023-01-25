@@ -32,7 +32,8 @@
       "tx": "https://terrasco.pe/mainnet/tx/%tx%/",
       "wallet": "https://terrasco.pe/mainnet/address/%address%/",
       "contract_query": "https://terrasco.pe/mainnet/address/%address%/smart/%b64query%"
-    }
+    },
+    "integration": "active"
   },
   "terraClassic": {
     "name": "Terra Classic",
@@ -80,7 +81,8 @@
       "block": "https://finder.terra.money/classic/blocks/%block%/",
       "tx": "https://finder.terra.money/classic/tx/%tx%/",
       "wallet": "https://finder.terra.money/classic/address/%address%/"
-    }
+    },
+    "integration": "active"
   },
   "near": {
     "name": "Near",
@@ -113,7 +115,8 @@
       "block": "https://explorer.near.org/blocks/%block%/",
       "tx": "https://explorer.near.org/transactions/%tx%/",
       "wallet": "https://explorer.near.org/accounts/%address%/"
-    }
+    },
+    "integration": "pending"
   },
   "cosmosHub": {
     "name": "Cosmos Hub",
@@ -141,7 +144,8 @@
       "block": "https://www.mintscan.io/cosmos/blocks/%block%/",
       "tx": "https://www.mintscan.io/cosmos/txs/%tx%/",
       "wallet": "https://www.mintscan.io/cosmos/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "juno": {
     "name": "Juno",
@@ -171,7 +175,8 @@
       "block": "https://www.mintscan.io/juno/blocks/%block%/",
       "tx": "https://www.mintscan.io/juno/txs/%tx%/",
       "wallet": "https://www.mintscan.io/juno/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "osmosis": {
     "name": "Osmosis",
@@ -201,7 +206,8 @@
       "block": "https://www.mintscan.io/osmosis/blocks/%block%/",
       "tx": "https://www.mintscan.io/osmosis/txs/%tx%/",
       "wallet": "https://www.mintscan.io/osmosis/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "injective": {
     "name": "Injective",
@@ -225,7 +231,8 @@
       "block": "https://www.mintscan.io/injective/blocks/%block%/",
       "tx": "https://www.mintscan.io/injective/txs/%tx%/",
       "wallet": "https://www.mintscan.io/injective/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "jackal": {
     "name": "Jackal Protocol",
@@ -249,7 +256,8 @@
       "block": "https://ping.pub/jackal/blocks/%block%/",
       "tx": "https://ping.pub/jackal/tx/%tx%/",
       "wallet": "https://ping.pub/jackal/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "andromeda": {
     "name": "Andromeda Protocol",
@@ -273,7 +281,8 @@
       "block": "https://testnets.cosmosrun.info/andromeda/blocks/%block%/",
       "tx": "https://testnets.cosmosrun.info/andromeda/tx/%tx%/",
       "wallet": "https://testnets.cosmosrun.info/andromeda/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "archway": {
     "name": "Archway",
@@ -291,7 +300,8 @@
       "block": "https://explorer.constantine-1.archway.tech/blocks/%block%/",
       "tx": "https://explorer.constantine-1.archway.tech/transactions/%tx%/",
       "wallet": "https://explorer.constantine-1.archway.tech/account/%address%/"
-    }
+    },
+    "integration": "inactive"
   },
   "q": {
     "name": "Q",
@@ -309,6 +319,7 @@
       "block": "https://explorer.q.org/block/%block%/transactions/",
       "tx": "https://explorer.q.org/tx/%tx%/",
       "wallet": "https://explorer.q.org/address/%address%/"
-    }
+    },
+    "integration": "inactive"
   }
 }
