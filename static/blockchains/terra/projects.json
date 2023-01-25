@@ -136,5 +136,17 @@
     "categories": [],
     "status": "active",
     "integration": "active"
+  },
+  "steak": {
+    "name": "Steak",
+    "description": "Steak is a liquid staking protocol for 🌎 Terra.",
+    "icon": {
+      "svg": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SVG/STEAK.svg",
+      "png": "https://liquidstaking.app/steak.png"
+    },
+    "url": "https://liquidstaking.app/",
+    "categories": ["liquidStaking"],
+    "status": "active",
+    "integration": "pending"
   }
 }
