@@ -37,5 +37,102 @@
     },
     "url": "https://terracasino.io/",
     "categories": []
+  },
+  "anchorProtocol": {
+    "name": "Anchor Protocol",
+    "description": "Fixed yield platform with borrowing yields. Anchor offers frictionless access. Anchor savings has no minimum deposits, account freezes, or signup requirements - it can be used by anyone in the world with access to the internet.",
+    "icon": {
+      "svg": "https://app.anchorprotocol.com/assets/LogoTerra.114ab559.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/anchorProtocol.png"
+    },
+    "url": "https://anchor-protocol.com/",
+    "categories": ["lending"]
+  },
+  "mirrorProtocol": {
+    "name": "Mirror Protocol",
+    "description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real world assets.",
+    "icon": {
+      "png": "https://whitelist.mirror.finance/images/MIR.png"
+    },
+    "url": "https://mirror.finance/",
+    "categories": ["derivatives"]
+  },
+  "randomEarth": {
+    "name": "Random Earth",
+    "description": "An NFT marketplace for Terra.",
+    "icon": {
+      "png": "https://v2.randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
+    },
+    "url": "https://randomearth.io/",
+    "categories": ["nftMarketplace"]
+  },
+  "talis": {
+    "name": "Talis",
+    "description": "The NFT marketplace that empowers artists and bridges physical & digital art on the Cosmos ecosystem.",
+    "icon": {
+      "svg": "https://talis.art/icons/talis/logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/talis.png"
+    },
+    "url": "https://talis.art/",
+    "categories": ["nftMarketplace"]
+  },
+  "apolloDao": {
+    "name": "Apollo DAO",
+    "description": "Apollo DAO is building the necessary apps and infrastructure to securely manage assets and optimize yield across the Cosmos ecosystem.",
+    "icon": {
+      "svg": "https://safe.apollo.farm/static/media/BowIcon.5801e4dd.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
+    },
+    "url": "https://apollo.farm/",
+    "categories": []
+  },
+  "spectrumProtocol": {
+    "name": "Spectrum Protocol",
+    "description": "Spectrum Protocol is an Innovative, Decentralized Yield Optimizer platform that allows users to earn compound interest on their crypto assets farming.",
+    "icon": {
+      "svg": "https://classic.spec.finance/assets/spec_logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/spectrumProtocol.png"
+    },
+    "url": "https://classic.spec.finance/",
+    "categories": []
+  },
+  "loopMarkets": {
+    "name": "Loop Markets",
+    "description": "Loop DEX is the first AMM (automatic market maker) on Terra.",
+    "icon": {
+      "png": "https://dex.loop.markets/log-loop.png"
+    },
+    "url": "https://dex.loop.markets/",
+    "categories": ["dex"]
+  },
+  "prismProtocol": {
+    "name": "Prism Protocol",
+    "description": "PRISM is a revolutionary derivatives protocol that introduces new asset classes in DeFi, allowing users to manage the risks associated with volatile prices and unstable yields in a simple and capital-efficient manner. ",
+    "icon": {
+      "svg": "https://classic.prismprotocol.app/logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/prismProtocol.png"
+    },
+    "url": "https://classic.prismprotocol.app/",
+    "categories": ["derivatives"]
+  },
+  "erisProtocol": {
+    "name": "Eris Protocol",
+    "description": "ERIS is a Liquid Staking and Slow-burn Arbitrage Protocol.",
+    "icon": {
+      "svg": "https://www.erisprotocol.com/assets/favicon_light.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/erisProtocol.png"
+    },
+    "url": "https://erisprotocol.com/",
+    "categories": ["staking"]
+  },
+  "lns": {
+    "name": "LNS",
+    "description": "Your .luna & .lunc name service. Own your username, store an avatar and other profile data, and use it across Terra 2.0 & Terra Classic.",
+    "icon": {
+      "svg": "https://assets.hermesprotocol.io/img/projects/lns.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
+    },
+    "url": "https://lns.money/",
+    "categories": ["domainSystem"]
   }
 }
