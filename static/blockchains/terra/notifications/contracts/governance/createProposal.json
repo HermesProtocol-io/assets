@@ -1,5 +1,6 @@
 {
   "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq": {
+    "project": "astroport",
     "name": "Astroport",
     "icon": "https://astroport.fi/astro_logo.png",
     "trigger": {
