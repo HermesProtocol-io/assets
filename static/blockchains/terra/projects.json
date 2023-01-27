@@ -18,7 +18,7 @@
       "png": "https://app.astroport.fi/tokens/astro.png"
     },
     "url": "https://astroport.io/",
-    "categories": [],
+    "categories": ["dex"],
     "status": "active",
     "integration": "active"
   },
@@ -30,7 +30,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
     },
     "url": "https://terraswap.io/",
-    "categories": [],
+    "categories": ["dex"],
     "status": "active",
     "integration": "active"
   },
@@ -42,7 +42,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/phoenixFinance.png"
     },
     "url": "https://phoenixfi.so/",
-    "categories": [],
+    "categories": ["dex"],
     "status": "active",
     "integration": "active"
   },
@@ -53,7 +53,7 @@
       "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
     },
     "url": "https://terracasino.io/",
-    "categories": [],
+    "categories": ["gaming"],
     "status": "active",
     "integration": "inactive"
   },
@@ -64,7 +64,7 @@
       "png": "https://www.backbonelabs.io/img/logo.png"
     },
     "url": "https://backbonelabs.io/",
-    "categories": [],
+    "categories": ["liquidStaking"],
     "status": "active",
     "integration": "active"
   },
@@ -76,7 +76,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
     },
     "url": "https://lns.money/",
-    "categories": [],
+    "categories": ["dns"],
     "status": "active",
     "integration": "active"
   },
@@ -88,7 +88,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/valkyrieProtocol.png"
     },
     "url": "https://valkyrieprotocol.com/",
-    "categories": [],
+    "categories": ["launchpad"],
     "status": "active",
     "integration": "pending"
   },
@@ -100,7 +100,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/tfm.png"
     },
     "url": "https://tfm.com/",
-    "categories": [],
+    "categories": ["aggregator", "dex", "nftMarketplace"],
     "status": "active",
     "integration": "inactive"
   },
@@ -111,7 +111,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/knowhereArt.png"
     },
     "url": "https://knowhere.art/",
-    "categories": [],
+    "categories": ["nftMarketplace"],
     "status": "active",
     "integration": "active"
   },
@@ -122,7 +122,7 @@
       "png": "https://v2.randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
     },
     "url": "https://v2.randomearth.io/",
-    "categories": [],
+    "categories": ["nftMarketplace"],
     "status": "active",
     "integration": "active"
   },
@@ -132,8 +132,8 @@
     "icon": {
       "png": "https://assets.hermesprotocol.io/img/projects/talis.png"
     },
-    "url": "https://talis.app/",
-    "categories": [],
+    "url": "https://talis.art/",
+    "categories": ["nftMarketplace"],
     "status": "active",
     "integration": "active"
   },
@@ -148,5 +148,45 @@
     "categories": ["liquidStaking"],
     "status": "active",
     "integration": "pending"
+  },
+  "apolloDao": {
+    "name": "Apollo DAO",
+    "description": "Apollo DAO is building the necessary apps and infrastructure to securely manage assets and optimize yield across the Cosmos ecosystem.",
+    "icon": {
+      "svg": "https://safe.apollo.farm/static/media/BowIcon.5801e4dd.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
+    },
+    "url": "https://apollo.farm/",
+    "categories": []
+  },
+  "spectrumProtocol": {
+    "name": "Spectrum Protocol",
+    "description": "Spectrum Protocol is an Innovative, Decentralized Yield Optimizer platform that allows users to earn compound interest on their crypto assets farming.",
+    "icon": {
+      "svg": "https://terra.spec.finance/assets/spec_logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/spectrumProtocol.png"
+    },
+    "url": "https://terra.spec.finance/",
+    "categories": []
+  },
+  "prismProtocol": {
+    "name": "Prism Protocol",
+    "description": "Prism is the first layer-1 blockchain dedicated to the harvesting, trading and utilisation of yield.",
+    "icon": {
+      "svg": "https://prismprotocol.app/logo.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/prismProtocol.png"
+    },
+    "url": "https://prismprotocol.app/",
+    "categories": ["staking"]
+  },
+  "erisProtocol": {
+    "name": "Eris Protocol",
+    "description": "ERIS is a Liquid Staking and Slow-burn Arbitrage Protocol.",
+    "icon": {
+      "svg": "https://www.erisprotocol.com/assets/favicon_light.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/erisProtocol.png"
+    },
+    "url": "https://erisprotocol.com/",
+    "categories": ["staking"]
   }
 }
