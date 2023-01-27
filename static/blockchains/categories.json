@@ -1,0 +1,58 @@
+{
+  "dex": {
+    "name": "DEX",
+    "description": "Decentralized Exchange"
+  },
+  "derivatives": {
+    "name": "Derivatives",
+    "description": "Derivatives"
+  },
+  "nftMarketplace": {
+    "name": "NFT Marketplace",
+    "description": "NFT Marketplace"
+  },
+  "blockchain": {
+    "name": "Blockchain",
+    "description": "Blockchain"
+  },
+  "lending": {
+    "name": "Lending",
+    "description": "Lending"
+  },
+  "liquidStaking": {
+    "name": "Liquid Staking",
+    "description": "Liquid Staking"
+  },
+  "staking": {
+    "name": "Staking",
+    "description": "Staking"
+  },
+  "dns": {
+    "name": "Domain Name System",
+    "description": "Domain Name System"
+  },
+  "automation": {
+    "name": "Automation",
+    "description": "Automation"
+  },
+  "launchpad": {
+    "name": "Launchpad",
+    "description": "Launchpad"
+  },
+  "nftCollection": {
+    "name": "NFT Collection",
+    "description": "NFT Collection"
+  },
+  "aggregator": {
+    "name": "Aggregator",
+    "description": "Aggregator"
+  },
+  "utility": {
+    "name": "Utility",
+    "description": "Utility"
+  },
+  "gaming": {
+    "name": "Gaming",
+    "description": "Gaming"
+  }
+}

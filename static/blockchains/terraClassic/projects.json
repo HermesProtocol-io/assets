@@ -7,7 +7,7 @@
       "png": "https://app.astroport.fi/tokens/astro.png"
     },
     "url": "https://astroport.io/",
-    "categories": []
+    "categories": ["dex"]
   },
   "terraswap": {
     "name": "Terraswap",
@@ -17,7 +17,7 @@
       "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
     },
     "url": "https://terraswap.io/",
-    "categories": []
+    "categories": ["dex"]
   },
   "metaFrens": {
     "name": "MetaFrens",
@@ -36,7 +36,7 @@
       "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
     },
     "url": "https://terracasino.io/",
-    "categories": []
+    "categories": ["gaming"]
   },
   "anchorProtocol": {
     "name": "Anchor Protocol",
