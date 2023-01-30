@@ -8,7 +8,8 @@
     },
     "url": "https://hermesprotocol.io/",
     "categories": [],
-    "status": "active"
+    "status": "active",
+    "integration": ["active", "hidden"]
   },
   "astroport": {
     "name": "Astroport",
@@ -18,9 +19,9 @@
       "png": "https://app.astroport.fi/tokens/astro.png"
     },
     "url": "https://astroport.io/",
-    "categories": ["dex"],
+    "categories": ["dex", "staking"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "terraswap": {
     "name": "Terraswap",
@@ -32,7 +33,7 @@
     "url": "https://terraswap.io/",
     "categories": ["dex"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "phoenixFinance": {
     "name": "Phoenix Finance",
@@ -44,7 +45,7 @@
     "url": "https://phoenixfi.so/",
     "categories": ["dex"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "terraCasino": {
     "name": "Terra Casino",
@@ -55,7 +56,7 @@
     "url": "https://terracasino.io/",
     "categories": ["gaming"],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "backboneLabs": {
     "name": "Backbone Labs",
@@ -66,7 +67,7 @@
     "url": "https://backbonelabs.io/",
     "categories": ["liquidStaking"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "lns": {
     "name": "LNS",
@@ -78,7 +79,7 @@
     "url": "https://lns.money/",
     "categories": ["dns"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "valkyrieProtocol": {
     "name": "Valkyrie Protocol",
@@ -88,9 +89,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/valkyrieProtocol.png"
     },
     "url": "https://valkyrieprotocol.com/",
-    "categories": ["launchpad"],
+    "categories": ["launchpad", "staking"],
     "status": "active",
-    "integration": "pending"
+    "integration": ["upcoming"]
   },
   "tfm": {
     "name": "TFM",
@@ -102,7 +103,7 @@
     "url": "https://tfm.com/",
     "categories": ["aggregator", "dex", "nftMarketplace"],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "knowhere": {
     "name": "Knowhere",
@@ -113,7 +114,7 @@
     "url": "https://knowhere.art/",
     "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "randomEarth": {
     "name": "Random Earth",
@@ -124,7 +125,7 @@
     "url": "https://v2.randomearth.io/",
     "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "talis": {
     "name": "Talis",
@@ -135,7 +136,7 @@
     "url": "https://talis.art/",
     "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "steak": {
     "name": "Steak",
@@ -147,7 +148,7 @@
     "url": "https://liquidstaking.app/",
     "categories": ["liquidStaking"],
     "status": "active",
-    "integration": "pending"
+    "integration": ["upcoming"]
   },
   "apolloDao": {
     "name": "Apollo DAO",
@@ -157,7 +158,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
     },
     "url": "https://apollo.farm/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
   },
   "spectrumProtocol": {
     "name": "Spectrum Protocol",
@@ -167,7 +170,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/spectrumProtocol.png"
     },
     "url": "https://terra.spec.finance/",
-    "categories": []
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
   },
   "prismProtocol": {
     "name": "Prism Protocol",
@@ -177,7 +182,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/prismProtocol.png"
     },
     "url": "https://prismprotocol.app/",
-    "categories": ["staking"]
+    "categories": ["liquidStaking"],
+    "status": "active",
+    "integration": ["inactive"]
   },
   "erisProtocol": {
     "name": "Eris Protocol",
@@ -187,6 +194,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/erisProtocol.png"
     },
     "url": "https://erisprotocol.com/",
-    "categories": ["staking"]
+    "categories": ["liquidStaking"],
+    "status": "active",
+    "integration": ["inactive"]
   }
 }
