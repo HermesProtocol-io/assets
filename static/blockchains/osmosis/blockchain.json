@@ -1,0 +1,22 @@
+{
+  "name": "Osmosis",
+  "url": {
+    "rest": [
+      "https://osmosis-lcd.stakely.io",
+      "https://osmosis-api.polkachu.com",
+      "https://lcd.osmosis.zone",
+      "https://lcd-osmosis.blockapsis.com",
+      "https://osmosis-lcd.quickapi.com"
+    ],
+    "rpc": [
+      "https://osmosis-rpc.stakely.io",
+      "https://osmosis-rpc.polkachu.com",
+      "https://osmosis-rpc-server-01.stakely.io",
+      "https://rpc.osmosis.zone",
+      "https://rpc-osmosis.blockapsis.com"
+    ],
+    "block": "https://www.mintscan.io/osmosis/blocks/%block%/",
+    "tx": "https://www.mintscan.io/osmosis/txs/%tx%/",
+    "wallet": "https://www.mintscan.io/osmosis/account/%address%/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cosmos Hub",
+  "url": {
+    "rest": [
+      "https://api.cosmos.network",
+      "https://cosmos-mainnet-archive.allthatnode.com:1317",
+      "https://node.atomscan.com",
+      "https://cosmos-api.polkachu.com"
+    ],
+    "rpc": [
+      "https://api.cosmos.network",
+      "https://cosmos-mainnet-archive.allthatnode.com:1317",
+      "https://rpc.atomscan.com",
+      "https://cosmos-rpc.polkachu.com"
+    ],
+    "block": "https://www.mintscan.io/cosmos/blocks/%block%/",
+    "tx": "https://www.mintscan.io/cosmos/txs/%tx%/",
+    "wallet": "https://www.mintscan.io/cosmos/account/%address%/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Juno",
+  "url": {
+    "rest": [
+      "https://juno-lcd.stakely.io",
+      "https://juno-api.polkachu.com",
+      "https://api-juno.nodes.guru",
+      "https://juno.stakesystems.io",
+      "https://lcd-juno.itastakers.com"
+    ],
+    "rpc": [
+      "https://juno-rpc.stakely.io",
+      "https://juno-rpc.polkachu.com",
+      "https://juno-rpc-server-01.stakely.io",
+      "https://rpc-juno.itastakers.com",
+      "https://rpc-juno.nodes.guru"
+    ],
+    "block": "https://www.mintscan.io/juno/blocks/%block%/",
+    "tx": "https://www.mintscan.io/juno/txs/%tx%/",
+    "wallet": "https://www.mintscan.io/juno/account/%address%/"
+  }
+}

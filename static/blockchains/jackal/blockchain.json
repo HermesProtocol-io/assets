@@ -1,0 +1,16 @@
+{
+  "name": "Jackal",
+  "url": {
+    "rest": [
+      "https://api.jackalprotocol.com",
+      "https://jackal-api.polkachu.com"
+    ],
+    "rpc": [
+      "https://rpc.jackalprotocol.com",
+      "https://jackal-rpc.polkachu.com"
+    ],
+    "block": "https://ping.pub/jackal/blocks/%block%/",
+    "tx": "https://ping.pub/jackal/tx/%tx%/",
+    "wallet": "https://ping.pub/jackal/account/%address%/"
+  }
+}

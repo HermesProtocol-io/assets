@@ -1,0 +1,10 @@
+{
+  "name": "Archway",
+  "url": {
+    "rest": ["https://api.constantine-1.archway.tech"],
+    "rpc": ["https://rpc.constantine-1.archway.tech"],
+    "block": "https://explorer.constantine-1.archway.tech/blocks/%block%/",
+    "tx": "https://explorer.constantine-1.archway.tech/transactions/%tx%/",
+    "wallet": "https://explorer.constantine-1.archway.tech/account/%address%/"
+  }
+}

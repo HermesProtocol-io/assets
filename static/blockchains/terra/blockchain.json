@@ -1,0 +1,24 @@
+{
+  "name": "Terra",
+  "url": {
+    "rest": [
+      "https://phoenix-lcd.terra.dev",
+      "https://terra-lcd.stakely.io",
+      "https://terra-api.polkachu.com",
+      "https://fcd.terrav2.ccvalidators.com",
+      "https://terra2.tdrsys.com",
+      "https://lcd-terra.wildsage.io"
+    ],
+    "rpc": [
+      "https://terra-rpc.stakely.io",
+      "https://terra-rpc.polkachu.com",
+      "https://rpc.terrav2.ccvalidators.com",
+      "https://terra2.tdrsys.com:2053",
+      "https://rpc-terra.wildsage.io"
+    ],
+    "block": "https://terrasco.pe/mainnet/blocks/%block%/",
+    "tx": "https://terrasco.pe/mainnet/tx/%tx%/",
+    "wallet": "https://terrasco.pe/mainnet/address/%address%/",
+    "contract_query": "https://terrasco.pe/mainnet/address/%address%/smart/%b64query%"
+  }
+}

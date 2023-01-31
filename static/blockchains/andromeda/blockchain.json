@@ -1,0 +1,16 @@
+{
+  "name": "Andromeda",
+  "url": {
+    "rest": [
+      "https://lcd-andromeda-testnet.cereslabs.io",
+      "https://lcd-andromeda-testnet.synergynodes.com"
+    ],
+    "rpc": [
+      "https://rpc-andromeda-testnet.cereslabs.io",
+      "https://rpc-andromeda-testnet.synergynodes.com"
+    ],
+    "block": "https://testnets.cosmosrun.info/andromeda/blocks/%block%/",
+    "tx": "https://testnets.cosmosrun.info/andromeda/tx/%tx%/",
+    "wallet": "https://testnets.cosmosrun.info/andromeda/account/%address%/"
+  }
+}

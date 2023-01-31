@@ -1,0 +1,16 @@
+{
+  "name": "Injective",
+  "url": {
+    "rest": [
+      "https://k8s.global.mainnet.lcd.injective.network",
+      "https://injective-api.polkachu.com"
+    ],
+    "rpc": [
+      "https://k8s.global.mainnet.tm.injective.network",
+      "https://injective-rpc.polkachu.com"
+    ],
+    "block": "https://www.mintscan.io/injective/blocks/%block%/",
+    "tx": "https://www.mintscan.io/injective/txs/%tx%/",
+    "wallet": "https://www.mintscan.io/injective/account/%address%/"
+  }
+}

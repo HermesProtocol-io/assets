@@ -1,0 +1,10 @@
+{
+  "name": "Q",
+  "url": {
+    "rest": ["https://rpc.q.org"],
+    "rpc": ["https://rpc.q.org"],
+    "block": "https://explorer.q.org/block/%block%/transactions/",
+    "tx": "https://explorer.q.org/tx/%tx%/",
+    "wallet": "https://explorer.q.org/address/%address%/"
+  }
+}
