@@ -197,5 +197,291 @@
     "categories": ["liquidStaking"],
     "status": "active",
     "integration": ["inactive"]
+  },
+  "stader": {
+    "name": "Stader",
+    "description": "Stader is a non-custodial smart contract-based staking platform that helps you conveniently discover and access staking solutions.",
+    "icon": {},
+    "url": "https://staderlabs.com/",
+    "categories": ["liquidStaking"],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "redactedLabs": {
+    "name": "Redacted Labs",
+    "description": "Redacted Labs a trustless Zero Knowledge protocol that exists to bring users an easy to use way of securing your transactions from prying eyes.",
+    "icon": {
+      "png": "uploads-ssl.webflow.com/63a6d6b360216a7dda80706f/63af0868d94154800b97a184_Frame%2016.png"
+    },
+    "url": "https://www.redacted.money/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "fraxFinance": {
+    "name": "Frax Finance",
+    "description": "Frax is the first fractional stablecoin protocol.",
+    "icon": {
+      "png": "app.frax.finance/static/ethCanonicalFRAX.7ee4ef25.png"
+    },
+    "url": "https://frax.finance/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "uniswapProtocol": {
+    "name": "Uniswap Protocol",
+    "description": "Swap, earn, and build on the leading decentralized crypto trading protocol.",
+    "icon": {
+      "png": "https://i.imgur.com/xUdct2j_d.png"
+    },
+    "url": "https://uniswap.org/",
+    "categories": ["dex"],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "chainlink": {
+    "name": "ChainLink",
+    "description": "Chainlink is a decentralized oracle network that provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain.",
+    "icon": {
+      "png": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
+    },
+    "url": "https://chain.link/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "aave": {
+    "name": "Aave",
+    "description": "Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+    "icon": {
+      "png": "https://aave.com/favicon64.png"
+    },
+    "url": "https://aave.com/",
+    "categories": ["lending"],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "polygon": {
+    "name": "Polygon",
+    "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+    "icon": {
+      "png": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+    },
+    "url": "https://polygon.technology/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "makerDao": {
+    "name": "MakerDAO",
+    "description": "MakerDAO is a decentralized autonomous organization that manages the Dai stablecoin system.",
+    "icon": {
+      "png": "https://i.imgur.com/wLV5tFA_d.png"
+    },
+    "url": "https://makerdao.com/en/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "crescentNetwork": {
+    "name": "Crescent Network",
+    "description": "Crescent Network is a decentralized finance protocol that allows users to earn interest on their crypto assets.",
+    "icon": {
+      "svg": "https://app.crescent.network/static/media/crescent_logo.63e3cd95ddbc0b0cbb172bd253e6fff5.svg",
+      "png": "https://app.crescent.network/logo192.png"
+    },
+    "url": "https://crescent.network/",
+    "categories": ["dex", "liquidStaking", "derivatives", "lending"],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "ethereum": {
+    "name": "Ethereum",
+    "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality.",
+    "icon": {
+      "png": "https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/b7d3e/eth-glyph-colored.png"
+    },
+    "url": "https://ethereum.org/en/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "circle": {
+    "name": "Circle",
+    "description": "Circle is a global financial technology firm that enables businesses, organizations, and individuals to harness the power of stablecoins and other crypto assets to create an open financial system.",
+    "icon": {
+      "png": "https://www.circle.com/hubfs/Circle%20logo%202020/circle-icon.png"
+    },
+    "url": "https://www.circle.com/en/us",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "tether": {
+    "name": "Tether",
+    "description": "Tether is a blockchain-enabled platform that aims to provide a simple interface for businesses and individuals to access a blockchain-based digital currency.",
+    "icon": {
+      "svg": "https://tether.to/images/logoMarkGreen.svg",
+      "png": "https://tether.to/images/logoMarkGreen.png"
+    },
+    "url": "https://tether.to/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "wbtc": {
+    "name": "wBTC",
+    "description": "wBTC is a tokenized version of Bitcoin on Ethereum.",
+    "icon": {
+      "png": "https://s2.coinmarketcap.com/static/img/coins/128x128/3717.png"
+    },
+    "url": "https://wbtc.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "osmosis": {
+    "name": "Osmosis",
+    "description": "Osmosis is an advanced automated market maker (AMM) protocol that allows developers to build customized AMMs with sovereign liquidity pools.",
+    "icon": {
+      "png": "https://app.osmosis.zone/osmosis-logo-wc.png"
+    },
+    "url": "https://osmosis.zone/",
+    "categories": ["dex", "liquidStaking"],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "juno": {
+    "name": "Juno",
+    "description": "Juno is a global, open source, permission-less network for decentralized interoperable applications.",
+    "icon": {
+      "png": "https://miro.medium.com/fit/c/176/176/1*RUYyQ9DYqgCo724vhMc4nA.pngcc"
+    },
+    "url": "https://www.junonetwork.io",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "secret": {
+    "name": "Secret",
+    "description": "Secret Network combines the best features of decentralized, open-source networks and blockchains with the benefits of data privacy and improved usability.",
+    "icon": {
+      "png": "https://scrt.network/assets/static/favicon.1539b60.c1b6db0fa42ef7aea0c1645ff461532e.png"
+    },
+    "url": "https://scrt.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "cosmos": {
+    "name": "Cosmos",
+    "description": "Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.",
+    "icon": {
+      "png": "https://cosmos.network/apple-touch-icon.png"
+    },
+    "url": "https://cosmos.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "gravityBridge": {
+    "name": "Gravity Bridge",
+    "description": "An open, decentralized bridge that unlocks the power of interoperability & liquidity between blockchain ecosystems.",
+    "icon": {
+      "png": "https://static.wixstatic.com/media/c07978_ffa43e015efe4952a75c3b7adf609cc3~mv2.png"
+    },
+    "url": "https://www.gravitybridge.org/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "metaFrens": {
+    "name": "MetaFrens",
+    "description": "MetaFrens is a community-led NFT metaverse open for all Terra NFTs.",
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/metaFrens.png"
+    },
+    "url": "https://terrafloki.io/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "wormhole": {
+    "name": "Wormhole",
+    "description": "Wormhole is a generic message passing protocol that connects to multiple chains",
+    "icon": {
+      "png": "https://wormhole.com/apple-touch-icon.png"
+    },
+    "url": "https://wormhole.com/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "alentejoProtocol": {
+    "name": "alentejo.protocol",
+    "description": "alentejo.protocol wants to establish a decentralized financial system in the Alentejo region of Portugal.",
+    "icon": {
+      "png": "https://static.wixstatic.com/media/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png"
+    },
+    "url": "https://alentejo.money/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "portugalProtocol": {
+    "name": "portugal.protocol",
+    "description": "portugal.protocol wants to establish a decentralized financial system in Portugal.",
+    "icon": {
+      "png": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
+    },
+    "url": "https://dioalma.wixsite.com/dioalma",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "orne": {
+    "name": "Orne",
+    "description": "Orne will let you purchase tokenized real trees and redistribute the full profit of their harvest back to you.",
+    "icon": {
+      "png": "https://orne.io/wp-content/uploads/fbrfg/apple-touch-icon.png"
+    },
+    "url": "https://orne.io/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "terraPoker": {
+    "name": "Terra Poker",
+    "description": "Terra Poker is the first P2E Texas Hold'em style poker game on the Terra Blockchain.",
+    "icon": {
+      "png": "https://terrapoker.games/ico/android-icon-192x192.png"
+    },
+    "url": "https://terrapoker.games/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "lunaBird": {
+    "name": "Luna Bird",
+    "description": "Board for the lunatics.",
+    "icon": {
+      "png": "https://www.lunabird.network/static/media/logo.3a4219b6.png"
+    },
+    "url": "https://lunabird.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "lira": {
+    "name": "Lira",
+    "description": "Lira Financial aims to solve the problems of prior cryptocurrencies including mining rewards, farming rewards, and liquidity provisioning.",
+    "icon": {
+      "png": "https://lira.financial/wp-content/uploads/2022/11/lira_100x100.png"
+    },
+    "url": "https://lira.financial/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
   }
 }
