@@ -9,7 +9,7 @@
     "url": "https://astroport.io/",
     "categories": ["dex"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "terraswap": {
     "name": "Terraswap",
@@ -21,7 +21,7 @@
     "url": "https://terraswap.io/",
     "categories": ["dex"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "metaFrens": {
     "name": "MetaFrens",
@@ -31,7 +31,9 @@
       "png": "https://assets.hermesprotocol.io/img/projects/metaFrens.png"
     },
     "url": "https://terrafloki.io/",
-    "categories": []
+    "categories": [],
+    "status": "",
+    "integration": ["inactive"]
   },
   "terraCasino": {
     "name": "Terra Casino",
@@ -42,7 +44,7 @@
     "url": "https://terracasino.io/",
     "categories": ["gaming"],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "anchorProtocol": {
     "name": "Anchor Protocol",
@@ -54,7 +56,7 @@
     "url": "https://anchor-protocol.com/",
     "categories": ["lending"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "mirrorProtocol": {
     "name": "Mirror Protocol",
@@ -65,7 +67,7 @@
     "url": "https://mirror.finance/",
     "categories": ["derivatives"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "randomEarth": {
     "name": "Random Earth",
@@ -76,7 +78,7 @@
     "url": "https://randomearth.io/",
     "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "talis": {
     "name": "Talis",
@@ -88,7 +90,7 @@
     "url": "https://talis.art/",
     "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": "active"
+    "integration": ["active"]
   },
   "apolloDao": {
     "name": "Apollo DAO",
@@ -100,7 +102,7 @@
     "url": "https://apollo.farm/",
     "categories": [],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "spectrumProtocol": {
     "name": "Spectrum Protocol",
@@ -112,7 +114,7 @@
     "url": "https://classic.spec.finance/",
     "categories": [],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "loopMarkets": {
     "name": "Loop Markets",
@@ -123,7 +125,7 @@
     "url": "https://dex.loop.markets/",
     "categories": ["dex"],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "prismProtocol": {
     "name": "Prism Protocol",
@@ -135,7 +137,7 @@
     "url": "https://classic.prismprotocol.app/",
     "categories": ["derivatives"],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "erisProtocol": {
     "name": "Eris Protocol",
@@ -147,7 +149,7 @@
     "url": "https://erisprotocol.com/",
     "categories": ["staking"],
     "status": "active",
-    "integration": "inactive"
+    "integration": ["inactive"]
   },
   "lns": {
     "name": "LNS",
@@ -159,6 +161,6 @@
     "url": "https://lns.money/",
     "categories": ["dns"],
     "status": "active",
-    "integration": "pending"
+    "integration": ["upcoming"]
   }
 }
