@@ -20,5 +20,16 @@
     "tx": "https://terrasco.pe/mainnet/tx/%tx%/",
     "wallet": "https://terrasco.pe/mainnet/address/%address%/",
     "contract_query": "https://terrasco.pe/mainnet/address/%address%/smart/%b64query%"
+  },
+  "bridges": {
+    "transfer/channel-0": "cosmosHub",
+    "transfer/channel-1": "osmosis",
+    "transfer/channel-2": "juno",
+    "transfer/channel-3": "secret",
+    "transfer/channel-4": "gravityBridge",
+    "transfer/channel-5": "evmos",
+    "transfer/channel-6": "axelar",
+    "transfer/channel-8": "crescentNetwork",
+    "transfer/channel-10": "kujira"
   }
 }
