@@ -7,9 +7,7 @@
       "png": "https://media.discordapp.net/attachments/954210236900724756/1009539276339433633/Hermes_Protocol_Logo_Icon_Camel_-_circle_crop.png"
     },
     "url": "https://hermesprotocol.io/",
-    "categories": [],
-    "status": "active",
-    "integration": ["active", "hidden"]
+    "status": "active"
   },
   "astroport": {
     "name": "Astroport",
@@ -19,9 +17,11 @@
       "png": "https://app.astroport.fi/tokens/astro.png"
     },
     "url": "https://astroport.io/",
-    "categories": ["dex", "staking"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": {
+      "dex": ["active"],
+      "staking": ["upcoming"]
+    }
   },
   "terraswap": {
     "name": "Terraswap",
@@ -31,9 +31,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/terraswap.png"
     },
     "url": "https://terraswap.io/",
-    "categories": ["dex"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "dex": ["active"] }
   },
   "phoenixFinance": {
     "name": "Phoenix Finance",
@@ -43,9 +42,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/phoenixFinance.png"
     },
     "url": "https://phoenixfi.so/",
-    "categories": ["dex"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "dex": ["active"] }
   },
   "terraCasino": {
     "name": "Terra Casino",
@@ -54,9 +52,8 @@
       "png": "https://raw.githubusercontent.com/theowlgame/owlassets/master/logo/Terracasino.png"
     },
     "url": "https://terracasino.io/",
-    "categories": ["gaming"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "gaming": ["inactive"] }
   },
   "backboneLabs": {
     "name": "Backbone Labs",
@@ -65,9 +62,8 @@
       "png": "https://www.backbonelabs.io/img/logo.png"
     },
     "url": "https://backbonelabs.io/",
-    "categories": ["liquidStaking"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "liquidStaking": ["active"] }
   },
   "lns": {
     "name": "LNS",
@@ -77,9 +73,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
     },
     "url": "https://lns.money/",
-    "categories": ["dns"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "dns": ["active"] }
   },
   "valkyrieProtocol": {
     "name": "Valkyrie Protocol",
@@ -89,9 +84,11 @@
       "png": "https://assets.hermesprotocol.io/img/projects/valkyrieProtocol.png"
     },
     "url": "https://valkyrieprotocol.com/",
-    "categories": ["launchpad", "staking"],
     "status": "active",
-    "integration": ["upcoming"]
+    "categoriesIntegration": {
+      "launchpad": ["inactive"],
+      "staking": ["upcoming"]
+    }
   },
   "tfm": {
     "name": "TFM",
@@ -101,9 +98,12 @@
       "png": "https://assets.hermesprotocol.io/img/projects/tfm.png"
     },
     "url": "https://tfm.com/",
-    "categories": ["aggregator", "dex", "nftMarketplace"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {
+      "aggregator": ["inactive"],
+      "dex": ["inactive"],
+      "nftMarketplace": ["inactive"]
+    }
   },
   "knowhere": {
     "name": "Knowhere",
@@ -112,9 +112,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/knowhereArt.png"
     },
     "url": "https://knowhere.art/",
-    "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "nftMarketplace": ["active"] }
   },
   "randomEarth": {
     "name": "Random Earth",
@@ -123,9 +122,8 @@
       "png": "https://v2.randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
     },
     "url": "https://v2.randomearth.io/",
-    "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "nftMarketplace": ["active"] }
   },
   "talis": {
     "name": "Talis",
@@ -134,9 +132,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/talis.png"
     },
     "url": "https://talis.art/",
-    "categories": ["nftMarketplace"],
     "status": "active",
-    "integration": ["active"]
+    "categoriesIntegration": { "nftMarketplace": ["active"] }
   },
   "steak": {
     "name": "Steak",
@@ -146,9 +143,8 @@
       "png": "https://liquidstaking.app/steak.png"
     },
     "url": "https://liquidstaking.app/",
-    "categories": ["liquidStaking"],
     "status": "active",
-    "integration": ["upcoming"]
+    "categoriesIntegration": { "liquidStaking": ["upcoming"] }
   },
   "apolloDao": {
     "name": "Apollo DAO",
@@ -158,9 +154,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/apolloDao.png"
     },
     "url": "https://apollo.farm/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "spectrumProtocol": {
     "name": "Spectrum Protocol",
@@ -170,9 +165,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/spectrumProtocol.png"
     },
     "url": "https://terra.spec.finance/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "prismProtocol": {
     "name": "Prism Protocol",
@@ -182,9 +176,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/prismProtocol.png"
     },
     "url": "https://prismprotocol.app/",
-    "categories": ["liquidStaking"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "liquidStaking": ["inactive"] }
   },
   "erisProtocol": {
     "name": "Eris Protocol",
@@ -194,18 +187,16 @@
       "png": "https://assets.hermesprotocol.io/img/projects/erisProtocol.png"
     },
     "url": "https://erisprotocol.com/",
-    "categories": ["liquidStaking"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "liquidStaking": ["inactive"] }
   },
   "stader": {
     "name": "Stader",
     "description": "Stader is a non-custodial smart contract-based staking platform that helps you conveniently discover and access staking solutions.",
     "icon": {},
     "url": "https://staderlabs.com/",
-    "categories": ["liquidStaking"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "liquidStaking": ["inactive"] }
   },
   "redactedLabs": {
     "name": "Redacted Labs",
@@ -214,9 +205,8 @@
       "png": "uploads-ssl.webflow.com/63a6d6b360216a7dda80706f/63af0868d94154800b97a184_Frame%2016.png"
     },
     "url": "https://www.redacted.money/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "fraxFinance": {
     "name": "Frax Finance",
@@ -225,9 +215,8 @@
       "png": "app.frax.finance/static/ethCanonicalFRAX.7ee4ef25.png"
     },
     "url": "https://frax.finance/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "uniswapProtocol": {
     "name": "Uniswap Protocol",
@@ -236,9 +225,8 @@
       "png": "https://i.imgur.com/xUdct2j_d.png"
     },
     "url": "https://uniswap.org/",
-    "categories": ["dex"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "dex": ["inactive"] }
   },
   "chainlink": {
     "name": "ChainLink",
@@ -247,9 +235,8 @@
       "png": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
     },
     "url": "https://chain.link/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "aave": {
     "name": "Aave",
@@ -258,9 +245,8 @@
       "png": "https://aave.com/favicon64.png"
     },
     "url": "https://aave.com/",
-    "categories": ["lending"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "lending": ["inactive"] }
   },
   "polygon": {
     "name": "Polygon",
@@ -269,9 +255,8 @@
       "png": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
     },
     "url": "https://polygon.technology/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "makerDao": {
     "name": "MakerDAO",
@@ -280,9 +265,8 @@
       "png": "https://i.imgur.com/wLV5tFA_d.png"
     },
     "url": "https://makerdao.com/en/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "crescentNetwork": {
     "name": "Crescent Network",
@@ -292,9 +276,8 @@
       "png": "https://app.crescent.network/logo192.png"
     },
     "url": "https://crescent.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "ethereum": {
     "name": "Ethereum",
@@ -303,9 +286,8 @@
       "png": "https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/b7d3e/eth-glyph-colored.png"
     },
     "url": "https://ethereum.org/en/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "circle": {
     "name": "Circle",
@@ -314,9 +296,8 @@
       "png": "https://www.circle.com/hubfs/Circle%20logo%202020/circle-icon.png"
     },
     "url": "https://www.circle.com/en/us",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "tether": {
     "name": "Tether",
@@ -326,9 +307,8 @@
       "png": "https://tether.to/images/logoMarkGreen.png"
     },
     "url": "https://tether.to/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "wbtc": {
     "name": "wBTC",
@@ -337,9 +317,8 @@
       "png": "https://s2.coinmarketcap.com/static/img/coins/128x128/3717.png"
     },
     "url": "https://wbtc.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "osmosis": {
     "name": "Osmosis",
@@ -348,9 +327,8 @@
       "png": "https://app.osmosis.zone/osmosis-logo-wc.png"
     },
     "url": "https://osmosis.zone/",
-    "categories": ["dex", "liquidStaking"],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "juno": {
     "name": "Juno",
@@ -359,9 +337,8 @@
       "png": "https://miro.medium.com/fit/c/176/176/1*RUYyQ9DYqgCo724vhMc4nA.png"
     },
     "url": "https://www.junonetwork.io",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "secret": {
     "name": "Secret",
@@ -370,9 +347,8 @@
       "png": "https://scrt.network/assets/static/favicon.1539b60.c1b6db0fa42ef7aea0c1645ff461532e.png"
     },
     "url": "https://scrt.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "cosmosHub": {
     "name": "Cosmos Hub",
@@ -381,9 +357,8 @@
       "png": "https://cosmos.network/apple-touch-icon.png"
     },
     "url": "https://cosmos.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "gravityBridge": {
     "name": "Gravity Bridge",
@@ -392,9 +367,8 @@
       "png": "https://static.wixstatic.com/media/c07978_ffa43e015efe4952a75c3b7adf609cc3~mv2.png"
     },
     "url": "https://www.gravitybridge.org/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "metaFrens": {
     "name": "MetaFrens",
@@ -403,9 +377,8 @@
       "png": "https://assets.hermesprotocol.io/img/projects/metaFrens.png"
     },
     "url": "https://terrafloki.io/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "wormhole": {
     "name": "Wormhole",
@@ -414,9 +387,8 @@
       "png": "https://wormhole.com/apple-touch-icon.png"
     },
     "url": "https://wormhole.com/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "alentejoProtocol": {
     "name": "alentejo.protocol",
@@ -425,9 +397,8 @@
       "png": "https://static.wixstatic.com/media/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png"
     },
     "url": "https://alentejo.money/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "portugalProtocol": {
     "name": "portugal.protocol",
@@ -436,9 +407,8 @@
       "png": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png"
     },
     "url": "https://dioalma.wixsite.com/dioalma",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "orne": {
     "name": "Orne",
@@ -447,9 +417,8 @@
       "png": "https://orne.io/wp-content/uploads/fbrfg/apple-touch-icon.png"
     },
     "url": "https://orne.io/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "terraPoker": {
     "name": "Terra Poker",
@@ -458,9 +427,8 @@
       "png": "https://terrapoker.games/ico/android-icon-192x192.png"
     },
     "url": "https://terrapoker.games/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": { "gaming": ["inactive"] }
   },
   "lunaBird": {
     "name": "Luna Bird",
@@ -469,9 +437,8 @@
       "png": "https://www.lunabird.network/static/media/logo.3a4219b6.png"
     },
     "url": "https://lunabird.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "lira": {
     "name": "Lira",
@@ -480,9 +447,8 @@
       "png": "https://lira.financial/wp-content/uploads/2022/11/lira_100x100.png"
     },
     "url": "https://lira.financial/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categoriesIntegration": {}
   },
   "kujira": {
     "name": "Kujira",
@@ -491,9 +457,8 @@
       "png": "https://kujira.app/assets/favicon.03c59656.png"
     },
     "url": "https://kujira.app/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categories": {}
   },
   "evmos": {
     "name": "Evmos",
@@ -503,9 +468,8 @@
       "png": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/evmos/asset/evmos.png"
     },
     "url": "https://evmos.org/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categories": {}
   },
   "axelar": {
     "name": "Axelar",
@@ -515,9 +479,8 @@
       "png": "https://docs.axelar.dev/images/chains/axelar.png"
     },
     "url": "https://axelar.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categories": []
   },
   "avalanche": {
     "name": "Avalanche",
@@ -526,9 +489,8 @@
       "png": "https://assets-global.website-files.com/6059b554e81c705f9dd2dd32/60ec6734b3013629d0a73ae1_AVAX_Token_Red_256.png"
     },
     "url": "https://www.avax.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categories": []
   },
   "binance": {
     "name": "Binance",
@@ -537,9 +499,8 @@
       "png": "https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png"
     },
     "url": "https://www.binance.com/en",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categories": []
   },
   "moonbeam": {
     "name": "Moonbeam",
@@ -548,8 +509,7 @@
       "png": "https://s2.coinmarketcap.com/static/img/coins/128x128/6836.png"
     },
     "url": "https://moonbeam.network/",
-    "categories": [],
     "status": "active",
-    "integration": ["inactive"]
+    "categories": []
   }
 }
