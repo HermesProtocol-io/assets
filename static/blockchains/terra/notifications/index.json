@@ -1,37 +1,74 @@
 {
   "governancePoll": {
-    "folder": "./contracts/governancePoll",
     "name": "Governance Poll",
-    "description": "Governance Poll"
+    "description": "Governance Poll",
+    "path": "contracts/governancePoll",
+    "native": ["MsgSubmitProposal"],
+    "channels": ["discordDM", "discordChannel", "twitterTweet"],
+    "integration": ["active"]
   },
   "nftMonitor": {
-    "folder": "./contracts/nfts",
     "name": "NFT Monitor",
-    "description": "NFT Monitor"
+    "description": "NFT Monitor",
+    "path": "contracts/nftMonitor",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "staking": {
-    "folder": "./contracts/staking",
     "name": "Staking",
-    "description": "Staking"
+    "description": "Staking",
+    "path": "contracts/staking",
+    "native": [
+      "MsgDelegate",
+      "MsgUndelegate",
+      "MsgBeginRedelegate",
+      "MsgWithdrawDelegatorReward"
+    ],
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "liquidStaking": {
-    "folder": "./contracts/liquidStaking",
     "name": "Liquid Staking",
-    "description": "Liquid Staking"
+    "description": "Liquid Staking",
+    "path": "contracts/liquidStaking",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "liquidityPool": {
-    "folder": "",
     "name": "Liquidity Pool",
-    "description": "Liquidity Pool"
+    "description": "Liquidity Pool",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "priceAlert": {
-    "folder": "",
     "name": "Price Alert",
-    "description": "Price Alert"
+    "description": "Price Alert",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "walletWatcher": {
-    "folder": "",
     "name": "Wallet Watcher",
-    "description": "Wallet Watcher"
+    "description": "Wallet Watcher",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
+  },
+  "domainChanges": {
+    "name": "Domain Changes",
+    "description": "Domain Changes",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
+  },
+  "domainRegistration": {
+    "name": "Domain Registration",
+    "description": "Domain Registration",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
+  },
+  "castVote": {
+    "name": "Cast Vote",
+    "description": "Cast Vote",
+    "channels": ["twitterTweet"],
+    "native": ["MsgVote"],
+    "integration": ["upcoming"]
   }
 }
