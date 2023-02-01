@@ -1,39 +1,69 @@
 {
   "dex": {
     "name": "DEX",
-    "description": "Decentralized Exchange"
+    "description": "Decentralized Exchange",
+    "blockchainIntegration": {
+      "terra": ["active"],
+      "terraClassic": ["active"]
+    }
   },
   "derivatives": {
     "name": "Derivatives",
-    "description": "Derivatives"
+    "description": "Derivatives",
+    "blockchainIntegration": {
+      "terraClassic": ["active"]
+    }
   },
   "nftMarketplace": {
     "name": "NFT Marketplace",
-    "description": "NFT Marketplace"
+    "description": "NFT Marketplace",
+    "blockchainIntegration": {
+      "terra": ["active"],
+      "terraClassic": ["active"]
+    }
   },
   "blockchain": {
     "name": "Blockchain",
-    "description": "Blockchain"
+    "description": "Blockchain",
+    "blockchainIntegration": {
+      "terra": ["active"],
+      "terraClassic": ["active"]
+    }
   },
   "lending": {
     "name": "Lending",
-    "description": "Lending"
+    "description": "Lending",
+    "blockchainIntegration": {
+      "terraClassic": ["active"]
+    }
   },
   "liquidStaking": {
     "name": "Liquid Staking",
-    "description": "Liquid Staking"
+    "description": "Liquid Staking",
+    "blockchainIntegration": {
+      "terra": ["active"]
+    }
   },
   "staking": {
     "name": "Staking",
-    "description": "Staking"
+    "description": "Staking",
+    "blockchainIntegration": {
+      "terra": ["active"]
+    }
   },
   "dns": {
-    "name": "Domain Name System",
-    "description": "Domain Name System"
+    "name": "DNS",
+    "description": "Domain Name System",
+    "blockchainIntegration": {
+      "terra": ["active"]
+    }
   },
   "automation": {
     "name": "Automation",
-    "description": "Automation"
+    "description": "Automation",
+    "blockchainIntegration": {
+      "terra": ["upcoming"]
+    }
   },
   "launchpad": {
     "name": "Launchpad",
