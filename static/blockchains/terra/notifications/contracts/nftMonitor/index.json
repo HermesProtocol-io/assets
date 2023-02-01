@@ -1,0 +1,37 @@
+{
+  "list": {
+    "name": "List",
+    "description": "List",
+    "path": "list.json"
+  },
+  "delist": {
+    "name": "Delist",
+    "description": "Delist",
+    "path": "delist.json"
+  },
+  "sale": {
+    "name": "Sale",
+    "description": "Sale",
+    "path": "sale.json"
+  },
+  "createAuction": {
+    "name": "Create Auction",
+    "description": "Create Auction",
+    "path": "createAuction.json"
+  },
+  "cancelAuction": {
+    "name": "Cancel Auction",
+    "description": "Cancel Auction",
+    "path": "cancelAuction.json"
+  },
+  "bid": {
+    "name": "Bid",
+    "description": "Bid",
+    "path": "bid.json"
+  },
+  "cancelBid": {
+    "name": "Cancel Bid",
+    "description": "Cancel Bid",
+    "file": "cancelBid.json"
+  }
+}
