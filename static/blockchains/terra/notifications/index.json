@@ -55,20 +55,22 @@
   "domainChanges": {
     "name": "Domain Changes",
     "description": "Domain Changes",
+    "path": "contracts/domainChanges",
     "channels": ["discordDM", "discordChannel"],
     "integration": ["active"]
   },
   "domainRegistration": {
     "name": "Domain Registration",
     "description": "Domain Registration",
+    "path": "contracts/domainRegistration",
     "channels": ["discordDM", "discordChannel"],
     "integration": ["active"]
   },
   "castVote": {
     "name": "Cast Vote",
     "description": "Cast Vote",
-    "channels": ["twitterTweet"],
     "native": ["MsgVote"],
+    "channels": ["twitterTweet"],
     "integration": ["upcoming"]
   }
 }

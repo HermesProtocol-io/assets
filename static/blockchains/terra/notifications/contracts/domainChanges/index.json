@@ -1,0 +1,12 @@
+{
+  "metadataChanges": {
+    "name": "Metadata Changes",
+    "description": "Metadata Changes",
+    "path": "metadataChanges.json"
+  },
+  "domainTransfer": {
+    "name": "Domain Transfer",
+    "description": "Domain Transfer",
+    "path": "domainTransfer.json"
+  }
+}
