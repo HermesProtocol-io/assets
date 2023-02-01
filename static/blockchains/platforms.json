@@ -1,0 +1,34 @@
+{
+  "discord": {
+    "name": "Discord",
+    "description": "Discord is a voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.",
+    "icon": {
+      "svg": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg",
+      "png": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"
+    },
+    "url": "https://discord.com/",
+    "status": "active",
+    "integration": ["active"]
+  },
+  "telegram": {
+    "name": "Telegram",
+    "description": "Telegram is a messaging app with a focus on speed and security, it's super-fast, simple and free.",
+    "icon": {
+      "svg": "https://telegram.org/img/website_icon.svg",
+      "png": "https://telegram.org/img/apple-touch-icon.png"
+    },
+    "url": "https://telegram.org/",
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "twitter": {
+    "name": "Twitter",
+    "description": "Twitter is what's happening and what people are talking about right now.",
+    "icon": {
+      "png": "https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon-32x32.png"
+    },
+    "url": "https://twitter.com/",
+    "status": "active",
+    "integration": ["active", "hidden"]
+  }
+}
