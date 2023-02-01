@@ -151,7 +151,6 @@
     "name": "Q",
     "description": "Mainnet of Q.org blockchain.",
     "chainId": "35441",
-    "prefix": "",
     "icon": {
       "svg": "https://assets.hermesprotocol.io/img/projects/q.svg",
       "png": "https://q.org/assets/img/favicon/apple-touch-icon.png"
@@ -160,6 +159,90 @@
       "denoms": ["Q"]
     },
     "path": "q/",
+    "integration": ["inactive"]
+  },
+  "secret": {
+    "name": "Secret",
+    "description": "Secret Network combines the best features of decentralized, open-source networks and blockchains with the benefits of data privacy and improved usability.",
+    "chainId": "secret-4",
+    "prefix": "secret",
+    "icon": {
+      "png": "https://scrt.network/assets/static/favicon.1539b60.c1b6db0fa42ef7aea0c1645ff461532e.png"
+    },
+    "nativeTokens": {
+      "denoms": ["uscrt"]
+    },
+    "integration": ["inactive"]
+  },
+  "gravityBridge": {
+    "name": "Gravity Bridge",
+    "description": "An open, decentralized bridge that unlocks the power of interoperability & liquidity between blockchain ecosystems.",
+    "chainId": "gravity-bridge-3",
+    "prefix": "gravity",
+    "icon": {
+      "png": "https://static.wixstatic.com/media/c07978_ffa43e015efe4952a75c3b7adf609cc3~mv2.png"
+    },
+    "nativeTokens": {
+      "denoms": ["ugraviton"]
+    },
+    "integration": ["inactive"]
+  },
+  "evmos": {
+    "name": "Evmos",
+    "description": "Evmos is bringing the world of Ethereum-based applications and assets to the interoperable networks of the Cosmos ecosystem, all while aligning developer and user incentives.",
+    "chainId": "evmos_9001-2",
+    "prefix": "evmos",
+    "icon": {
+      "svg": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/evmos/asset/evmos.svg",
+      "png": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/evmos/asset/evmos.png"
+    },
+    "nativeTokens": {
+      "denoms": ["aevmos"]
+    },
+    "integration": ["inactive"]
+  },
+  "axelar": {
+    "name": "Axelar",
+    "description": "Axelar delivers secure cross-chain communication for Web3.",
+    "chainId": "axelar-dojo-1",
+    "prefix": "axelar",
+    "icon": {
+      "svg": "https://docs.axelar.dev/images/chains/axelar.svg",
+      "png": "https://docs.axelar.dev/images/chains/axelar.png"
+    },
+    "nativeTokens": {
+      "denoms": ["uaxl"]
+    },
+    "integration": ["inactive"]
+  },
+  "crescentNetwork": {
+    "name": "Crescent Network",
+    "description": "Crescent Network is a decentralized finance protocol that allows users to earn interest on their crypto assets.",
+    "chainId": "crescent-1",
+    "prefix": "cre",
+    "icon": {
+      "svg": "https://app.crescent.network/static/media/crescent_logo.63e3cd95ddbc0b0cbb172bd253e6fff5.svg",
+      "png": "https://app.crescent.network/logo192.png"
+    },
+    "nativeTokens": {
+      "denoms": ["ucre", "ubcre"]
+    },
+    "integration": ["inactive"]
+  },
+  "kujira": {
+    "name": "Kujira",
+    "description": "A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
+    "chainId": "kayo-1",
+    "prefix": "kujira",
+    "icon": {
+      "png": "https://kujira.app/assets/favicon.03c59656.png"
+    },
+    "nativeTokens": {
+      "denoms": [
+        "ukuji",
+        "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk"
+      ]
+    },
     "integration": ["inactive"]
   }
 }
