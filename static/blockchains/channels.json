@@ -1,0 +1,58 @@
+{
+  "discordDM": {
+    "platform": "discord",
+    "type": "dm",
+    "name": "Discord DM",
+    "description": "Discord Direct Messages",
+    "integration": ["active"]
+  },
+  "discordChannel": {
+    "platform": "discord",
+    "type": "channel",
+    "name": "Discord Channel",
+    "description": "Discord Channel",
+    "integration": ["active"]
+  },
+  "twitterTweet": {
+    "platform": "twitter",
+    "type": "tweet",
+    "name": "Twitter Tweet",
+    "description": "Twitter Tweet",
+    "integration": ["active", "hidden"]
+  },
+  "twitterReply": {
+    "platform": "twitter",
+    "type": "tweet",
+    "name": "Twitter Tweet",
+    "description": "Twitter Tweet",
+    "integration": ["inactive"]
+  },
+  "twitterQuote": {
+    "platform": "twitter",
+    "type": "quote",
+    "name": "Twitter Quote",
+    "description": "Twitter Quote",
+    "integration": ["inactive"]
+  },
+  "telegramDm": {
+    "platform": "telegram",
+    "type": "dm",
+    "name": "Telegram DM",
+    "description": "Telegram Direct Messages",
+    "integration": ["inactive"]
+  },
+  "telegramChannel": {
+    "platform": "telegram",
+    "type": "channel",
+    "name": "Telegram Channel",
+    "description": "Telegram Channel",
+    "integration": ["inactive"]
+  },
+  "webhook": {
+    "platform": "custom",
+    "type": "webhook",
+    "name": "Webhook",
+    "description": "Custom Webhooks",
+    "integration": ["inactive"]
+  }
+}
