@@ -32,6 +32,6 @@
   "cancelBid": {
     "name": "Cancel Bid",
     "description": "Cancel Bid",
-    "file": "cancelBid.json"
+    "path": "cancelBid.json"
   }
 }

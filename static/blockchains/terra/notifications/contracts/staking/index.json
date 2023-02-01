@@ -1,12 +1,12 @@
 {
   "stake": {
-    "file": "./stake.json",
     "name": "Stake",
-    "description": "Stake"
+    "description": "Stake",
+    "path": "stake.json"
   },
   "unstake": {
-    "file": "./unstake.json",
     "name": "Unstake",
-    "description": "Unstake"
+    "description": "Unstake",
+    "path": "unstake.json"
   }
 }

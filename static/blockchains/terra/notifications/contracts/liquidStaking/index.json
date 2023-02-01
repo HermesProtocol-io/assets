@@ -1,14 +1,17 @@
 {
   "bond": {
-    "file": "./bond.json",
-    "name": "Bond"
+    "name": "Bond",
+    "description": "Bond",
+    "path": "bond.json"
   },
   "queueUnbond": {
-    "file": "./queueUnbond.json",
-    "name": "Queue Unbond"
+    "name": "Queue Unbond",
+    "description": "Queue Unbond",
+    "path": "queueUnbond.json"
   },
   "submitBatch": {
-    "file": "./submitBatch.json",
-    "name": "Submit Batch"
+    "name": "Submit Batch",
+    "description": "Submit Batch",
+    "path": "submitBatch.json"
   }
 }
