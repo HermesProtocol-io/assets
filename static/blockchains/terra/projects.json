@@ -374,9 +374,9 @@
     "status": "active",
     "integration": ["inactive"]
   },
-  "cosmos": {
-    "name": "Cosmos",
-    "description": "Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.",
+  "cosmosHub": {
+    "name": "Cosmos Hub",
+    "description": "Cosmos Hub is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.",
     "icon": {
       "png": "https://cosmos.network/apple-touch-icon.png"
     },
