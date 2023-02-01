@@ -37,11 +37,11 @@
   },
   "MsgDelegate": {
     "name": "Delegate",
-    "description": "Delegate coins from a delegator to a validator."
+    "description": "Delegate coins to a validator."
   },
   "MsgUndelegate": {
     "name": "Undelegate",
-    "description": "Undelegate coins from a delegator and a validator."
+    "description": "Undelegate coins from a validator."
   },
   "MsgBeginRedelegate": {
     "name": "Begin Redelegate",
