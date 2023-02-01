@@ -292,7 +292,7 @@
       "png": "https://app.crescent.network/logo192.png"
     },
     "url": "https://crescent.network/",
-    "categories": ["dex", "liquidStaking", "derivatives", "lending"],
+    "categories": [],
     "status": "active",
     "integration": ["inactive"]
   },
