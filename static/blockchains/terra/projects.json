@@ -483,5 +483,73 @@
     "categories": [],
     "status": "active",
     "integration": ["inactive"]
+  },
+  "kujira": {
+    "name": "Kujira",
+    "description": "A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
+    "icon": {
+      "png": "https://kujira.app/assets/favicon.03c59656.png"
+    },
+    "url": "https://kujira.app/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "evmos": {
+    "name": "Evmos",
+    "description": "Evmos is bringing the world of Ethereum-based applications and assets to the interoperable networks of the Cosmos ecosystem, all while aligning developer and user incentives.",
+    "icon": {
+      "svg": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/evmos/asset/evmos.svg",
+      "png": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/evmos/asset/evmos.png"
+    },
+    "url": "https://evmos.org/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "axelar": {
+    "name": "Axelar",
+    "description": "Axelar delivers secure cross-chain communication for Web3.",
+    "icon": {
+      "svg": "https://docs.axelar.dev/images/chains/axelar.svg",
+      "png": "https://docs.axelar.dev/images/chains/axelar.png"
+    },
+    "url": "https://axelar.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "avalanche": {
+    "name": "Avalanche",
+    "description": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality.",
+    "icon": {
+      "png": "https://assets-global.website-files.com/6059b554e81c705f9dd2dd32/60ec6734b3013629d0a73ae1_AVAX_Token_Red_256.png"
+    },
+    "url": "https://www.avax.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "binance": {
+    "name": "Binance",
+    "description": "At Binance, we believe that everyone should have the freedom to earn, hold, spend, share and give their money - no matter who you are or where you come from.",
+    "icon": {
+      "png": "https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png"
+    },
+    "url": "https://www.binance.com/en",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
+  },
+  "moonbeam": {
+    "name": "Moonbeam",
+    "description": "Moonbeam is much more than just an EVM implementation: it's a highly specialized Layer 1 chain that mirrors Ethereum's Web3 RPC, accounts, keys, subscriptions, logs, and more. ",
+    "icon": {
+      "png": "https://s2.coinmarketcap.com/static/img/coins/128x128/6836.png"
+    },
+    "url": "https://moonbeam.network/",
+    "categories": [],
+    "status": "active",
+    "integration": ["inactive"]
   }
 }
