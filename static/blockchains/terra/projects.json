@@ -236,7 +236,7 @@
     },
     "url": "https://chain.link/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "aave": {
     "name": "Aave",
@@ -256,7 +256,7 @@
     },
     "url": "https://polygon.technology/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "makerDao": {
     "name": "MakerDAO",
@@ -277,7 +277,7 @@
     },
     "url": "https://crescent.network/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "ethereum": {
     "name": "Ethereum",
@@ -287,7 +287,7 @@
     },
     "url": "https://ethereum.org/en/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "circle": {
     "name": "Circle",
@@ -328,7 +328,7 @@
     },
     "url": "https://osmosis.zone/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "juno": {
     "name": "Juno",
@@ -338,7 +338,7 @@
     },
     "url": "https://www.junonetwork.io",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "secret": {
     "name": "Secret",
@@ -348,7 +348,7 @@
     },
     "url": "https://scrt.network/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "cosmosHub": {
     "name": "Cosmos Hub",
@@ -358,7 +358,7 @@
     },
     "url": "https://cosmos.network/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "gravityBridge": {
     "name": "Gravity Bridge",
@@ -368,7 +368,7 @@
     },
     "url": "https://www.gravitybridge.org/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "metaFrens": {
     "name": "MetaFrens",
@@ -458,7 +458,7 @@
     },
     "url": "https://kujira.app/",
     "status": "active",
-    "categories": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "evmos": {
     "name": "Evmos",
@@ -469,7 +469,7 @@
     },
     "url": "https://evmos.org/",
     "status": "active",
-    "categories": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "axelar": {
     "name": "Axelar",
@@ -480,7 +480,7 @@
     },
     "url": "https://axelar.network/",
     "status": "active",
-    "categories": []
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "avalanche": {
     "name": "Avalanche",
@@ -490,7 +490,7 @@
     },
     "url": "https://www.avax.network/",
     "status": "active",
-    "categories": []
+    "categoriesIntegration": { "blockchain": ["inactive"] }
   },
   "binance": {
     "name": "Binance",
@@ -500,7 +500,7 @@
     },
     "url": "https://www.binance.com/en",
     "status": "active",
-    "categories": []
+    "categoriesIntegration": { "cex": ["inactive"], "blockchain": ["inactive"] }
   },
   "moonbeam": {
     "name": "Moonbeam",
@@ -510,6 +510,6 @@
     },
     "url": "https://moonbeam.network/",
     "status": "active",
-    "categories": []
+    "categoriesIntegration": {}
   }
 }
