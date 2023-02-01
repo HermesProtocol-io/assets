@@ -11,6 +11,7 @@
       "denoms": ["uluna"]
     },
     "path": "terra/",
+    "status": "active",
     "integration": ["active"]
   },
   "terraClassic": {
@@ -49,6 +50,7 @@
       ]
     },
     "path": "terraClassic/",
+    "status": "active",
     "integration": ["active"]
   },
   "near": {
@@ -61,6 +63,7 @@
       "denoms": ["NEAR", "usn"]
     },
     "path": "near/",
+    "status": "active",
     "integration": ["upcoming"]
   },
   "cosmosHub": {
@@ -73,7 +76,8 @@
       "denoms": ["uatom"]
     },
     "path": "cosmosHub/",
-    "integration": "inactive"
+    "status": "active",
+    "integration": ["inactive"]
   },
   "juno": {
     "name": "Juno",
@@ -85,6 +89,7 @@
       "denoms": ["ujuno"]
     },
     "path": "juno/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "osmosis": {
@@ -97,6 +102,7 @@
       "denoms": ["uosmo", "uion"]
     },
     "path": "osmosis/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "injective": {
@@ -109,6 +115,7 @@
       "denoms": ["inj"]
     },
     "path": "injective/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "jackal": {
@@ -121,6 +128,7 @@
       "denoms": ["ujkl"]
     },
     "path": "jackal/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "andromeda": {
@@ -133,6 +141,7 @@
       "denoms": ["uandr"]
     },
     "path": "andromeda/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "archway": {
@@ -145,6 +154,7 @@
       "denoms": ["uconst"]
     },
     "path": "archway/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "q": {
@@ -159,6 +169,7 @@
       "denoms": ["Q"]
     },
     "path": "q/",
+    "status": "active",
     "integration": ["inactive"]
   },
   "secret": {
@@ -172,6 +183,7 @@
     "nativeTokens": {
       "denoms": ["uscrt"]
     },
+    "status": "active",
     "integration": ["inactive"]
   },
   "gravityBridge": {
@@ -185,6 +197,7 @@
     "nativeTokens": {
       "denoms": ["ugraviton"]
     },
+    "status": "active",
     "integration": ["inactive"]
   },
   "evmos": {
@@ -199,6 +212,7 @@
     "nativeTokens": {
       "denoms": ["aevmos"]
     },
+    "status": "active",
     "integration": ["inactive"]
   },
   "axelar": {
@@ -213,6 +227,7 @@
     "nativeTokens": {
       "denoms": ["uaxl"]
     },
+    "status": "active",
     "integration": ["inactive"]
   },
   "crescentNetwork": {
@@ -227,6 +242,7 @@
     "nativeTokens": {
       "denoms": ["ucre", "ubcre"]
     },
+    "status": "active",
     "integration": ["inactive"]
   },
   "kujira": {
@@ -243,6 +259,7 @@
         "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk"
       ]
     },
+    "status": "active",
     "integration": ["inactive"]
   }
 }
