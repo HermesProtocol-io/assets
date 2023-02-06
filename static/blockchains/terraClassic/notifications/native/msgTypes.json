@@ -1,0 +1,58 @@
+{
+  "MsgSend": {
+    "name": "Send",
+    "description": "High level transaction of the coin module."
+  },
+  "MsgMultiSend": {
+    "name": "Multi Send",
+    "description": "High level transaction of the coin module."
+  },
+  "MsgSetWithdrawAddress": {
+    "name": "Set Withdraw Address",
+    "description": ""
+  },
+  "MsgWithdrawDelegatorReward": {
+    "name": "Withdraw Delegator Reward",
+    "description": "Withdraws the delegator's reward from a single validator."
+  },
+  "MsgWithdrawValidatorCommission": {
+    "name": "Withdraw Validator Commission",
+    "description": "Withdraws the validator's commission."
+  },
+  "MsgFundCommunityPool": {
+    "name": "Fund Community Pool",
+    "description": "Funds the community pool."
+  },
+  "MsgSubmitProposal": {
+    "name": "Submit Proposal",
+    "description": "Submit a proposal along with an initial deposit."
+  },
+  "MsgDeposit": {
+    "name": "Deposit",
+    "description": "Deposit tokens to an existing proposal."
+  },
+  "MsgVote": {
+    "name": "Vote",
+    "description": "Vote on a proposal."
+  },
+  "MsgDelegate": {
+    "name": "Delegate",
+    "description": "Delegate coins to a validator."
+  },
+  "MsgUndelegate": {
+    "name": "Undelegate",
+    "description": "Undelegate coins from a validator."
+  },
+  "MsgBeginRedelegate": {
+    "name": "Begin Redelegate",
+    "description": "Begin the unbonding process from a delegator's coins from a source validator to a destination validator."
+  },
+  "MsgEditValidator": {
+    "name": "Edit Validator",
+    "description": "Edit a validator."
+  },
+  "MsgCreateValidator": {
+    "name": "Create Validator",
+    "description": "Create a new validator."
+  }
+}
