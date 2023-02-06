@@ -1,22 +1,36 @@
 {
   "governancePoll": {
-    "folder": "./contracts/governancePoll",
     "name": "Governance Poll",
-    "description": "Governance Poll"
+    "description": "Governance Poll",
+    "path": "contracts/governancePoll",
+    "native": ["MsgSubmitProposal"],
+    "channels": ["discordDM", "discordChannel", "twitterTweet"],
+    "integration": ["active"]
   },
   "nftMonitor": {
-    "folder": "./contracts/nfts",
     "name": "NFT Monitor",
-    "description": "NFT Monitor"
+    "description": "NFT Monitor",
+    "path": "contracts/nftMonitor",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "priceAlert": {
-    "folder": "",
     "name": "Price Alert",
-    "description": "Price Alert"
+    "description": "Price Alert",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   },
   "walletWatcher": {
-    "folder": "",
     "name": "Wallet Watcher",
-    "description": "Wallet Watcher"
+    "description": "Wallet Watcher",
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
+  },
+  "profileChanges": {
+    "name": "Profile Changes",
+    "description": "Profile Changes",
+    "native": ["MsgEditValidator"],
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
   }
 }
