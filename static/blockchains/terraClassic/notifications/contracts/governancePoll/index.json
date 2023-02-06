@@ -1,0 +1,7 @@
+{
+  "createProposal": {
+    "name": "Create Proposal",
+    "description": "Create Proposal",
+    "path": "createProposal.json"
+  }
+}
