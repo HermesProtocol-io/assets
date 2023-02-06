@@ -1,0 +1,17 @@
+{
+  "list": {
+    "name": "List",
+    "description": "List",
+    "path": "list.json"
+  },
+  "delist": {
+    "name": "Delist",
+    "description": "Delist",
+    "path": "delist.json"
+  },
+  "sale": {
+    "name": "Sale",
+    "description": "Sale",
+    "path": "sale.json"
+  }
+}
