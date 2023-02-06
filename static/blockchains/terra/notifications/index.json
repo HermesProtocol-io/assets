@@ -7,6 +7,13 @@
     "channels": ["discordDM", "discordChannel", "twitterTweet"],
     "integration": ["active"]
   },
+  "profileChanges": {
+    "name": "Profile Changes",
+    "description": "Profile Changes",
+    "native": ["MsgEditValidator"],
+    "channels": ["discordDM", "discordChannel"],
+    "integration": ["active"]
+  },
   "nftMonitor": {
     "name": "NFT Monitor",
     "description": "NFT Monitor",
