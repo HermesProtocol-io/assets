@@ -1,58 +1,64 @@
 {
   "terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j": {
-    "contract": "terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j",
+    "project": "wicca",
     "name": "Wicca Badge",
     "symbol": "WB",
-    "icon": "https://cloudflare-ipfs.com/ipfs/QmZoJBVHb2cK36SPD61fqTcbv29KptScfsHQj1bGo5Q25F",
-    "homepage": "https://www.wicca.money/",
-    "marketplace": []
+    "icon": {
+      "ipfs": "https://cloudflare-ipfs.com/ipfs/QmZoJBVHb2cK36SPD61fqTcbv29KptScfsHQj1bGo5Q25F",
+      "svg": "https://app.wicca.money/static/images/logo.svg",
+      "png": "https://miro.medium.com/fit/c/60/60/1*N8PhX-KPHohusg7hiOqMEA.png"
+    },
+    "url": "https://www.wicca.money/",
+    "marketplaces": ["knowhere"]
   },
   "terra1hh9rgaxtmfqfkeqkruckwah6qc4ajlxgnweexyjeh4dsptkfnhmqeelzfl": {
-    "contract": "terra1hh9rgaxtmfqfkeqkruckwah6qc4ajlxgnweexyjeh4dsptkfnhmqeelzfl",
     "name": "Redacted RONINs",
     "symbol": "RONIN",
-    "icon": "https://uploads-ssl.webflow.com/62b6c05b4cc8682020f10d29/62e92e15cfc25542de7b07a7_ronin-bg.png",
-    "homepage": "https://redacted.money",
-    "marketplace": []
+    "icon": {
+      "png": "https://uploads-ssl.webflow.com/62b6c05b4cc8682020f10d29/62e92e15cfc25542de7b07a7_ronin-bg.png"
+    },
+    "url": "https://redacted.money",
+    "marketplaces": ["knowhere"]
   },
   "terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj": {
-    "contract": "terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj",
+    "project": "terrapins",
     "name": "Terrapins on Terra",
     "symbol": "PINS",
-    "icon": "https://app.terrapins.money/favicon.ico",
-    "homepage": "https://www.terrapinsonterra.com",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/39c55da0-485a-43e9-ac6f-5d0cd90b2021.png"
+    },
+    "url": "https://www.terrapinsonterra.com",
+    "marketplaces": ["knowhere"]
   },
   "terra1ncyaafj4kt5m50tj3pftga2auuq62zzguwlntk5mtl2mdusagpkst9gmgl": {
-    "contract": "terra1ncyaafj4kt5m50tj3pftga2auuq62zzguwlntk5mtl2mdusagpkst9gmgl",
+    "project": "terrapins",
     "name": "Terrapin Eggs",
     "symbol": "EGGS",
-    "icon": "https://app.terrapins.money/favicon.ico",
-    "homepage": "https://www.terrapinsonterra.com",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1ncyaafj4kt5m50tj3pftga2auuq62zzguwlntk5mtl2mdusagpkst9gmgl"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/39c55da0-485a-43e9-ac6f-5d0cd90b2021.png"
+    },
+    "url": "https://www.terrapinsonterra.com",
+    "marketplaces": ["knowhere"]
   },
   "terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp": {
-    "contract": "terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp",
-    "protocol": "Terranauts",
+    "project": "terranauts",
     "name": "Terranauts",
     "symbol": "TRNT",
-    "icon": "https://www.terranauts.io/assets/logo.webp",
-    "homepage": "https://terranauts.io",
-    "marketplace": [
-      "https://knowhere.art/collection/terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp"
-    ]
+    "icon": {
+      "png": "https://framerusercontent.com/images/MJUuDvv4jJfslvFk51jCIJwI7VM.png"
+    },
+    "url": "https://terranauts.io",
+    "marketplaces": ["knowhere"]
   },
   "terra16ds898j530kn4nnlc7xlj6hcxzqpcxxk4mj8gkcl3vswksu6s3zszs8kp2": {
-    "contract": "terra16ds898j530kn4nnlc7xlj6hcxzqpcxxk4mj8gkcl3vswksu6s3zszs8kp2",
+    "project": "galaticPunks",
     "name": "Galactic Punks",
     "symbol": "GP",
-    "icon": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg",
-    "homepage": "https://galacticpunks.io",
-    "marketplace": []
+    "icon": {
+      "jpg": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg"
+    },
+    "url": "https://galacticpunks.io",
+    "marketplace": ["knowhere", "randomEarth"]
   },
   "terra1vn0qwkp9l53q73ajsrnexdw97ekzscexh2q5rduk2kajqrvzwtkqj4nc08": {
     "contract": "terra1vn0qwkp9l53q73ajsrnexdw97ekzscexh2q5rduk2kajqrvzwtkqj4nc08",
@@ -246,7 +252,7 @@
   "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4": {
     "contract": "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4",
     "name": "Hero Classic",
-    "symbol": "Hero",
+    "symbol": "HERO",
     "icon": "https://www.heronft.io/static/media/dokwon.d28eda5f.webp",
     "homepage": "https://heronft.io",
     "marketplace": [
