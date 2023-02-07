@@ -510,6 +510,154 @@
     },
     "url": "https://moonbeam.network/",
     "status": "active",
-    "categoriesIntegration": {}
+    "categoriesIntegration": { "blockchain": ["inactive"] }
+  },
+  "wicca": {
+    "name": "Wicca",
+    "description": "Wicca is a permissionless Decentralized Launchpad platform built on Terra 2.0 allowing anyone to launch the project and issue their token without code experience. ",
+    "icon": {
+      "ipfs": "https://cloudflare-ipfs.com/ipfs/QmZoJBVHb2cK36SPD61fqTcbv29KptScfsHQj1bGo5Q25F",
+      "svg": "https://app.wicca.money/static/images/logo.svg",
+      "png": "https://miro.medium.com/fit/c/60/60/1*N8PhX-KPHohusg7hiOqMEA.png"
+    },
+    "url": "https://wicca.money/",
+    "status": "active",
+    "categoriesIntegration": {
+      "launchpad": ["inactive"],
+      "nftCollection": ["inactive"]
+    }
+  },
+  "terrapins": {
+    "name": "Terrapins",
+    "description": "Terrapins on Terra are a collection of 10,000 randomly generated non-fungible tokens, otherwise known as “NFTs”.",
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/39c55da0-485a-43e9-ac6f-5d0cd90b2021.png"
+    },
+    "url": "https://www.terrapinsonterra.com",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "terranauts": {
+    "name": "Terranauts",
+    "description": "Terranauts is an original and trailblazing Terra NFT project that will provide you with unforgettable experiences and opportunities.",
+    "icon": {
+      "png": "https://framerusercontent.com/images/MJUuDvv4jJfslvFk51jCIJwI7VM.png"
+    },
+    "url": "https://terranauts.io",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "galacticPunks": {
+    "name": "Galactic Punks",
+    "description": "Galactic Punks are 10,921 randomly generated NFTs on the Terra blockchain.",
+    "icon": {
+      "jpg": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg"
+    },
+    "url": "https://galacticpunks.io",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "spaceToadz": {
+    "name": "Space Toadz",
+    "description": "6969 Space Toadz floating around in the Terraverse.",
+    "icon": {
+      "png": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/toadz_icon.png"
+    },
+    "url": "https://spacetoadzterra.com",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "terrans": {
+    "name": "Terrans",
+    "description": "Terrans are 10,000 randomly generated NFTs on the Terra blockchain.",
+    "icon": {
+      "png": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/terrans_icon.png"
+    },
+    "url": "https://terrans.io",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "terraBots": {
+    "name": "Terra Bots",
+    "description": "Beep boop beep beep booop... Terra Bots are 10,101 randomly generated 3D NFTs designed for a future Metaverse on the Terra blockchain.",
+    "icon": {
+      "jpeg": "https://storage.googleapis.com/public-knowhere/collections/terrabots.jpeg"
+    },
+    "url": "https://terrabots.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "depegNation": {
+    "name": "Depeg Nation",
+    "description": "Depeg Nation is the first NFT commemorative community-driven project that launches on Terra 2.0.",
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/440ae4ef-66ff-4d56-ab18-1bcc7c90dfe4.png"
+    },
+    "url": "https://www.depeg.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "cyberdeck": {
+    "name": "Cyberdeck",
+    "description": "All-in-one interface.",
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/cover-test/575ed4a8-255c-4fb9-845f-5827faebf389.jpg"
+    },
+    "url": "https://cyberdeck.money/",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "utility": ["inactive"],
+      "nftCollection": ["inactive"]
+    }
+  },
+  "skeletonPunks": {
+    "name": "Skeleton Punks",
+    "description": "Skeleton Punks represent a collection of 5,064 pixelated skeletons randomly generated with hundreds of traits.",
+    "icon": {
+      "jpg": "https://d75aawrtvbfp1.cloudfront.net/misc/skellies/logo.jpg"
+    },
+    "url": "https://skeletonpunks.club/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "astroverse": {
+    "name": "Astroverse",
+    "description": "The Final Frontier of the Terraverse",
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/collections/astroverse.jpg"
+    },
+    "url": "https://www.astroverse.art/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "heronft": {
+    "name": "HeroNFT",
+    "description": "HeroNFT are back on Terra! Heroes & Villains are now merged into one collection: HERO CLASSIC.",
+    "icon": {
+      "webp": "https://www.heronft.io/static/media/dokwon.d28eda5f.webp"
+    },
+    "url": "https://heronft.io",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
   }
 }
