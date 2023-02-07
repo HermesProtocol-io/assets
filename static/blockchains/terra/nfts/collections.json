@@ -1,6 +1,6 @@
 {
   "terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j": {
-    "project": "wicca",
+    "project": ["wicca"],
     "name": "Wicca Badge",
     "symbol": "WB",
     "icon": {
@@ -12,16 +12,17 @@
     "marketplaces": ["knowhere"]
   },
   "terra1hh9rgaxtmfqfkeqkruckwah6qc4ajlxgnweexyjeh4dsptkfnhmqeelzfl": {
+    "project": ["redactedLabs"],
     "name": "Redacted RONINs",
     "symbol": "RONIN",
     "icon": {
       "png": "https://uploads-ssl.webflow.com/62b6c05b4cc8682020f10d29/62e92e15cfc25542de7b07a7_ronin-bg.png"
     },
     "url": "https://redacted.money",
-    "marketplaces": ["knowhere"]
+    "marketplaces": ["knowhere", "talis"]
   },
   "terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj": {
-    "project": "terrapins",
+    "project": ["terrapins"],
     "name": "Terrapins on Terra",
     "symbol": "PINS",
     "icon": {
@@ -31,7 +32,7 @@
     "marketplaces": ["knowhere"]
   },
   "terra1ncyaafj4kt5m50tj3pftga2auuq62zzguwlntk5mtl2mdusagpkst9gmgl": {
-    "project": "terrapins",
+    "project": ["terrapins"],
     "name": "Terrapin Eggs",
     "symbol": "EGGS",
     "icon": {
@@ -41,7 +42,7 @@
     "marketplaces": ["knowhere"]
   },
   "terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp": {
-    "project": "terranauts",
+    "project": ["terranauts"],
     "name": "Terranauts",
     "symbol": "TRNT",
     "icon": {
@@ -51,212 +52,212 @@
     "marketplaces": ["knowhere"]
   },
   "terra16ds898j530kn4nnlc7xlj6hcxzqpcxxk4mj8gkcl3vswksu6s3zszs8kp2": {
-    "project": "galaticPunks",
+    "project": ["galaticPunks"],
     "name": "Galactic Punks",
     "symbol": "GP",
     "icon": {
       "jpg": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg"
     },
     "url": "https://galacticpunks.io",
-    "marketplace": ["knowhere", "randomEarth"]
+    "marketplaces": ["knowhere", "randomEarth"]
   },
   "terra1vn0qwkp9l53q73ajsrnexdw97ekzscexh2q5rduk2kajqrvzwtkqj4nc08": {
-    "contract": "terra1vn0qwkp9l53q73ajsrnexdw97ekzscexh2q5rduk2kajqrvzwtkqj4nc08",
+    "project": ["spaceToadz"],
     "name": "Space Toadz",
     "symbol": "TOAD",
-    "icon": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/toadz_icon.png",
-    "homepage": "https://spacetoadzterra.com",
-    "marketplace": []
+    "icon": {
+      "png": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/toadz_icon.png"
+    },
+    "url": "https://spacetoadzterra.com",
+    "marketplaces": ["knowhere"]
   },
   "terra17vysjt8ws64v8w696mavjpqs8mksf8s993qghlust9yey8qcmppqnhgw0e": {
-    "contract": "terra17vysjt8ws64v8w696mavjpqs8mksf8s993qghlust9yey8qcmppqnhgw0e",
+    "project": ["lunaApeClub"],
     "name": "Luna Ape Club",
     "symbol": "LAPEC",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/51d8fa22-caed-4595-847d-440a8f7650fa.gif",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra17vysjt8ws64v8w696mavjpqs8mksf8s993qghlust9yey8qcmppqnhgw0e",
-      "https://talis.art/collection/62e7f8936f292bb2921775a4"
-    ]
+    "icon": {
+      "gif": "https://storage.googleapis.com/public-knowhere/cover-test/51d8fa22-caed-4595-847d-440a8f7650fa.gif"
+    },
+    "url": "",
+    "marketplaces": ["knowhere", "talis"]
   },
   "terra1ytctz49dtpn85fagwut7e2eaw2586j74dn49t3cyadwlpwufl72q70qv75": {
-    "contract": "terra1ytctz49dtpn85fagwut7e2eaw2586j74dn49t3cyadwlpwufl72q70qv75",
+    "project": ["terrans"],
     "name": "Terrans",
     "symbol": "TRRNS",
-    "icon": "https://storage.googleapis.com/public-knowhere/collections/terrans.png",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1ytctz49dtpn85fagwut7e2eaw2586j74dn49t3cyadwlpwufl72q70qv75",
-      "https://talis.art/collection/61cebf4ced955e48db179399"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/collections/terrans.png"
+    },
+    "url": "",
+    "marketplaces": ["knowhere", "talis"]
   },
   "terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx": {
-    "contract": "terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx",
+    "project": ["terraBots"],
     "name": "TerraBots",
     "symbol": "KNOWHERE",
-    "icon": "https://storage.googleapis.com/public-knowhere/collections/terrabots.jpeg",
-    "homepage": "https://terrabots.io/",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx"
-    ]
+    "icon": {
+      "jpeg": "https://storage.googleapis.com/public-knowhere/collections/terrabots.jpeg"
+    },
+    "url": "https://terrabots.io/",
+    "marketplaces": ["knowhere"]
   },
   "terra19j7859076jveetfhdskc6hwjnr7cpt2t78llp8nz9qnaqtgvj8ns0qgp9j": {
-    "contract": "terra19j7859076jveetfhdskc6hwjnr7cpt2t78llp8nz9qnaqtgvj8ns0qgp9j",
+    "project": ["depegNation"],
     "name": "Depeg Nation",
     "symbol": "DPEG",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/440ae4ef-66ff-4d56-ab18-1bcc7c90dfe4.png",
-    "homepage": "https://www.depeg.io/",
-    "marketplace": [
-      "https://knowhere.art/collections/terra19j7859076jveetfhdskc6hwjnr7cpt2t78llp8nz9qnaqtgvj8ns0qgp9j"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/440ae4ef-66ff-4d56-ab18-1bcc7c90dfe4.png"
+    },
+    "url": "https://www.depeg.io/",
+    "marketplaces": ["knowhere"]
   },
   "terra1m20djcturk5yxv8u84s0t6xh5evjx98pmlc3xj8u99qeuwy79hrq5l9dz2": {
-    "contract": "terra1m20djcturk5yxv8u84s0t6xh5evjx98pmlc3xj8u99qeuwy79hrq5l9dz2",
+    "project": ["lunaCrashSurvivors"],
     "name": "Luna Crash Survivooors",
     "symbol": "LCS",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/684cd4ba-9577-4618-bb69-fc9680c23994.png",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1m20djcturk5yxv8u84s0t6xh5evjx98pmlc3xj8u99qeuwy79hrq5l9dz2"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/684cd4ba-9577-4618-bb69-fc9680c23994.png"
+    },
+    "url": "",
+    "marketplaces": ["knowhere"]
   },
   "terra1490pnjx2g7tce3ywcrzn3detm6r8w0jm5vzcc6kxvgzvg2eplgwqewl349": {
-    "contract": "terra1490pnjx2g7tce3ywcrzn3detm6r8w0jm5vzcc6kxvgzvg2eplgwqewl349",
+    "project": ["cyberdeck"],
     "name": "Cyberdeck: First Settlers",
     "symbol": "CBD",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/575ed4a8-255c-4fb9-845f-5827faebf389.jpg",
-    "homepage": "https://cyberdeck.money/",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1490pnjx2g7tce3ywcrzn3detm6r8w0jm5vzcc6kxvgzvg2eplgwqewl349"
-    ]
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/cover-test/575ed4a8-255c-4fb9-845f-5827faebf389.jpg"
+    },
+    "url": "https://cyberdeck.money/",
+    "marketplaces": ["knowhere"]
   },
   "terra1ay5guxt0st9eetxakcs58n350dhkttnnxu7d4zt9je5540hfsf9stpa3sz": {
-    "contract": "terra1ay5guxt0st9eetxakcs58n350dhkttnnxu7d4zt9je5540hfsf9stpa3sz",
+    "project": ["terranova3D"],
     "name": "Terranova 3D",
     "symbol": "KNOWHERE",
-    "icon": "https://storage.googleapis.com/public-knowhere/collections/terranova3d.jpg",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1ay5guxt0st9eetxakcs58n350dhkttnnxu7d4zt9je5540hfsf9stpa3sz"
-    ]
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/collections/terranova3d.jpg"
+    },
+    "url": "",
+    "marketplaces": ["knowhere"]
   },
   "terra1e88qgtfw4c5zmgv9zhwsy569jwwsav4gukz64l5ewyxa3xaqckksc0z3hc": {
-    "contract": "terra1e88qgtfw4c5zmgv9zhwsy569jwwsav4gukz64l5ewyxa3xaqckksc0z3hc",
+    "project": ["aSpookyDoodle"],
     "name": "A Space Doodle",
     "symbol": "KNOWHERE",
-    "icon": "https://storage.googleapis.com/public-knowhere/collections/space_doodle2.png",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1e88qgtfw4c5zmgv9zhwsy569jwwsav4gukz64l5ewyxa3xaqckksc0z3hc"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/collections/space_doodle2.png"
+    },
+    "url": "",
+    "marketplaces": ["knowhere"]
   },
   "terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7": {
-    "contract": "terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
+    "project": ["skeletonPunks"],
     "name": "Skeleton Punks",
     "symbol": "SP",
     "icon": "https://d75aawrtvbfp1.cloudfront.net/misc/skellies/logo.jpg",
-    "homepage": "https://skeletonpunks.club/",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
-      "https://v2.randomearth.io/collections/terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7"
-    ]
+    "url": "https://skeletonpunks.club/",
+    "marketplaces": ["knowhere", "randomEarth"]
   },
   "terra1pm0gpgsqmjk3rgy43m8z5edmjjx80r738mq4enyswgfz9uhppg4s849crt": {
-    "contract": "terra1pm0gpgsqmjk3rgy43m8z5edmjjx80r738mq4enyswgfz9uhppg4s849crt",
+    "project": ["astroverse"],
     "name": "Astroverse #01",
     "symbol": "KNOWHERE",
-    "icon": "https://storage.googleapis.com/public-knowhere/collections/astroverse.jpg",
-    "homepage": "https://www.astroverse.art/",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1pm0gpgsqmjk3rgy43m8z5edmjjx80r738mq4enyswgfz9uhppg4s849crt"
-    ]
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/collections/astroverse.jpg"
+    },
+    "url": "https://www.astroverse.art/",
+    "marketplaces": ["knowhere"]
   },
   "terra1yqacrx2jvrnede4x87w370g4qgsstq3qjnqaqy77ypx3fqeynrjqfaa023": {
-    "contract": "terra1yqacrx2jvrnede4x87w370g4qgsstq3qjnqaqy77ypx3fqeynrjqfaa023",
+    "project": ["cryptoKing"],
     "name": "Crypto King",
     "symbol": "KNOWHERE",
-    "icon": "https://assets.hermesprotocol.io/img/projects/crypto-king-nft.gif",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1yqacrx2jvrnede4x87w370g4qgsstq3qjnqaqy77ypx3fqeynrjqfaa023"
-    ]
+    "icon": {
+      "gif": "https://assets.hermesprotocol.io/img/projects/crypto-king-nft.gif"
+    },
+    "url": "",
+    "marketplaces": ["knowhere"]
   },
   "terra10znl5emz4l6qmtr9gq35u0l7rchg8vh2x7wknlgsuzg4azsj6v7q2h0dzl": {
-    "contract": "terra10znl5emz4l6qmtr9gq35u0l7rchg8vh2x7wknlgsuzg4azsj6v7q2h0dzl",
+    "project": ["terraAliens"],
     "name": "Terra Aliens",
     "symbol": "KNOWHERE",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/eafaf28d-5bf0-4fc1-bfd0-66fe2f745a81.jpeg",
-    "homepage": "https://www.terraaliens.com//",
-    "marketplace": [
-      "https://knowhere.art/collections/terra10znl5emz4l6qmtr9gq35u0l7rchg8vh2x7wknlgsuzg4azsj6v7q2h0dzl"
-    ]
+    "icon": {
+      "jpeg": "https://storage.googleapis.com/public-knowhere/cover-test/eafaf28d-5bf0-4fc1-bfd0-66fe2f745a81.jpeg"
+    },
+    "url": "https://www.terraaliens.com/",
+    "marketplaces": ["knowhere"]
   },
   "terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5": {
-    "contract": "terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5",
+    "project": ["aSpookyDoodle"],
     "name": "A Spooky Doodle",
     "symbol": "KNOWHERE",
-    "icon": "https://assets.hermesprotocol.io/img/projects/a-spooky-doodle-nft.png",
-    "homepage": "",
-    "marketplace": [
-      "https://knowhere.art/collections/terra17nyvdvmm2hjdajldme6x3y3nle6kp9wtn8qfmajw76hkk7g5tpuqgpkum5"
-    ]
+    "icon": {
+      "png": "https://assets.hermesprotocol.io/img/projects/a-spooky-doodle-nft.png"
+    },
+    "url": "",
+    "marketplaces": ["knowhere"]
   },
   "terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv": {
-    "contract": "terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv",
+    "project": ["lunaApeClub"],
     "name": "Doodle Baby Ape",
     "symbol": "DBA",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/18a5a6d4-a348-46df-a9be-5db5bb4b9afd.png",
-    "homepage": "https://twitter.com/Lapeclub",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/18a5a6d4-a348-46df-a9be-5db5bb4b9afd.png"
+    },
+    "url": "https://twitter.com/Lapeclub",
+    "marketplaces": ["knowhere"]
   },
   "terra1vfme2h5ffueendzymf0n4hs0g898ncp6ww5n09z8uw5rn8cfwhxq7qnk86": {
-    "contract": "terra1vfme2h5ffueendzymf0n4hs0g898ncp6ww5n09z8uw5rn8cfwhxq7qnk86",
+    "project": ["lunita"],
     "name": "Lunita",
     "symbol": "LUNITA",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/8df9521a-fabd-4801-a717-c36def90a7dc.jpg",
-    "homepage": "https://www.lunita.studio/",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1vfme2h5ffueendzymf0n4hs0g898ncp6ww5n09z8uw5rn8cfwhxq7qnk86"
-    ]
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/cover-test/8df9521a-fabd-4801-a717-c36def90a7dc.jpg"
+    },
+    "url": "https://www.lunita.studio/",
+    "marketplaces": ["knowhere"]
   },
   "terra14lzmdzaqw53sgm0lef8agnzck6n68yhmutasdu80w5j49v7kn4eq4c0mj8": {
-    "contract": "terra14lzmdzaqw53sgm0lef8agnzck6n68yhmutasdu80w5j49v7kn4eq4c0mj8",
+    "project": ["terraMetaRoyals"],
     "name": "Terra Meta Royals",
     "symbol": "GOLDEN",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/0341f9f7-3edd-41a9-8566-3868611d260f.jpeg",
-    "homepage": "https://linktr.ee/terrametaroyals",
-    "marketplace": [
-      "https://knowhere.art/collections/terra14lzmdzaqw53sgm0lef8agnzck6n68yhmutasdu80w5j49v7kn4eq4c0mj8"
-    ]
+    "icon": {
+      "jpeg": "https://storage.googleapis.com/public-knowhere/cover-test/0341f9f7-3edd-41a9-8566-3868611d260f.jpeg"
+    },
+    "url": "https://linktr.ee/terrametaroyals",
+    "marketplaces": ["knowhere"]
   },
   "terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq": {
-    "contract": "terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq",
+    "project": ["lootopian"],
     "name": "Lootopian Items",
     "symbol": "LOOTITEMS",
-    "icon": "https://storage.googleapis.com/public-knowhere/cover-test/04be3105-944d-45df-b54c-e73540074b5a.png",
-    "homepage": "https://twitter.com/lootopians",
-    "marketplace": [
-      "https://knowhere.art/collections/terra1h4me76lqd2450e8jnduewen2vpyfrxlekhtql9aed6kt48thkqqqu00vjq"
-    ]
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/04be3105-944d-45df-b54c-e73540074b5a.png"
+    },
+    "url": "https://twitter.com/lootopians",
+    "marketplaces": ["knowhere"]
   },
   "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3": {
-    "contract": "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3",
+    "project": ["lns"],
     "name": "lns",
     "symbol": "lns",
-    "icon": "https://assets.hermesprotocol.io/img/projects/lns.png",
-    "homepage": "https://www.lns.money/",
-    "marketplace": []
+    "icon": {
+      "svg": "https://assets.hermesprotocol.io/img/projects/lns.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/lns.png"
+    },
+    "url": "https://www.lns.money/",
+    "marketplaces": ["knowhere"]
   },
   "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4": {
-    "contract": "terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4",
+    "project": ["heronft"],
     "name": "Hero Classic",
     "symbol": "HERO",
-    "icon": "https://www.heronft.io/static/media/dokwon.d28eda5f.webp",
-    "homepage": "https://heronft.io",
-    "marketplace": [
-      "https://knowhere.art/collection/terra13cdhq2uhsfe3p74jm28j5jf7ap3emj60v6cgmezy2er7hs6zh72sh3rxs4"
-    ]
+    "icon": {
+      "webp": "https://www.heronft.io/static/media/dokwon.d28eda5f.webp"
+    },
+    "url": "https://heronft.io",
+    "marketplaces": ["knowhere"]
   }
 }
