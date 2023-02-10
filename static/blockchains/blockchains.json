@@ -323,7 +323,13 @@
     "folder": "",
     "URL": {
       "rest": [],
-      "rpc": [],
+      "rpc": [
+        "https://mainnet.radixdlt.com",
+        "https://gateway.stakesafe.net",
+        "https://api.radix.live",
+        "https://gateway.stakesafe.net",
+        "https://mainnet.clana.io"
+      ],
       "block": "",
       "tx": "https://www.radixscan.io/transaction/%tx%/",
       "wallet": "https://www.radixscan.io/address/%address%/"
