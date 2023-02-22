@@ -88,5 +88,17 @@
   "cex": {
     "name": "CEX",
     "description": "Centralized Exchange"
+  },
+  "realEstate": {
+    "name": "Real Estate",
+    "description": "Real Estate"
+  },
+  "bridge": {
+    "name": "Bridge",
+    "description": "Bridge"
+  },
+  "yieldFarming": {
+    "name": "Yield Farming",
+    "description": "Yield Farming"
   }
 }
