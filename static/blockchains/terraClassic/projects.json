@@ -162,5 +162,547 @@
     "categories": ["dns"],
     "status": "active",
     "integration": ["upcoming"]
+  },
+  "valkyrieProtocol": {
+    "name": "Valkyrie Protocol",
+    "description": "Valkyrie Protocol is a DApp activation protocol that is designed to help protocols launch effectively. It builds on the Terra Network, and creates a 'rewardable ecosystem' that is focused on bringing together campaigners and users to drive adoption and growth for launching protocols.",
+    "icon": {
+      "svg": "https://valkyrieprotocol.com/static/media/logo-01_v2.e6fc9a62.svg",
+      "png": "https://assets.hermesprotocol.io/img/projects/valkyrieProtocol.png"
+    },
+    "url": "https://valkyrieprotocol.com/",
+    "status": "active",
+    "categoriesIntegration": {
+      "launchpad": ["inactive"]
+    }
+  },
+  "wormhole": {
+    "name": "Wormhole",
+    "description": "Wormhole is a generic message passing protocol that connects to multiple chains",
+    "icon": {
+      "png": "https://wormhole.com/apple-touch-icon.png"
+    },
+    "url": "https://wormhole.com/",
+    "status": "active",
+    "categoriesIntegration": {}
+  },
+  "kujira": {
+    "name": "Kujira",
+    "description": "A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
+    "icon": {
+      "png": "https://kujira.app/assets/favicon.03c59656.png"
+    },
+    "url": "https://kujira.app/",
+    "status": "active",
+    "categoriesIntegration": { "blockchain": ["inactive"] }
+  },
+  "galacticPunks": {
+    "name": "Galactic Punks",
+    "description": "Galactic Punks are 10,921 randomly generated NFTs on the Terra blockchain.",
+    "icon": {
+      "jpg": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg"
+    },
+    "url": "https://galacticpunks.io",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "terrapins": {
+    "name": "Terrapins",
+    "description": "Terrapins on Terra are a collection of 10,000 randomly generated non-fungible tokens, otherwise known as “NFTs”.",
+    "icon": {
+      "png": "https://storage.googleapis.com/public-knowhere/cover-test/39c55da0-485a-43e9-ac6f-5d0cd90b2021.png"
+    },
+    "url": "https://www.terrapinsonterra.com",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "astroverse": {
+    "name": "Astroverse",
+    "description": "The Final Frontier of the Terraverse",
+    "icon": {
+      "jpg": "https://storage.googleapis.com/public-knowhere/collections/astroverse.jpg"
+    },
+    "url": "https://www.astroverse.art/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "chainlink": {
+    "name": "ChainLink",
+    "description": "Chainlink is a decentralized oracle network that provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain.",
+    "icon": {
+      "png": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
+    },
+    "url": "https://chain.link/",
+    "status": "active",
+    "categoriesIntegration": { "blockchain": ["inactive"] }
+  },
+  "orne": {
+    "name": "Orne",
+    "description": "Orne will let you purchase tokenized real trees and redistribute the full profit of their harvest back to you.",
+    "icon": {
+      "png": "https://orne.io/wp-content/uploads/fbrfg/apple-touch-icon.png"
+    },
+    "url": "https://orne.io/",
+    "status": "inactive",
+    "categoriesIntegration": {}
+  },
+  "pylonProtocol": {
+    "name": "Pylon Protocol",
+    "description": "Yield redirection protocol and lossless investments.",
+    "icon": {
+      "png": "https://assets.pylon.rocks/logo/MINE.png"
+    },
+    "url": "https://pylon.money/",
+    "status": "inactive",
+    "categoriesIntegration": { "launchpad": ["inactive"] }
+  },
+  "angelProtocol": {
+    "name": "Angel Protocol",
+    "description": "Angel Protocol provides tools to fundraise, coordinate, and invest capital. We connect donors & investors with non-profits, social enterprises, and other changemakers around the world.",
+    "icon": {
+      "png": "https://angelprotocol.io/wp-content/uploads/2022/06/cropped-angelprotocol-wings-bl-192x192.png"
+    },
+    "url": "https://angelprotocol.io/",
+    "status": "active",
+    "categoriesIntegration": {}
+  },
+  "orionMoney": {
+    "name": "Orion Money",
+    "description": "Orion Money's vision is to become a cross-chain stablecoins bank - the best place in DeFi for stablecoin saving, lending, and spending.",
+    "icon": {
+      "svg": "https://terra.orion.money/_nuxt/img/ico-orion.a4e7ef1.svg",
+      "png": "https://miro.medium.com/fit/c/176/176/1*xt7iDdcLsd5UBmhz4QZxyA.png"
+    },
+    "url": "https://orion.money/",
+    "status": "active",
+    "categoriesIntegration": { "staking": ["inactive"] }
+  },
+  "whiteWhale": {
+    "name": "White Whale",
+    "description": "Arbitrage Platform built on Terra.",
+    "icon": {
+      "png": "https://whitewhale.money/tokenlogo.png"
+    },
+    "url": "https://whitewhale.money/",
+    "status": "inactive",
+    "categoriesIntegration": { "utility": ["inactive"] }
+  },
+  "stader": {
+    "name": "Stader",
+    "description": "Stader is a non-custodial smart contract-based staking platform that helps you conveniently discover and access staking solutions.",
+    "icon": {},
+    "url": "https://staderlabs.com/",
+    "status": "inactive",
+    "categoriesIntegration": { "liquidStaking": ["inactive"] }
+  },
+  "lunaPunks": {
+    "name": "LunaPunks",
+    "description": "On chain NFT, generative based on Terra bech32 address, 10,000 in the ecosystem. Join us on the journey of fair NFTs!",
+    "icon": {
+      "jpg": "https://pbs.twimg.com/profile_images/1464040023200731136/FbclbAY-_400x400.jpg"
+    },
+    "url": "https://lunapunks.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "launchpad": ["inactive"],
+      "nftMarketplace": ["inactive"],
+      "nftCollection": ["inactive"]
+    }
+  },
+  "deviantsFactions": {
+    "name": "Deviants Factions",
+    "description": "Deviants Factions is a collection of 10,000 randomly generated NFTs on the Terra blockchain.",
+    "icon": { "png": "https://deviantsfactions.com/deviantsAvatar.png" },
+    "url": "https://deviantsfactions.com/",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "lunaBugz": {
+    "name": "Luna Bugz",
+    "description": "A fun new NFT series buzzing around the Terra ecosystem.",
+    "icon": {
+      "jpg": "https://ipfs.lunapunks.io/ipfs/QmcYd3ae6wPVgFggasANeaCW895ZMYYxdtzg4hoeTKjhsk/icon.jpg"
+    },
+    "url": "https://lunabugz.com/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "redEyedSpaceToads": {
+    "name": "Red Eyed Space Toads",
+    "description": "R.E.S.T is a novel NFT-fi project with bespoke hand-drawn collectibles of the last humanoid reptiles remnants from Terra, we seek keepers to grow our army, join us.",
+    "icon": {
+      "svg": "https://www.redeyedspacetoads.io/rest_icon.svg",
+      "png": "https://d75aawrtvbfp1.cloudfront.net/partners%2Fresttoads%2Flogo.png"
+    },
+    "url": "https://redeyedspacetoads.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "poppinPuffins": {
+    "name": "Poppin Puffins",
+    "description": "Poppin Puffins is a cross chain NFT Social Nature Club on both Algorand and Terra. Not to be confused with penguins. The OG Puffins are on Terra with a collection of Space Helmets and our 3rd collection, Poppin Eels.",
+    "icon": {
+      "png": "https://uploads-ssl.webflow.com/6163026e8e80ec1c38cdc707/616c7b9a7138d42e4ad4aabb_IMG_0889-p-500.png"
+    },
+    "url": "https://www.poppinpuffins.art/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "terraUnicorns": {
+    "name": "Terra Unicorns",
+    "description": "Terra Unicorns PlAY TO EARN 3D NFT FIGHT GAME",
+    "icon": {
+      "jpeg": "https://static.wixstatic.com/media/5a6d96_2e307fcdd24d44d089bda4365a48b40b~mv2.jpeg"
+    },
+    "url": "https://terraunicorns.com/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"],
+      "gaming": ["inactive"]
+    }
+  },
+  "tns": {
+    "name": "Terra Name Service",
+    "description": "Terra Name Service (TNS) is a name service based on the IBC chain. TNS maps human-readable names like 'terra.ust' to machine-readable terra addresses.",
+    "icon": {
+      "png": "https://tns.money/static/images/tns.png"
+    },
+    "url": "https://tns.money/",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "dns": ["inactive"]
+    }
+  },
+  "styllar": {
+    "name": "Styllar",
+    "description": "The OG collection is collectible, customizable, and upgradable.",
+    "icon": {
+      "png": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png"
+    },
+    "url": "https://styllar.com/",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "theCrunks": {
+    "name": "The Crunks",
+    "description": "The Crunks, a community and character-driven NFT project surrounding 10k randomly generated 8bit misfits who like to party.",
+    "icon": {
+      "png": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/crunks_icon.png"
+    },
+    "url": "https://thecrunks.io",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "marsProtocol": {
+    "name": "Mars Protocol",
+    "description": "The galaxy's most powerful borrowing & lending protocol built atop Terra.",
+    "icon": {
+      "png": "https://marsprotocol.io/assets/images/logo.png"
+    },
+    "url": "https://marsprotocol.io/",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "lending": ["inactive"]
+    }
+  },
+  "rektWolf": {
+    "name": "Rekt Wolf",
+    "description": "REKT TODAY,  STRONGER TOMORROW",
+    "icon": {
+      "png": "https://rektwolf.io/Berserkerpfp.png"
+    },
+    "url": "https://rektwolf.io/",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "nftCollection": ["inactive"]
+    }
+  },
+  "statesDao": {
+    "name": "States DAO",
+    "description": "States DAO is a Learning DAO that learns, interacts, works, invests, and grows together.",
+    "icon": { "png": "https://statesdao.club/img/states-dao-avatar-logo.png" },
+    "url": "https://statesdao.club",
+    "status": "inactive",
+    "categoriesIntegration": {
+      "utility": ["inactive"],
+      "nftCollection": ["inactive"]
+    }
+  },
+  "lira": {
+    "name": "Lira",
+    "description": "Lira Financial aims to solve the problems of prior cryptocurrencies including mining rewards, farming rewards, and liquidity provisioning.",
+    "icon": {
+      "png": "https://lira.financial/wp-content/uploads/2022/11/lira_100x100.png"
+    },
+    "url": "https://lira.financial/",
+    "status": "active",
+    "categoriesIntegration": {}
+  },
+  "secret": {
+    "name": "Secret",
+    "description": "Secret Network combines the best features of decentralized, open-source networks and blockchains with the benefits of data privacy and improved usability.",
+    "icon": {
+      "png": "https://scrt.network/assets/static/favicon.1539b60.c1b6db0fa42ef7aea0c1645ff461532e.png"
+    },
+    "url": "https://scrt.network/",
+    "status": "active",
+    "categoriesIntegration": { "blockchain": ["inactive"] }
+  },
+  "cosmosHub": {
+    "name": "Cosmos Hub",
+    "description": "Cosmos Hub is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.",
+    "icon": {
+      "png": "https://cosmos.network/apple-touch-icon.png"
+    },
+    "url": "https://cosmos.network/",
+    "status": "active",
+    "categoriesIntegration": { "blockchain": ["inactive"] }
+  },
+  "loTerra": {
+    "name": "LoTerra",
+    "description": "LoTerra is a smart contract, a self-executing contract in which the terms of the agreement between the Player and the Lottery are written directly in lines of code.",
+    "icon": {
+      "png": "https://loterra.io/logo.png"
+    },
+    "url": "https://loterra.io/",
+    "status": "active",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "starTerra": {
+    "name": "StarTerra",
+    "description": "StarTerra is a gamified launchpad with NFTs integration and play2earn model with competition through the game theory. Investors can compete within Factions and between them, choosing their own strategy to win.",
+    "icon": {
+      "png": "https://s2.coinmarketcap.com/static/img/coins/64x64/11290.png"
+    },
+    "url": "https://starterra.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "staking": ["inactive"],
+      "liquidStaking": ["inactive"]
+    }
+  },
+  "anotherWorld": {
+    "name": "Another World",
+    "description": "Another World is a first metaverse for working service powered by terra, provides a distinct remote work environment for business. Terra World is designed to attract business people, workers and, startup founders Who seeklow-risk investments. Anyone can create their own businesses using Terra World and experiment with their ideas in any way they want.",
+    "icon": {
+      "png": "https://s2.coinmarketcap.com/static/img/coins/128x128/13886.png"
+    },
+    "url": "https://www.anotherworld.game/",
+    "status": "inactive",
+    "categoriesIntegration": { "staking": ["inactive"] }
+  },
+  "digipharm": {
+    "name": "DIGIPHARM",
+    "description": "DIGIPHARM help patients access the best available healthcare with our pioneering value-based contracting platform.",
+    "icon": {
+      "png": "https://digipharm.io/wp-content/uploads/2021/02/digipharm_etherscan_logo.png"
+    },
+    "url": "https://digipharm.io/",
+    "status": "inactive",
+    "categoriesIntegration": { "utility": ["inactive"] }
+  },
+  "miawTrader": {
+    "name": "Miaw Trader",
+    "description": "Miaw Trader",
+    "icon": {
+      "png": "https://www.miaw-trader.com/logo.png"
+    },
+    "url": "https://miaw-trader.com/",
+    "status": "inactive",
+    "categoriesIntegration": { "aggregator": ["inactive"], "dex": ["inactive"] }
+  },
+  "terraLand": {
+    "name": "TerraLand",
+    "description": "The TerraLand project is a global transaction platform based on blockchain technology for the sale of entire real estate or its individual parts.",
+    "icon": {
+      "png": "https://terraland.io/img/logo.png"
+    },
+    "url": "https://terraland.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "realEstate": ["inactive"],
+      "staking": ["inactive"]
+    }
+  },
+  "playNity": {
+    "name": "PlayNity",
+    "description": "Multi-chain PlayToEarn Guild on Terra, BSC & Ethereum",
+    "icon": {
+      "png": "https://playnity.io/uploads/logo/logo100.png"
+    },
+    "url": "https://playnity.io/",
+    "status": "inactive",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "terraMoon": {
+    "name": "Terra Moon",
+    "description": "Terra Moon is a Casino on Terra.",
+    "icon": {
+      "png": "https://moon.gl/logo.png"
+    },
+    "url": "https://moon.gl/",
+    "status": "inactive",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "legendsOfTerra": {
+    "name": "Legends of Terra",
+    "description": "Legend of Terra is a game on Terra.",
+    "icon": {
+      "png": "https://loterra.io/logo.png"
+    },
+    "url": "https://loterra.io/",
+    "status": "inactive",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "allbridge": {
+    "name": "Allbridge",
+    "description": "Allbridge is a cross-chain bridge that allows users to transfer assets between blockchains.",
+    "icon": {
+      "svg": "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
+      "png": "https://allbridge.io/assets/img/favicons/favicon-192.png"
+    },
+    "url": "https://allbridge.io/",
+    "status": "active",
+    "categoriesIntegration": { "bridge": ["inactive"] }
+  },
+  "c2x": {
+    "name": "C2X",
+    "description": "We are a blockchain gaming platform where everybody is involved together in bringing quality web3 games out to the world.",
+    "icon": {
+      "png": "https://c2x.world/c2x-station/icon/C2X.png"
+    },
+    "url": "https://c2x.world/",
+    "status": "active",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "localTerra": {
+    "name": "LocalTerra",
+    "description": "LocalTerra is a decentralized marketplace for local services.",
+    "icon": {
+      "png": "https://localterra.money/local-logo-dark.png"
+    },
+    "url": "https://localterra.money/",
+    "status": "active",
+    "categoriesIntegration": { "utility": ["inactive"] }
+  },
+  "lunaverse": {
+    "name": "Lunaverse",
+    "description": "A virtual world built on the Terra blockchain.",
+    "icon": {
+      "png": "https://lunaverse.io/assets/images/logo.png"
+    },
+    "url": "https://lunaverse.io/",
+    "status": "active",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "roboHero": {
+    "name": "RoboHero",
+    "description": "RoboHero is a mobile game. We fight for Robo.",
+    "icon": {
+      "png": "https://robohero.io/assets/token.png"
+    },
+    "url": "https://robohero.io/",
+    "status": "inactive",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "luart": {
+    "name": "Luart",
+    "description": "Luart is a NFT marketplace and a launchpad on Terra.",
+    "icon": {
+      "png": "https://luart.io/assets/images/logo.png"
+    },
+    "url": "https://luart.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftMarketplace": ["inactive"],
+      "launchpad": ["inactive"]
+    }
+  },
+  "ceres": {
+    "name": "Ceres",
+    "description": "Ceres Ventures is revolutionising the property market by making real estate exposure available to everyone through Terra’s unique decentralised finance ecosystem.",
+    "icon": {
+      "svg": "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
+      "png": "https://ceres.ventures/wp-content/uploads/2022/02/cropped-ceres-ventures-token-icon-alt-192x192.png"
+    },
+    "url": "https://ceres.ventures/",
+    "status": "inactive",
+    "categoriesIntegration": { "realEstate": ["inactive"] }
+  },
+  "mintDao": {
+    "name": "MintDAO",
+    "description": "MintDAO aims to establish a digital NFT minting platform for third party projects to create NFT collections with utilities to reward the NFT holder.",
+    "icon": {
+      "svg": "https://mintdao.io/assets/token.svg",
+      "png": "https://mintdao.io/favicon.png"
+    },
+    "url": "https://mintdao.io/",
+    "status": "active",
+    "categoriesIntegration": {
+      "nftMarketplace": ["inactive"],
+      "launchpad": ["inactive"],
+      "utility": ["inactive"]
+    }
+  },
+  "sayve": {
+    "name": "Sayve",
+    "description": "Get paid to save the galaxy.",
+    "icon": {
+      "png": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+    },
+    "url": "https://sayve.money/",
+    "status": "active",
+    "categoriesIntegration": { "utility": ["inactive"] }
+  },
+  "fanfury": {
+    "name": "FanFury",
+    "description": "FanFury is a decentralized platform for sports fans to earn rewards for their fandom.",
+    "icon": {
+      "png": "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png"
+    },
+    "url": "https://fury.fan/",
+    "status": "inactive",
+    "categoriesIntegration": { "gaming": ["inactive"] }
+  },
+  "reactorMoney": {
+    "name": "Reactor Money",
+    "description": "Reactor is an optimized yield platform built to boost rewards on Terra, with a simple and easy to use interface.",
+    "icon": {
+      "svg": "https://reactor.money/assets/logo.svg",
+      "png": "https://reactor.money/assets/apple-touch-icon.png"
+    },
+    "url": "https://reactor.money/",
+    "status": "inactive",
+    "categoriesIntegration": { "yieldFarming": ["inactive"] }
+  },
+  "retrograde": {
+    "name": "Retrograde",
+    "description": "Retrograde is a protocol built on top of Astroport, allowing ASTRO stakers and Astroport liquidity providers to get the most out of the Astroport platform, with the least cost and effort.",
+    "icon": {
+      "png": "https://retrograde.money/retro_logo.png"
+    },
+    "url": "https://retrograde.money/",
+    "status": "active",
+    "categoriesIntegration": {
+      "yieldFarming": ["inactive"]
+    }
   }
 }
