@@ -1,1011 +1,626 @@
 {
   "terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5": {
-    "protocol": "Wormhole",
-    "name": "Core Bridge",
-    "icon": "https://assets.terra.money/bridge/wormhole.png"
+    "project": "wormhole",
+    "name": "Core Bridge"
   },
   "terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf": {
-    "protocol": "Wormhole",
-    "name": "Token Bridge",
-    "icon": "https://assets.terra.money/bridge/wormhole.png"
+    "project": "wormhole",
+    "name": "Token Bridge"
   },
   "terra1jkndu9w5attpz09ut02sgey5dd3e8sq5watzm0": {
-    "protocol": "Terraswap",
-    "name": "TokenFactory",
-    "icon": "https://whitelist.mirror.finance/icon/terraswap.png"
+    "project": "terraswap",
+    "name": "TokenFactory"
   },
   "terra1wh39swv7nq36pnefnupttm2nr96kz7jjddyt2x": {
-    "protocol": "Mirror",
-    "name": "Governance",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Governance"
   },
   "terra1mzj9nsxx0lxlaxnekleqdy8xnyw2qrh3uz6h8p": {
-    "protocol": "Mirror",
-    "name": "Factory",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Factory"
   },
   "terra1t6xe0txzywdg85n6k8c960cuwgh6l8esw6lau9": {
-    "protocol": "Mirror",
-    "name": "Oracle",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Oracle"
   },
   "terra1wfz7h3aqf4cjmjcvc6s8lxdhh7k30nkczyf0mj": {
-    "protocol": "Mirror",
-    "name": "Mint",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Mint"
   },
   "terra17f7zu97865jmknk7p2glqvxzhduk78772ezac5": {
-    "protocol": "Mirror",
-    "name": "Staking",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Staking"
   },
   "terra1s4fllut0e6vw0k3fxsg4fs6fm2ad6hn0prqp3s": {
-    "protocol": "Mirror",
-    "name": "Collector",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Collector"
   },
   "terra1x35fvy3sy47drd3qs288sm47fjzjnksuwpyl9k": {
-    "protocol": "Mirror",
-    "name": "Community",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Community"
   },
   "terra1kalp2knjm4cs3f59ukr4hdhuuncp648eqrgshw": {
-    "protocol": "Mirror",
-    "name": "Airdrop",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Airdrop"
   },
   "terra1zpr8tq3ts96mthcdkukmqq4y9lhw0ycevsnw89": {
-    "protocol": "Mirror",
-    "name": "Limit Order",
-    "icon": "https://whitelist.mirror.finance/icon/MIR.png"
+    "project": "mirrorProtocol",
+    "name": "Limit Order"
   },
   "terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts": {
-    "protocol": "Anchor",
-    "name": "bLuna Hub",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
+    "project": "anchorProtocol",
+    "name": "bLuna Hub"
   },
   "terra17yap3mhph35pcwvhza38c2lkj7gzywzy05h7l0": {
-    "protocol": "Anchor",
-    "name": "bLuna Reward",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
+    "project": "anchorProtocol",
+    "name": "bLuna Reward"
   },
   "terra199t7hg7w5vymehhg834r6799pju2q3a0ya7ae9": {
-    "protocol": "Anchor",
-    "name": "bLuna Airdrop Registry",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bLUNA.png"
+    "project": "anchorProtocol",
+    "name": "bLuna Airdrop Registry"
   },
   "terra1tmnqgvg567ypvsvk6rwsga3srp7e3lg6u0elp8": {
-    "protocol": "Anchor",
-    "name": "Overseer",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Overseer"
   },
   "terra1sepfj7s0aeg5967uxnfk4thzlerrsktkpelm5s": {
-    "protocol": "Anchor",
-    "name": "Market",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Market"
   },
   "terra1ptjp2vfjrwh0j0faj9r6katm640kgjxnwwq9kn": {
-    "protocol": "Anchor",
-    "name": "bLuna Custody",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "bLuna Custody"
   },
   "terra1kq8zzq5hufas9t0kjsjc62t2kucfnx8txf547n": {
-    "protocol": "Anchor",
-    "name": "Interest Model",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Interest Model"
   },
   "terra14mufqpr5mevdfn92p4jchpkxp7xr46uyknqjwq": {
-    "protocol": "Anchor",
-    "name": "Distribution Model",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Distribution Model"
   },
   "terra1cgg6yef7qcdm070qftghfulaxmllgmvk77nc7t": {
-    "protocol": "Anchor",
-    "name": "Price Oracle",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Price Oracle"
   },
   "terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6": {
-    "protocol": "Anchor",
-    "name": "Liquidation Contract",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Liquidation Contract"
   },
   "terra1f32xyep306hhcxxxf7mlyh0ucggc00rm2s9da5": {
-    "protocol": "Anchor",
-    "name": "Governance",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Governance"
   },
   "terra1897an2xux840p9lrh6py3ryankc6mspw49xse3": {
-    "protocol": "Anchor",
-    "name": "Staking",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Staking"
   },
   "terra12wk8dey0kffwp27l5ucfumczlsc9aned8rqueg": {
-    "protocol": "Anchor",
-    "name": "Community Fund",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Community Fund"
   },
   "terra14ku9pgw5ld90dexlyju02u4rn6frheexr5f96h": {
-    "protocol": "Anchor",
-    "name": "Fee Collector",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Fee Collector"
   },
   "terra1mxf7d5updqxfgvchd7lv6575ehhm8qfdttuqzz": {
-    "protocol": "Anchor",
-    "name": "Reward Distributor",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Reward Distributor"
   },
   "terra146ahqn6d3qgdvmj8cj96hh03dzmeedhsf0kxqm": {
-    "protocol": "Anchor",
-    "name": "Airdrop",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Airdrop"
   },
   "terra1939tzfn4hn960ychpcsjshu8jds3zdwlp8jed9": {
-    "protocol": "Anchor",
-    "name": "bETH Reward",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    "project": "anchorProtocol",
+    "name": "bETH Reward"
   },
   "terra10cxuzggyvvv44magvrh3thpdnk9cmlgk93gmx2": {
-    "protocol": "Anchor",
-    "name": "bETH Custody",
-    "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    "project": "anchorProtocol",
+    "name": "bETH Custody"
   },
   "terra1e25zllgag7j9xsun3me4stnye2pcg66234je3u": {
-    "protocol": "Anchor",
-    "name": "Liquidation Queue",
-    "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    "project": "anchorProtocol",
+    "name": "Liquidation Queue"
   },
   "terra19nek85kaqrvzlxygw20jhy08h3ryjf5kg4ep3l": {
-    "protocol": "Pylon",
-    "name": "Staking",
-    "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    "project": "pylonProtocol",
+    "name": "Staking"
   },
   "terra1xu8utj38xuw6mjwck4n97enmavlv852zkcvhgp": {
-    "protocol": "Pylon",
-    "name": "Governance",
-    "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    "project": "pylonProtocol",
+    "name": "Governance"
   },
   "terra1ud39n6c42hmtp2z0qmy8svsk7z3zmdkxzfwcf2": {
-    "protocol": "Pylon",
-    "name": "Airdrop",
-    "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    "project": "pylonProtocol",
+    "name": "Airdrop"
   },
   "terra1dpe4fmcz2jqk6t50plw0gqa2q3he2tj6wex5cl": {
-    "protocol": "Spectrum",
-    "name": "SPEC Governance",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Governance"
   },
   "terra1kehar0l76kzuvrrcwj5um72u3pjq2uvp62aruf": {
-    "protocol": "Spectrum",
-    "name": "SPEC Mirror Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Mirror Farm"
   },
   "terra17hjvrkcwn3jk2qf69s5ldxx5rjccchu35assga": {
-    "protocol": "Spectrum",
-    "name": "SPEC Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Farm"
   },
   "terra1fxwelge6mf5l6z0rjpylzcfq9w9tw2q7tewaf5": {
-    "protocol": "Spectrum",
-    "name": "SPEC Staking",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Staking"
   },
   "terra1vvu80qnl0yn94stkc9sy2f5xcqcscu2fercgzq": {
-    "protocol": "Spectrum",
-    "name": "SPEC Platform",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Platform"
   },
   "terra14v8aeq4289fk7z08jvaw3qu3hers6whrdkqffp": {
-    "protocol": "Spectrum",
-    "name": "SPEC Warchest",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Warchest"
   },
   "terra1dretwqx84u229rjfgkp0j6avc3fusp000ejrz9": {
-    "protocol": "Spectrum",
-    "name": "SPEC Development Fund Wallet",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Development Fund Wallet"
   },
   "terra1fqzczuddqsdml37a20pysjx5wk9dh4tdzu2mrw": {
-    "protocol": "Spectrum",
-    "name": "SPEC Anchor Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Anchor Farm"
   },
   "terra1r3675psl7s2fe0sfh0vut5z4hrywgyyfdrzg95": {
-    "protocol": "Spectrum",
-    "name": "SPEC Pylon Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Pylon Farm"
   },
   "terra1cdyw7fydevn372re7xjgfh8kqrrf2lxm5k6ve3": {
-    "protocol": "Spectrum",
-    "name": "SPEC Terraworld Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Terraworld Farm"
   },
   "terra1xt4ugaxds6wjehjckqchzg4e99n3cjd2rtfw4f": {
-    "protocol": "Spectrum",
-    "name": "SPEC Valkyrie Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Valkyrie Farm"
   },
   "terra1j2hdp4jelqe9tkfwnsx5mlheqagaryxhqwr4h2": {
-    "protocol": "Spectrum",
-    "name": "SPEC Nexus Psi-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Nexus Psi-UST Farm"
   },
   "terra106en784zr4kpe6phlaj8c8t3aeqgn3xsugaelx": {
-    "protocol": "Spectrum",
-    "name": "SPEC Orion Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Orion Farm"
   },
   "terra19kzel57gvx42e628k6frh624x5vm2kpck9cr9c": {
-    "protocol": "Spectrum",
-    "name": "SPEC Nexus nLuna-Psi Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Nexus nLuna-Psi Farm"
   },
   "terra1lmm7xjareer3fd040kz2epw93hg20p9f64uh98": {
-    "protocol": "Spectrum",
-    "name": "SPEC Nexus nEth-Psi Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Nexus nEth-Psi Farm"
   },
   "terra15x4hysms59x5eek6esg3f2jycalpypdcl6sy7j": {
-    "protocol": "Spectrum",
-    "name": "SPEC Kujira Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Kujira Farm"
   },
   "terra1kr82wxlvg773vjay95epyckna9g4vppjyfxgd0": {
-    "protocol": "Spectrum",
-    "name": "SPEC bPsiDP-24m Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC bPsiDP-24m Farm"
   },
   "terra1gyqyhjppy3k77wltnmqt29ms340mmayk7ank4e": {
-    "protocol": "Spectrum",
-    "name": "SPEC Burn Vault",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Burn Vault"
   },
   "terra1w9d33yf2j05m2h6f3k7sjuhgrdrznqmncjrwhq": {
-    "protocol": "Spectrum",
-    "name": "SPEC Staker Astroport",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Staker Astroport"
   },
   "terra12kzevdnqe4k82cg5f07dywgj4lvkshhhwh4gnc": {
-    "protocol": "Spectrum",
-    "name": "SPEC Staker Single Asset",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "SPEC Staker Single Asset"
   },
   "terra1wn0d0zwl382pnl6hdcd8r926yx6mcqcag7v39j": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport ASTRO-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport ASTRO-UST Farm"
   },
   "terra1egstlx9c9pq5taja5sg0yhraa0cl5laxyvm3ln": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport LUNA-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport LUNA-UST Farm"
   },
   "terra1ejl4v53w4all7zkw8nfkw2q6d3qkpls8m4cav4": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport bLUNA-LUNA Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport bLUNA-LUNA Farm"
   },
   "terra1ukm33qyqx0qcz7rupv085rgpx0tp5wzkhmcj3f": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport ANC-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport ANC-UST Farm"
   },
   "terra1y5hd5ea9dshfwf5eysqtsey7qkdhhktmtw9y3q": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport MIR-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport MIR-UST Farm"
   },
   "terra1p30zk5xfn34lygcyhs2us9mxwzsn88v2yqrcw6": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport ORION-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport ORION-UST Farm"
   },
   "terra10htnzp8gk49u97whehd9uuj5rl2keegcvdhg2q": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport STT-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport STT-UST Farm"
   },
   "terra1yj34w2n24p4x7s69evjp7ukzz82ca5tvlzqa84": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport VKR-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport VKR-UST Farm"
   },
   "terra1s9zqk5ksnwp8qywrmdwt2fq0a9l0zc2d2sw2an": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport MINE-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport MINE-UST Farm"
   },
   "terra1zngkjhqqearpfhym9x9hnutpklduz45e9uvp9u": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport APOLLO-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport APOLLO-UST Farm"
   },
   "terra1jxh7hahwxlsy5cckkyhuz50a60mpn5tr0px6tq": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport Psi-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport Psi-UST Farm"
   },
   "terra1zl3ud44lja3r8ld8nwzh3eukl6h97gp2xr4wq6": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport nLuna-Psi Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport nLuna-Psi Farm"
   },
   "terra1xw3jzqwrql5fvddchzxycd2ygrep5kudsden5c": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport nETH-Psi Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport nETH-Psi Farm"
   },
   "terra1d9cufxz9a4px9zfzq8quqewlj24durtu6lhwfw": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport XDEFI-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport XDEFI-UST Farm"
   },
   "terra16usjvptlpdrj7hcmy7mvdap5tttzcya7ch0can": {
-    "protocol": "Spectrum",
-    "name": "Spec nLuna Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec nLuna Farm"
   },
   "terra1mr9xlwydgg0lfxvy68ylxuchzy6jdn706vwu8c": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport SAYVE-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport SAYVE-UST Farm"
   },
   "terra19dfth8559etgnqmnu9nwd87pjqsuufswwclcav": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport Stluna-Luna Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport Stluna-Luna Farm"
   },
   "terra1puxzzlcr2urp4pvx523xhq593tgpt7damnm6pc": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport Stsol-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport Stsol-UST Farm"
   },
   "terra12td8as6zhm3m9djjmpxzfue9syvrj0ewe070hf": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport Steth-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport Steth-UST Farm"
   },
   "terra1aeaz2w7gxu7ga8fj76mna8skhvq6ft0q0x42tv": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport Stluna-LDO Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport Stluna-LDO Farm"
   },
   "terra1d55nmhuq75r3vf93hwkau2stts4mpe9h22herz": {
-    "protocol": "Spectrum",
-    "name": "Spec Astroport MARS-UST Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec Astroport MARS-UST Farm"
   },
   "terra1gvlll4hytc9s34dskw5ym86erx3hx2j6sa8zhy": {
-    "protocol": "Spectrum",
-    "name": "Spec nETH Farm",
-    "icon": "https://terra.spec.finance/assets/SPEC.png"
+    "project": "spectrumProtocol",
+    "name": "Spec nETH Farm"
   },
   "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
-    "protocol": "StarTerra",
-    "name": "STT/LP Staking Faction Lunatics",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT/LP Staking Faction Lunatics"
   },
   "terra1pafra8qj9efnxhv5jq7n4qy0mq5pge8w4k8s2k": {
-    "protocol": "StarTerra",
-    "name": "STT/LP Staking Faction Degens",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT/LP Staking Faction Degens"
   },
   "terra1snra29afr9efzt6l34wfnhj3jn90hq6rx8jhje": {
-    "protocol": "StarTerra",
-    "name": "STT/LP Staking Faction Interstellars",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT/LP Staking Faction Interstellars"
   },
   "terra1q7tktp2e7e8qyxpsa3c5l8c7ruht6mw9wm07z0": {
-    "protocol": "StarTerra",
-    "name": "STT/LP Staking Gateway",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT/LP Staking Gateway"
   },
   "terra1ruh00lyqux5g5zjf4gcg66clrkvk7u7e37ntut": {
-    "protocol": "StarTerra",
-    "name": "STT Staking Faction Lunatics",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Staking Faction Lunatics"
   },
   "terra1z9et2n9ltdqle2s7qq0du2zwr32s3s8ulczh0h": {
-    "protocol": "StarTerra",
-    "name": "STT Staking Faction Degens",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Staking Faction Degens"
   },
   "terra1v6cagryg27qyk7alp7lq35fttkjyn8cmd73fgv": {
-    "protocol": "StarTerra",
-    "name": "STT Staking Faction Interstellars",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Staking Faction Interstellars"
   },
   "terra1t3sfxw28fl3ptnpnxtm30zruxma2utqvxlh794": {
-    "protocol": "StarTerra",
-    "name": "STT Staking Gateway",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Staking Gateway"
   },
   "terra1cycvyedrhltumytjtp0qx9kfdx20s0fqa8ttmm": {
-    "protocol": "StarTerra",
-    "name": "STT Vesting Gateway",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Vesting Gateway"
   },
   "terra1268e62h8r0fcr2nt0kplxp8jx5qalwq73a5fuk": {
-    "protocol": "StarTerra",
-    "name": "STT Vesting Private/Seed",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Vesting Private/Seed"
   },
   "terra1ld47cz4t7gpt7ux4llee3le75y4rhqksw6xfpa": {
-    "protocol": "StarTerra",
-    "name": "STT Vesting Marketing",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Vesting Marketing"
   },
   "terra1s2yuugawj98gkpy6h9ua7ppss94sqgw2r7tyma": {
-    "protocol": "StarTerra",
-    "name": "STT Vesting Public",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Vesting Public"
   },
   "terra1ff6ynrnpszc5u6vulwn9gmntphywanpkak2qxc": {
-    "protocol": "StarTerra",
-    "name": "STT Vesting Advisors",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Vesting Advisors"
   },
   "terra1574seu2puu7xwgmv7q85f3umk6lvg3u2nv4zrj": {
-    "protocol": "StarTerra",
-    "name": "STT Vesting Team",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Vesting Team"
   },
   "terra146xf036xzsw0hhmq596q9upadqqq95fu65e8gt": {
-    "protocol": "StarTerra",
-    "name": "STT Account",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Account"
   },
   "terra1q2qprmuva3m93vhjmc7vakhs0h2lelxzlt675p": {
-    "protocol": "StarTerra",
-    "name": "STT Airdrop Genesis",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Airdrop Genesis"
   },
   "terra1mz8qcfplg3s46zkkj9jywmguehpenhahcqc22q": {
-    "protocol": "StarTerra",
-    "name": "STT Signing",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Signing"
   },
   "terra1ru8qeh0mvf8m80vul84wsljqvltm6t64n8gjr0": {
-    "protocol": "StarTerra",
-    "name": "STT KYC Vault",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT KYC Vault"
   },
   "terra1a6737fj7tulyw2j9l9l8lht7e8zzqj5qg0elxe": {
-    "protocol": "StarTerra",
-    "name": "STT Squadron Users",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Squadron Users"
   },
   "terra1yzewp648fwq7ymlfdg5h90dfzk5y2hf6kk9pdm": {
-    "protocol": "StarTerra",
-    "name": "STT IDO Prefund",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT IDO Prefund"
   },
   "terra1megftnaw3v9jh9fg2wzejx6d2swncg7ug97tvt": {
-    "protocol": "StarTerra",
-    "name": "STT Governance",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Governance"
   },
   "terra1s8afpa8pmsye2j9rmx8mhwmtfhtuvvematnyva": {
-    "protocol": "StarTerra",
-    "name": "STT Play 2 Earn",
-    "icon": "https://starterra.io/assets/100x100_starterra.png"
+    "project": "starTerra",
+    "name": "STT Play 2 Earn"
   },
   "terra175ueft8w9vpkj9jvehyjhkpk6szy8unq4lns8n": {
-    "protocol": "TerraLand",
-    "name": "TLAND LP Staking",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND LP Staking"
   },
   "terra1q7pe32j3mwajxd259v94e8vfu6fh4gn0dea06s": {
-    "protocol": "TerraLand",
-    "name": "TLAND Airdrop",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Airdrop"
   },
   "terra1y35lez2p78yxftv8lmx9m2w8tcl5e3cvy2gq3c": {
-    "protocol": "TerraLand",
-    "name": "TLAND Development Fund Vesting",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Development Fund Vesting"
   },
   "terra17csa0tla7x333a7llc7tzvnayxj08rfweawaal": {
-    "protocol": "TerraLand",
-    "name": "TLAND Private Sale & Marketing Vesting",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Private Sale & Marketing Vesting"
   },
   "terra1lk0cddmxg6k2hu78mnlpme9jn7dvcdmp9nwczc": {
-    "protocol": "TerraLand",
-    "name": "TLAND Team Vesting",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Team Vesting"
   },
   "terra16g9dyhh3dm9pcpeutkwmqdn4rlv0d3mn4w7ftm": {
-    "protocol": "TerraLand",
-    "name": "TLAND Advisors Vesting",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Advisors Vesting"
   },
   "terra1lep7qhcguhsrnd62x90ktv0mu5qvysvfq3ux05": {
-    "protocol": "TerraLand",
-    "name": "TLAND Subme Public Sale Vesting",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Subme Public Sale Vesting"
   },
   "terra12s5lushadreckk2px7lwga2a55ws2pg7ffvk3x": {
-    "protocol": "TerraLand",
-    "name": "TLAND Starterra Public Sale Vesting",
-    "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    "project": "terraLand",
+    "name": "TLAND Starterra Public Sale Vesting"
   },
   "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz": {
-    "protocol": "White Whale",
-    "name": "WHALE",
-    "icon": "https://www.whitewhale.money/tokenlogo.png"
-  },
-  "terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j": {
-    "protocol": "Nexus",
-    "name": "Governance",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra15jggavtx37dsmfjy6sed7nnyccw2v5298xlt5g": {
-    "protocol": "Nexus",
-    "name": "Vesting",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra12kzewegufqprmzl20nhsuwjjq6xu8t8ppzt30a": {
-    "protocol": "Nexus",
-    "name": "Psi-UST Terraswap Staking",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra16mtntdg7rkvt3q5hcz8nqr6hj8mme5jmrtk8y2": {
-    "protocol": "Nexus",
-    "name": "Community Pool",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1cuydpfxaen3m0l00nkn29s8kks0gk9pjvq7ep7": {
-    "protocol": "Nexus",
-    "name": "Community Reserve (for airdrop, vault, futuren nAsset-Psi incentives)",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1992lljnteewpz0g398geufylawcmmvgh8l8v96": {
-    "protocol": "Nexus",
-    "name": "Airdrop",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1cda4adzngjzcn8quvfu2229s8tedl5t306352x": {
-    "protocol": "Nexus",
-    "name": "bLuna Vault",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1fxc9epfhest8sndrayfkxc9y6arva4sqtp7drg": {
-    "protocol": "Nexus",
-    "name": "bLuna Vault strategy",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1rsupnpjmnjj93a8s7twgmutvknuvzvktcd32n0": {
-    "protocol": "Nexus",
-    "name": "nLuna config holder",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1hjv3quqsrw3jy7pulgutj0tgxrcrnw2zs2j0k7": {
-    "protocol": "Nexus",
-    "name": "nLuna rewards",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1z6qyzj0t8ryrefhys43plpu8le7wlj8h59esxx": {
-    "protocol": "Nexus",
-    "name": "nLuna Psi distributor",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1hs4ev0ghwn4wr888jwm56eztfpau6rjcd8mczc": {
-    "protocol": "Nexus",
-    "name": "nLuna-Psi Terraswap Staking",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1au4h305fn4w3zpka2ql59e0t70jnqzu4mj2txx": {
-    "protocol": "Nexus",
-    "name": "nLuna autocompounder",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n": {
-    "protocol": "Nexus",
-    "name": "bETH Vault",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1h3y2mk0dwfy72fkwcm8h62y6uyy4k27m2m68kt": {
-    "protocol": "Nexus",
-    "name": "bETH Vault strategy",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1v58xln8ry8lx4pdt2lzpw57grksewtgqehuvah": {
-    "protocol": "Nexus",
-    "name": "nETH config holder",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1fhqsu40s0lk3p308mcakzjecj6ts6j2guepfr4": {
-    "protocol": "Nexus",
-    "name": "nETH rewards",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1f3nfuq7wj7mx3dlxqgtyh0w395g0cgxx9q44cx": {
-    "protocol": "Nexus",
-    "name": "nETH Psi distributor",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1lws09x0slx892ux526d6atwwgdxnjg58uan8ph": {
-    "protocol": "Nexus",
-    "name": "nETH-Psi Terraswap Staking",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1fupv3y5tcpy33w4pjjrrhqjtnla6f9y676hvaw": {
-    "protocol": "Nexus",
-    "name": "nETH autocompounder",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1hn9rzu66s422rl9kg0a7j2yxdjef0szkqvy7ws": {
-    "protocol": "Nexus",
-    "name": "wasAVAX Vault",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra103r2lfz8uhtlfy4c4f99zp5cts2lvy5de932l4": {
-    "protocol": "Nexus",
-    "name": "wasAVAX Vault strategy",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1rx2mgn02lxf0q2vwk05e4judmzv5xwxt2h7xv5": {
-    "protocol": "Nexus",
-    "name": "nAVAX config holder",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1trwqvdw458fnen3k37wrc6ntvg6aw2u703htm8": {
-    "protocol": "Nexus",
-    "name": "nAVAX rewards",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra15xz8xv9fl4u92l7yeejzntfpqrpf2hx0vss3d4": {
-    "protocol": "Nexus",
-    "name": "nAVAX Psi distributor",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1lh3h7l5vsul2pxlevraucwev42ar6kyx33u4c8": {
-    "protocol": "Nexus",
-    "name": "bATOM Vault",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1vtpdqwp6t9cxvgu29zzv3yse7e2a2mmdsnv797": {
-    "protocol": "Nexus",
-    "name": "bATOM Vault strategy",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1m0jku6nhlwg6rq95nmqkkv2ztd0ue5a3f8kx49": {
-    "protocol": "Nexus",
-    "name": "nATOM config holder",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1ahfzztd37zcdlret8xh80lf8sy5vcjtf7j2rwg": {
-    "protocol": "Nexus",
-    "name": "nATOM rewards",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1zeu9hz6fd602cc6g2x68xea6p94vaf3ajv8mrk": {
-    "protocol": "Nexus",
-    "name": "nATOM Psi distributor",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    "project": "whiteWhale",
+    "name": "WHALE"
   },
   "terra1cf9q9lq7tdfju95sdw78y9e34a6qrq3rrc6dre": {
-    "protocol": "Kujira",
-    "name": "UST-KUJI Staking",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "UST-KUJI Staking"
   },
   "terra1ywfhcus65x80shdrh0ulr4m7na4njw59wrgu30": {
-    "protocol": "Kujira",
-    "name": "Operational, Treasury & Pre-Sale Vesting",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Operational, Treasury & Pre-Sale Vesting"
   },
   "terra1rhckhztwftc7a9u8gyasug0qwwwhzsxsnglm2e": {
-    "protocol": "StarTerra",
-    "name": "StarTerra IDO Vesting",
-    "icon": "https://assets.kujira.app/kuji-stt.png"
+    "project": "starTerra",
+    "name": "StarTerra IDO Vesting"
   },
   "terra15e4w665qtzdr7uvpu9catk6edsdr3yx73uprfr": {
-    "protocol": "Kujira",
-    "name": "Kujira Team Multisignature Warchest",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Kujira Team Multisignature Warchest"
   },
   "terra13nk2cjepdzzwfqy740pxzpe3x75pd6g0grxm2z": {
-    "protocol": "Kujira",
-    "name": "Orca aUST Vault",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Orca aUST Vault"
   },
   "terra1w7gtx76rs7x0e27l7x2e88vcr52tp9d8g4umjz": {
-    "protocol": "Kujira",
-    "name": "Governance Staking",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Governance Staking"
   },
   "terra10g3mqzl9verxetlt7apfxunzwtyhdadqkmh5zx": {
-    "protocol": "Kujira",
-    "name": "Platform Fee Lockbox",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Platform Fee Lockbox"
   },
   "terra1nzyzc80sk9y6k58frdt8ye4y2qjq8myz44kg2w": {
-    "protocol": "Kujira",
-    "name": "Airdrops",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Airdrops"
   },
   "terra1l0c5kmclu5zkd5jwud3pzmv2j86puchnssnxwf": {
-    "protocol": "Kujira",
-    "name": "Marketing",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Marketing"
   },
   "terra1r3kkmkhysk2gjeq3rutjgfu4e79m3jhw6w72w5": {
-    "protocol": "Kujira",
-    "name": "Operational",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Operational"
   },
   "terra1vvj874nwtmxk0u0spj83d364xyhqk2e652jrck": {
-    "protocol": "Kujira",
-    "name": "Protocol Revenue Pool",
-    "icon": "https://assets.kujira.app/kuji.png"
+    "project": "kujira",
+    "name": "Protocol Revenue Pool"
   },
   "terra1gndu6x3j57znc3yec9t5kayahdr0a6dx4xtj29": {
-    "protocol": "PlayNity",
-    "name": "PLY StarTerra Public Sale Vesting",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY StarTerra Public Sale Vesting"
   },
   "terra1ur4ycdastenmq6v0ljn9d5zcp0ctcc59t6tjl4": {
-    "protocol": "PlayNity",
-    "name": "PLY Vesting",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY Vesting"
   },
   "terra1sc850sav9qre48sm7mzlcejdukl3rpduz3psk2": {
-    "protocol": "PlayNity",
-    "name": "PLY Vesting 2",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY Vesting 2"
   },
   "terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt": {
-    "protocol": "PlayNity",
-    "name": "PLY-UST Staking Liquid",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY-UST Staking Liquid"
   },
   "terra1hxyyjpu8548ccwth9pnc5ztgpupnn2a3c9s0f8": {
-    "protocol": "PlayNity",
-    "name": "PLY-UST Staking Locked 3M",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY-UST Staking Locked 3M"
   },
   "terra1f0xcccegjwutnheasl4w3ttfktsdkay5fk7vjc": {
-    "protocol": "PlayNity",
-    "name": "PLY Single Asset Staking",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY Single Asset Staking"
   },
   "terra1erqmuax2anl4l3nlq7nywt98ywnkstyy5g5nll": {
-    "protocol": "PlayNity",
-    "name": "PLY SA PEX Bonus Staking - Bronze",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY SA PEX Bonus Staking - Bronze"
   },
   "terra1tvxhckff3v07x0exv877mkjgsr7ec0m6y8629p": {
-    "protocol": "PlayNity",
-    "name": "PLY SA PEX Bonus Staking - Silver",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY SA PEX Bonus Staking - Silver"
   },
   "terra1qpt28748nr7xyv04a63eew6yvd2vlly7dfg704": {
-    "protocol": "PlayNity",
-    "name": "PLY SA PEX Bonus Staking - Gold",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY SA PEX Bonus Staking - Gold"
   },
   "terra1h7gsqfnmqg3rnf2a43s06ah4q9nt336ccm83rx": {
-    "protocol": "PlayNity",
-    "name": "PLY SA PEX Bonus Staking - Diamond",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "PLY SA PEX Bonus Staking - Diamond"
   },
   "terra16v6sm86d8lw9m4h8ds6l9rvkdhj3se0c52du83": {
-    "protocol": "PlayNity",
-    "name": "AUST PEX Bonus Staking - Bronze",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "AUST PEX Bonus Staking - Bronze"
   },
   "terra1uq7azwj7l9dvvuss3p95rju8wh9dyk4y3v27qs": {
-    "protocol": "PlayNity",
-    "name": "AUST PEX Bonus Staking - Silver",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "AUST PEX Bonus Staking - Silver"
   },
   "terra1tkmwufuvun3j2462afshw70439ewj7v7elhyhf": {
-    "protocol": "PlayNity",
-    "name": "AUST PEX Bonus Staking - Gold",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "AUST PEX Bonus Staking - Gold"
   },
   "terra13mxteeyt2y8jlh5qluyhj4mkgt44lpwnexgl3s": {
-    "protocol": "PlayNity",
-    "name": "AUST PEX Bonus Staking - Diamond",
-    "icon": "https://playnity.io/uploads/logo/logo100.png"
+    "project": "playNity",
+    "name": "AUST PEX Bonus Staking - Diamond"
   },
   "terra1jhvyfuewmhy6zafw6x7au0gcthyfcruf4lfm5z": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki UST-TFLOKI LP Staking",
-    "icon": "https://terrafloki.io/terrafloki_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki UST-TFLOKI LP Staking"
   },
   "terra18q3zetn2rc8y9z6k5h6vvng28l2c0ekqgegzsn": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki Governance",
-    "icon": "https://terrafloki.io/terrafloki_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki Governance"
   },
   "terra1awhv74w79sxtr3c65l53m0y46yttr6xaecmed2": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki TFLOKI Genesis Staking",
-    "icon": "https://terrafloki.io/ticket_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki TFLOKI Genesis Staking"
   },
   "terra1ucaza5zmmh9efhrrcv92uuh20vdj6ggg57se94": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki TFLOKI New World Staking",
-    "icon": "https://terrafloki.io/ticket2_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki TFLOKI New World Staking"
   },
   "terra17mw6s5l03ecdslpfdgx6hn0hh9g5aj8sjg04n8": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki UST-TFLOKI LP New World Staking",
-    "icon": "https://terrafloki.io/ticket2_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki UST-TFLOKI LP New World Staking"
   },
   "terra1nr0tmlms7dw7mg2crwpey4nunwq3pfajr4gxa9": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki TFLOKI Aviator Staking",
-    "icon": "https://terrafloki.io/ticket3_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki TFLOKI Aviator Staking"
   },
   "terra136dggkaa0pdws2pz6r0ffk5l5zg50j5f2cl3vj": {
-    "protocol": "TerraFloki",
-    "name": "TerraFloki UST-TFLOKI LP Aviator Staking",
-    "icon": "https://terrafloki.io/ticket3_logo.png"
+    "project": "metaFrens",
+    "name": "TerraFloki UST-TFLOKI LP Aviator Staking"
   },
   "terra1u94zwrreyz3t0jx25nl7800pxsrk6e6dwjqpsx": {
-    "protocol": "Terra Name Service",
-    "name": "UST-TNS Staking",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "UST-TNS Staking"
   },
   "terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4": {
-    "protocol": "Terra Name Service",
-    "name": "Controller",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Controller"
   },
   "terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs": {
-    "protocol": "Terra Name Service",
-    "name": "Registry",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Registry"
   },
   "terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8": {
-    "protocol": "Terra Name Service",
-    "name": "Default Resolver",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Default Resolver"
   },
   "terra1a5thpf2gdrrneewjkutyz5q6zr2kn8ymg0cxn9": {
-    "protocol": "Terra Name Service",
-    "name": "Governance",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Governance"
   },
   "terra1ua7mgqjjx04k3syhl0ast3hujy5tfu9440srp9": {
-    "protocol": "Terra Name Service",
-    "name": "Airdrop",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Airdrop"
   },
   "terra1sqyyzqf3qjgq2ypkkjmcf9tg3pt3dlt9w8syen": {
-    "protocol": "Terra Name Service",
-    "name": "Community Pool",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Community Pool"
   },
   "terra1rtxau4as3e05gkffjxysdzr3l4mwd39r35sjnc": {
-    "protocol": "Terra Name Service",
-    "name": "Team Multisignature Warchest",
-    "icon": "https://tns.money/static/images/tns.png"
+    "project": "tns",
+    "name": "Team Multisignature Warchest"
   },
   "terra18lhpvps8hay8mtt3vd0cptukzhmlvpssq79h5r": {
-    "protocol": "Terra Name Service",
-    "name": "Collector",
-    "icon": "https://tns.money/static/images/tns.png"
-  },
-  "terra18s7n93ja9nh37mttu66rhtsw05dxrcpsmw0c45": {
-    "protocol": "Thorstarter",
-    "name": "Thorstarter Tiers",
-    "icon": "https://thorstarter.org/static/img/src/favicon.png"
+    "project": "tns",
+    "name": "Collector"
   },
   "terra1zgrx9jjqrfye8swykfgmd6hpde60j0nszzupp9": {
-    "protocol": "Astroport",
+    "project": "astroport",
     "name": "Generator"
   },
-  "terra1fmu29xhg5nk8jr0p603y5qugpk2r0ywcyxyv7k": {
-    "protocol": "Nexus",
-    "name": "Psi-UST Astroport Staking",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra13n2sqaj25ugkt79k3evhvua30ut9qt8q0268zc": {
-    "protocol": "Nexus",
-    "name": "nETH-Psi Astroport Staking",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra1sxzggeujnxrd7hsx7uf2l6axh2uuv4zz5jadyg": {
-    "protocol": "Nexus",
-    "name": "nLuna-Psi Astroport Staking",
-    "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
-  },
-  "terra14qtu3fxf8h6afqvhgh65jqs0nk8vpy6vxlmln5": {
-    "protocol": "Atlo",
-    "name": "Treasury",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra1r6ps2zjph92k74ep4q8ernl9n4j32e0ldxc3xk": {
-    "protocol": "Atlo",
-    "name": "Fee Collector",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra12z9vdsdjg0thx3wmfnysz6pvegzukykcd709x3": {
-    "protocol": "Atlo",
-    "name": "Vesting: Team",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra1yn5l4nrj4qadrne2p6q62h3qkgreum0dq7rdew": {
-    "protocol": "Atlo",
-    "name": "Vesting: Seed, Public, Early Birds, Advisors",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra1a77dwkjmg62wfvkgxwe07ukfctvpgtu3jjvld9": {
-    "protocol": "Atlo",
-    "name": "Staking: Single-sided",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra1rxhf7p6dexv6enq4u5dh7ems82h5u5e6x4l833": {
-    "protocol": "Atlo",
-    "name": "Staking: LP",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra16xnc46f7acfff5yrv03ng7u3c8ngfx2jel653q": {
-    "protocol": "Atlo",
-    "name": "Voting",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
-  "terra1vfrxqy2tw0xrxs8y3agtt3qzuem0pm898umk5v": {
-    "protocol": "Atlo",
-    "name": "Governance",
-    "icon": "https://assets.atlo.app/images/atlo-logo.png"
-  },
   "terra1dlcwvsy6t7skge7s2dtdvr75lakltwr3xk9j2d": {
-    "protocol": "Luart",
-    "name": "LUART Staking",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
+    "project": "luart",
+    "name": "LUART Staking"
   },
   "terra1zg32rp9lc3k0zzscdr93xxn0w5kll62l9x3a4u": {
-    "protocol": "Luart",
-    "name": "LUART LP Staking",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
+    "project": "luart",
+    "name": "LUART LP Staking"
   },
   "terra1xfdezegr8may3tp2lyuvht28w7las9k32tg4rk": {
-    "protocol": "Luart",
-    "name": "LUART Vesting Private",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
+    "project": "luart",
+    "name": "LUART Vesting Private"
   },
   "terra1jshuv8a7mx3fvhvpmcqpua7ft8c9q5anllryy4": {
-    "protocol": "Luart",
-    "name": "LUART Vesting Marketing",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
+    "project": "luart",
+    "name": "LUART Vesting Marketing"
   },
   "terra1ny3njmscejk6kf8zg2y2jh9yrwnmxy3npp44qg": {
-    "protocol": "Luart",
-    "name": "LUART Vesting Advisors",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
+    "project": "luart",
+    "name": "LUART Vesting Advisors"
   },
   "terra1zg6qt3h3axqne70dw4sswgfrqedkcpw3gu6jn7": {
-    "protocol": "Luart",
-    "name": "LUART Vesting Development Fund",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
+    "project": "luart",
+    "name": "LUART Vesting Development Fund"
   },
   "terra18hdv038c68uj70qvarnr55e9c3kwjk4tkzhc4j": {
-    "protocol": "Luart",
-    "name": "LUART Vesting Team",
-    "icon": "https://cdn.luart.io/logos/luart-logo.png"
-  },
-  "terra15qr8ev2c0a0jswjtfrhfaj5ucgkhjd7la2shlg": {
-    "protocol": "Steak",
-    "name": "Steak Hub",
-    "icon": "https://larry.engineer/assets/steak.png"
-  },
-  "terra1tzhh2yt0arrwttpywg65vy0kyu99n22jhjxva7": {
-    "protocol": "TerrnadoCash",
-    "name": "UST Anonymizer",
-    "icon": "https://terrnado.cash/logo.png"
-  },
-  "terra1q9ylsdaa7zjs2p585suwdfprlcz4prexsqfvhn": {
-    "protocol": "TerrnadoCash",
-    "name": "CW20 Anonymizer",
-    "icon": "https://terrnado.cash/logo.png"
-  },
-  "terra1vcqxdu0re3rz292kgx7ysp9a2702m82wzltygj": {
-    "protocol": "TerrnadoCash",
-    "name": "Terrnado Vault",
-    "icon": "https://terrnado.cash/logo.png"
+    "project": "luart",
+    "name": "LUART Vesting Team"
   }
 }
