@@ -23,7 +23,7 @@
     "liquidityToken": "terra1mtvslkm2tgsmh908dsfksnqu7r7lulh24a6knv"
   },
   "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
-    "project": ["terraWorld"],
+    "project": ["anotherWorld"],
     "dex": "terraswap",
     "assets": ["terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6", "uusd"],
     "liquidityToken": "terra1c9wr85y8p8989tr58flz5gjkqp8q2r6murwpm9"
@@ -46,12 +46,6 @@
     "assets": ["uusd", "terra1l5lrxtwd98ylfy09fn866au6dp76gu8ywnudls"],
     "liquidityToken": "terra1pjgzke6h5v4nz978z3a92gqajwhn8yyh5kv4zv"
   },
-  "terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf": {
-    "project": ["nexus"],
-    "dex": "terraswap",
-    "assets": ["terra12897djskt9rge8dtmm86w654g7kzckkd698608", "uusd"],
-    "liquidityToken": "terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd"
-  },
   "terra1krny2jc0tpkzeqfmswm7ss8smtddxqm3mxxsjm": {
     "project": ["mirrorProtocol"],
     "dex": "terraswap",
@@ -63,20 +57,6 @@
     "dex": "terraswap",
     "assets": ["uusd", "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq"],
     "liquidityToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf"
-  },
-  "terra1spcf4486jjn8678hstwqzeeudu98yp7pyyltnl": {
-    "project": ["nexus"],
-    "dex": "astroport",
-    "assets": [
-      "terra1jtdc6zpf95tvh9peuaxwp3v0yqszcnwl8j5ade",
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608"
-    ],
-    "liquidityToken": "terra1pyavxxun3vuakqq0wyqft69l3zjns0q76wut7z",
-    "extra": {
-      "pairType": {
-        "xyk": {}
-      }
-    }
   },
   "terra1zw0kfxrxgrs5l087mjm79hcmj3y8z6tljuhpmc": {
     "dex": "terraswap",
@@ -101,45 +81,11 @@
     "assets": ["terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu", "uusd"],
     "liquidityToken": "terra1h69kvcmg8jnq7ph2r45k6md4afkl96ugg73amc"
   },
-  "terra10usmg35qsa92fagh49np7phmhhr4ryhyl27749": {
-    "project": ["nexus"],
-    "dex": "astroport",
-    "assets": [
-      "terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636",
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608"
-    ],
-    "liquidityToken": "terra1p3zj8tkzufw9szmm97taj7x6kkd0cy7k2mpdws",
-    "extra": {
-      "pairType": {
-        "xyk": {}
-      }
-    }
-  },
-  "terra10lv5wz84kpwxys7jeqkfxx299drs3vnw0lj8mz": {
-    "project": ["nexus"],
-    "dex": "astroport",
-    "assets": [
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608",
-      "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j"
-    ],
-    "liquidityToken": "terra1t53c8p0zwvj5xx7sxh3qtse0fq5765dltjrg33",
-    "extra": {
-      "pairType": {
-        "xyk": {}
-      }
-    }
-  },
   "terra18cxcwv0theanknfztzww8ft9pzfgkmf2xrqy23": {
     "project": ["mirrorProtocol"],
     "dex": "terraswap",
     "assets": ["uusd", "terra18ej5nsuu867fkx4tuy2aglpvqjrkcrjjslap3z"],
     "liquidityToken": "terra1m8mr9u3su46ezxwf7z7xnvm0jsapl2jd8vgefh"
-  },
-  "terra1fg8f9s8ltyw59crjde6vrv2chvcprndayk9gt4": {
-    "project": ["terrnadoCash"],
-    "dex": "terraswap",
-    "assets": ["terra16wggm67a34msdxasg2vergm2pt289y7930wv7d", "uusd"],
-    "liquidityToken": "terra1w5etcaqzhwe6huwytkwuxzkvlvqx98vgu6z96u"
   },
   "terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx": {
     "project": ["sayve"],
@@ -149,19 +95,6 @@
     "extra": {
       "pairType": {
         "xyk": {}
-      }
-    }
-  },
-  "terra14q0cgunptuym048a4y2awt8a7fl9acudmfzk5e": {
-    "project": ["steak"],
-    "dex": "astroport",
-    "assets": ["terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv", "uluna"],
-    "liquidityToken": "terra1pwc77c6a588cualln2uypyyvg5r76tfaazgk62",
-    "extra": {
-      "pairType": {
-        "stable": {
-          "amp": "50"
-        }
       }
     }
   },
@@ -201,20 +134,6 @@
     "assets": ["terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6", "uusd"],
     "liquidityToken": "terra1qq6g0kds9zn97lvrukf2qxf6w4sjt0k9jhcdty"
   },
-  "terra18hjdxnnkv8ewqlaqj3zpn0vsfpzdt3d0y2ufdz": {
-    "project": ["nexus"],
-    "dex": "astroport",
-    "assets": [
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608",
-      "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn"
-    ],
-    "liquidityToken": "terra1pjfqacx7k6dg63v2h5q96zjg7w5q25093wnkjc",
-    "extra": {
-      "pairType": {
-        "xyk": {}
-      }
-    }
-  },
   "terra1yl2atgxw422qxahm02p364wtgu7gmeya237pcs": {
     "project": ["mirrorProtocol"],
     "dex": "terraswap",
@@ -228,7 +147,7 @@
     "liquidityToken": "terra1azk43zydh3sdxelg3h4csv4a4uef7fmjy0hu20"
   },
   "terra1tn8ejzw8kpuc87nu42f6qeyen4c7qy35tl8t20": {
-    "project": ["spectrum"],
+    "project": ["spectrumProtocol"],
     "dex": "terraswap",
     "assets": ["terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr", "uusd"],
     "liquidityToken": "terra1y9kxxm97vu4ex3uy0rgdr5h2vt7aze5sqx7jyl"
@@ -263,15 +182,6 @@
     "assets": ["uusd", "terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6"],
     "liquidityToken": "terra14uaqudeylx6tegamqmygh85lfq8qg2jmg7uucc"
   },
-  "terra167gwjhv4mrs0fqj0q5tejyl6cz6qc2cl95z530": {
-    "project": ["pylon", "nexus"],
-    "dex": "terraswap",
-    "assets": [
-      "terra1zsaswh926ey8qa5x4vj93kzzlfnef0pstuca0y",
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608"
-    ],
-    "liquidityToken": "terra1t4uuc09t4ld560vg2k9w2f5m9e5trftnym50zj"
-  },
   "terra17rvtq0mjagh37kcmm4lmpz95ukxwhcrrltgnvc": {
     "project": ["mirrorProtocol"],
     "dex": "terraswap",
@@ -294,15 +204,6 @@
     "dex": "terraswap",
     "assets": ["uusd", "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v"],
     "liquidityToken": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5"
-  },
-  "terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3": {
-    "project": ["nexus"],
-    "dex": "terraswap",
-    "assets": [
-      "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn",
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608"
-    ],
-    "liquidityToken": "terra1y8kxhfg22px5er32ctsgjvayaj8q36tr590qtp"
   },
   "terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s": {
     "project": ["mirrorProtocol"],
@@ -328,17 +229,6 @@
     "assets": ["terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76", "uusd"],
     "liquidityToken": "terra1gecs98vcuktyfkrve9czrpgtg0m3aq586x6gzm"
   },
-  "terra1v5ct2tuhfqd0tf8z0wwengh4fg77kaczgf6gtx": {
-    "project": ["nexus"],
-    "dex": "astroport",
-    "assets": ["terra12897djskt9rge8dtmm86w654g7kzckkd698608", "uusd"],
-    "liquidityToken": "terra1cspx9menzglmn7xt3tcn8v8lg6gu9r50d7lnve",
-    "extra": {
-      "pairType": {
-        "xyk": {}
-      }
-    }
-  },
   "terra13yftwgefkggq3u627gphq98s6ufwh9u85h5kmg": {
     "project": ["orne"],
     "dex": "astroport",
@@ -350,14 +240,8 @@
       }
     }
   },
-  "terra1ycp5lnn0qu4sq4wq7k63zax9f05852xt9nu3yc": {
-    "project": ["atlo"],
-    "dex": "terraswap",
-    "assets": ["terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx", "uusd"],
-    "liquidityToken": "terra1l0wqwge0vtfmukx028pluxsr7ee2vk8gl5mlxr"
-  },
   "terra1uvchkwq4kv0vhy23c78hyy72zks2hqtpctklh2": {
-    "project": ["terraWorld"],
+    "project": ["anotherWorld"],
     "dex": "terraswap",
     "assets": ["terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc", "uusd"],
     "liquidityToken": "terra1pndz6cy4t42qae4m7avkjjyu6vlcrlrx3hep0k"
@@ -386,13 +270,13 @@
     "liquidityToken": "terra122asauhmv083p02rhgyp7jn7kmjjm4ksexjnks"
   },
   "terra178jydtjvj4gw8earkgnqc80c3hrmqj4kw2welz": {
-    "project": ["pylon"],
+    "project": ["pylonProtocol"],
     "dex": "terraswap",
     "assets": ["terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy", "uusd"],
     "liquidityToken": "terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2"
   },
   "terra1e76nq6ll0vzy4apprphh0k5wqzzsndjakwd6x0": {
-    "project": ["r.E.S.Toads"],
+    "project": ["redEyedSpaceToads"],
     "dex": "astroport",
     "assets": ["terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh", "uusd"],
     "liquidityToken": "terra1qze0rv67swfl7zlr087snsxe6jdde5kka2ckx3",
@@ -401,21 +285,6 @@
         "xyk": {}
       }
     }
-  },
-  "terra1wez50a5t3658m6zyydaeyprtwwt8gtt0dcswlw": {
-    "project": ["terrnadoCash"],
-    "dex": "metaFrens",
-    "assets": ["terra16wggm67a34msdxasg2vergm2pt289y7930wv7d", "uusd"],
-    "liquidityToken": "terra1jer5s9ykl64cm7xxp6zea9myjgru6vp38h9yzf"
-  },
-  "terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx": {
-    "project": ["nexus", "nexus"],
-    "dex": "terraswap",
-    "assets": [
-      "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j",
-      "terra12897djskt9rge8dtmm86w654g7kzckkd698608"
-    ],
-    "liquidityToken": "terra1tuw46dwfvahpcwf3ulempzsn9a0vhazut87zec"
   },
   "terra1amv303y8kzxuegvurh0gug2xe9wkgj65enq2ux": {
     "project": ["mirrorProtocol"],
