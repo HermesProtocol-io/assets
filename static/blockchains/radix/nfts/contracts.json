@@ -310,5 +310,21 @@
     "icon": "https://i.ibb.co/Dt3Cksc/89.webp",
     "homepage": "https://vikingland.net/collection/Viking%20Warrior",
     "marketplace": []
+  },
+  "rdx1qsp05ckm5zvngyp42m8wvehf8y0jwax4h66sfgj88g8frxa8pctk55ck2emx6": {
+    "name": "Abandoned Scorpions",
+    "symbol": "SCORP",
+    "token": "scorp_rr1qw7dxlwpzx6he6y63epva9fa6ry997n8svvh5m2dzkgshv0jh8",
+    "icon": "https://radstrike.com/scorpions/img/0000_large.png",
+    "homepage": "https://radstrike.com/scorpions/",
+    "marketplace": []
+  },
+  "rdx1qspvyp7cwgwry7dygqklar8me3apcwtakqzu56q7dkqld4tpldckcwsucksnx": {
+    "name": "Radical Strikers: Genesis Rifles",
+    "symbol": "RSGR",
+    "token": "rsgr_rr1qv4l3uuysfgz5v7qfgmv44ca6dtfpsrfqk9j7xrl2t9qu9h62g",
+    "icon": "https://radstrike.com/rsgr/thumb.png",
+    "homepage": "https://radstrike.com/",
+    "marketplace": []
   }
 }
