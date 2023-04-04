@@ -334,7 +334,7 @@
         "https://mainnet.clana.io"
       ],
       "block": "",
-      "tx_URL": "https://explorer.radixdlt.com/#/transactions/%tx%/",
+      "tx": "https://explorer.radixdlt.com/#/transactions/%tx%/",
       "wallet": "https://explorer.radixdlt.com/#/accounts/%address%/",
       "validator": "https://explorer.radixdlt.com/#/validators/%validator%/"
     }
