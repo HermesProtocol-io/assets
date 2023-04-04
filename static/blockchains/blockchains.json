@@ -87,7 +87,7 @@
     "description": "",
     "chain_id": "mainnet",
     "prefix": "",
-    "icon": "https://assets.hermesprotocol.io/img/projects/near.png",
+    "icon": "https://near.org/wp-content/uploads/2021/09/brand-icon-300x300.png",
     "native_tokens": {
       "denoms": ["NEAR", "usn"]
     },
