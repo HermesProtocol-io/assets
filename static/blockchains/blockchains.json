@@ -316,7 +316,7 @@
     "description": "The only decentralized network that lets you build fast, rewards everyone who makes it better, and scales without friction.",
     "chain_id": "olympia",
     "prefix": "rdx",
-    "icon": "https://assets-global.website-files.com/6053f7fca5bf627283b582c2/6266da24f1cf78c68fb0c215_Radix-Icon-Transparent-400x400.png",
+    "icon": "https://assets-global.website-files.com/6053f7fca5bf627283b582c2/6266da249c0c7cd4101e952a_Radix-Icon-400x400.png",
     "native_tokens": {
       "denoms": ["xrd_rr1qy5wfsfh"]
     },
