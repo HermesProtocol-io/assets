@@ -321,9 +321,9 @@
       "denoms": ["xrd_rr1qy5wfsfh"]
     },
     "folder": "",
-    "tx_URL": "https://www.radixscan.io/transaction/%tx%/",
-    "wallet_URL": "https://www.radixscan.io/address/%address%/",
-    "validator_URL": "https://www.radixscan.io/validator/%validator%/",
+    "tx_URL": "https://www.radixscan.io/transaction/%tx%",
+    "wallet_URL": "https://www.radixscan.io/address/%address%",
+    "validator_URL": "https://www.radixscan.io/validator/%validator%",
     "URL": {
       "rest": [],
       "rpc": [
@@ -334,9 +334,9 @@
         "https://mainnet.clana.io"
       ],
       "block": "",
-      "tx": "https://www.radixscan.io/transaction/transactions/%tx%/",
-      "wallet": "https://www.radixscan.io/address/%address%/",
-      "validator": "https://www.radixscan.io/validator/%validator%/"
+      "tx": "https://www.radixscan.io/transaction/transactions/%tx%",
+      "wallet": "https://www.radixscan.io/address/%address%",
+      "validator": "https://www.radixscan.io/validator/%validator%"
     }
   }
 }
