@@ -87,7 +87,7 @@
     "description": "",
     "chain_id": "mainnet",
     "prefix": "",
-    "icon": "https://assets.hermesprotocol.io/img/projects/near.png",
+    "icon": "https://near.org/wp-content/uploads/2021/09/brand-icon-300x300.png",
     "native_tokens": {
       "denoms": ["NEAR", "usn"]
     },
@@ -316,11 +316,14 @@
     "description": "The only decentralized network that lets you build fast, rewards everyone who makes it better, and scales without friction.",
     "chain_id": "olympia",
     "prefix": "rdx",
-    "icon": "https://assets-global.website-files.com/6053f7fca5bf627283b582c2/606d99f3190d3a859603fbb5_r-symbol.svg",
+    "icon": "https://assets-global.website-files.com/6053f7fca5bf627283b582c2/6266da249c0c7cd4101e952a_Radix-Icon-400x400.png",
     "native_tokens": {
       "denoms": ["xrd_rr1qy5wfsfh"]
     },
     "folder": "",
+    "tx_URL": "https://www.radixscan.io/transaction/%tx%",
+    "wallet_URL": "https://www.radixscan.io/address/%address%",
+    "validator_URL": "https://www.radixscan.io/validator/%validator%",
     "URL": {
       "rest": [],
       "rpc": [
@@ -331,8 +334,9 @@
         "https://mainnet.clana.io"
       ],
       "block": "",
-      "tx": "https://www.radixscan.io/transaction/%tx%/",
-      "wallet": "https://www.radixscan.io/address/%address%/"
+      "tx": "https://www.radixscan.io/transaction/transactions/%tx%",
+      "wallet": "https://www.radixscan.io/address/%address%",
+      "validator": "https://www.radixscan.io/validator/%validator%"
     }
   }
 }
