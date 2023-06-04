@@ -1054,5 +1054,27 @@
       }
     },
     "dex": "astroport"
+  },
+  "terra1c7g9pmz2xxe66g8ujpe5tlmj3pawjp290f57cl43j6vswkdtrvwqkgme9q": {
+    "protocol": "Lion DAO",
+    "name": "ROAR/LUNA Pair",
+    "asset_infos": [
+      {
+        "token": {
+          "contract_addr": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+        }
+      },
+      {
+        "native_token": {
+          "denom": "uluna"
+        }
+      }
+    ],
+    "contract_addr": "terra1c7g9pmz2xxe66g8ujpe5tlmj3pawjp290f57cl43j6vswkdtrvwqkgme9q",
+    "liquidity_token": "terra1qmr5wagmeej33hsnqdmqyvkq6rg3sfkvflmu6gd6drhtjfpx4y5sew88s4",
+    "pair_type": {
+      "xyk": {}
+    },
+    "dex": "astroport"
   }
 }
