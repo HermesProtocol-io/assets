@@ -28,10 +28,10 @@
         "https://terra2.tdrsys.com:2053",
         "https://rpc-terra.wildsage.io"
       ],
-      "block": "https://terrasco.pe/mainnet/blocks/%block%/",
-      "tx": "https://terrasco.pe/mainnet/tx/%tx%/",
-      "wallet": "https://terrasco.pe/mainnet/address/%address%/",
-      "contract_query": "https://terrasco.pe/mainnet/address/%address%/smart/%b64query%"
+      "block": "https://chainsco.pe/mainnet/blocks/%block%/",
+      "tx": "https://chainsco.pe/mainnet/tx/%tx%/",
+      "wallet": "https://chainsco.pe/mainnet/address/%address%/",
+      "contract_query": "https://chainsco.pe/mainnet/address/%address%/smart/%b64query%"
     }
   },
   "terraClassic": {
